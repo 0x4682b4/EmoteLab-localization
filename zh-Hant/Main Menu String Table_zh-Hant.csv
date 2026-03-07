@@ -1,94 +1,94 @@
 Key,en,zh-Hant,reviewed
-MainMenu.TabHeaderLable.Editor,Editor,,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",,False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",,False
-MainMenu.Confirm,Confirm,,False
-MainMenu.Cancel,Cancel,,False
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,,False
-MainMenu.Editor.Model,Models,,False
-MainMenu.Editor.Character,Character,,False
-MainMenu.Editor.Animation,Animation,,False
-MainMenu.Editor.PartsSelection,Choose Parts,,False
-MainMenu.Editor.PartsAdjustment,Adjustment,,False
-MainMenu.Search,Search...,,False
-MainMenu.Editor.SaveCharacter,Save Character,,False
-MainMenu.Editor.Unload,Clear Character,,False
-MainMenu.Editor.DeleteCharacter,Delete Character,,False
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,,False
-MainMenu.Editor.ReloadTextures,Reload Textures,,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,,False
-MainMenu.Editor.Color,Color,,False
-MainMenu.Editor.TintColor,TintColor,,False
-MainMenu.Editor.TintBlackColor,TintBlackColor,,False
-MainMenu.Editor.LICENSE,LICENSE,,False
-MainMenu.Editor.AssetTypeAA,Default Assets,,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",,False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",,False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,,False
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,,False
-MainMenu.Settings.GeneralSettings,General Settings,,False
-MainMenu.Settings.GeneralSettings.Language,Language,,False
-MainMenu.Settings.ViewportSettings,Viewport Settings,,False
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,,False
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,,False
-MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,,False
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,,False
-MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,,False
-MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,,False
-MainMenu.Settings.ExportSettings,Animation Export Settings,,False
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,,False
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,,False
-MainMenu.Settings.ExportSettings.Encoder,Encoder,,False
-MainMenu.Settings.ExportSettings.Width,Width,,False
-MainMenu.Settings.ExportSettings.Height,Height,,False
-MainMenu.Settings.ExportSettings.FPS,FPS,,False
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,,False
-MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,,False
-MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,,False
-MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,,False
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,,False
-MainMenu.Editor.Export,Export Emote,,False
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,,False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,,False
-LicensePopup.Close,Close,,False
-MainMenu.Editor.OpenExportFolder,Open Export Folder,,False
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,,False
-MainMenu.Settings.ModelSettings,Model Settings,,False
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,,False
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,,False
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,,False
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),,False
-MainMenu.Info.Documentation,Documentation,,False
-MainMenu.Info.Discord,Join Our Discord,,False
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",,False
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,,False
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,,False
-MainMenu.Info.Log,Open Log Folder,,False
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,,False
-MainMenu.Editor.ExportStatic,Export Static Image,,False
-MainMenu.Editor.Player.Speed,Speed,,False
-MainMenu.Settings.StaticImageSettings,Static Image Settings,,False
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,,False
-MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,,False
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,,False
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,,False
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",,False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,,False
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,,False
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,,False
-MainMenu.Editor.Texture.Step1,Step 1,,False
-MainMenu.Editor.Texture.Step2,Step 2,,False
-MainMenu.Editor.Texture.Step3,Step 3,,False
-MainMenu.Editor.Texture.Step4,Step 4,,False
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,,False
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,,False
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,,False
-MainMenu.Editor.Texture.SelectAll,Select All,,False
-MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,,False
-MainMenu.Editor.Texture.AtlasList,Atlas List,,False
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,,False
-MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,,False
+MainMenu.TabHeaderLable.Editor,Editor,編輯,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",您確定要刪除字元“{0}”嗎？此操作無法撤銷。,False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",字元“{0}”已存在。您確定要覆蓋字元“{0}”嗎？此操作無法撤銷。,False
+MainMenu.Confirm,Confirm,確認,False
+MainMenu.Cancel,Cancel,取消,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,請輸入角色名稱：,False
+MainMenu.Editor.Model,Models,型號,False
+MainMenu.Editor.Character,Character,特點,False
+MainMenu.Editor.Animation,Animation,卡通,False
+MainMenu.Editor.PartsSelection,Choose Parts,選擇零件,False
+MainMenu.Editor.PartsAdjustment,Adjustment,調整,False
+MainMenu.Search,Search...,搜尋...,False
+MainMenu.Editor.SaveCharacter,Save Character,儲存角色,False
+MainMenu.Editor.Unload,Clear Character,鮮明的性格,False
+MainMenu.Editor.DeleteCharacter,Delete Character,刪除角色,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,使用自訂紋理,False
+MainMenu.Editor.ReloadTextures,Reload Textures,重新加載紋理,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,打開自訂紋理資料夾,False
+MainMenu.Editor.Color,Color,顏色,False
+MainMenu.Editor.TintColor,TintColor,色調顏色,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,淡黑色,False
+MainMenu.Editor.LICENSE,LICENSE,執照,False
+MainMenu.Editor.AssetTypeAA,Default Assets,預設資產,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,第三方資產,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,名稱不能為空。,False
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,名稱不能超過 {0} 個字元。,False
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",名稱不能包含字元“{0}”。,False
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",“{0}”是保留名稱，不能使用。,False
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,名稱不能以點結尾。,False
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,名稱不能僅包含空格。,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,卸載目前模型,False
+MainMenu.Settings.GeneralSettings,General Settings,常規設定,False
+MainMenu.Settings.GeneralSettings.Language,Language,語言,False
+MainMenu.Settings.ViewportSettings,Viewport Settings,視窗設定,False
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,變焦速度,False
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,轉速,False
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,模型比例,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,水平偏移,False
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,垂直偏移,False
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,重置視口設定,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,動畫匯出設定,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,儲存位置,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,導出預設,False
+MainMenu.Settings.ExportSettings.Encoder,Encoder,編碼器,False
+MainMenu.Settings.ExportSettings.Width,Width,寬度,False
+MainMenu.Settings.ExportSettings.Height,Height,高度,False
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,限制最大值幀數,False
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,最大限度。幀數,False
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,阿爾法閾值,False
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,啟用抖動,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,重置導出設定,False
+MainMenu.Editor.Export,Export Emote,導出表情,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,由模型創建者提供的許可。僅供參考，不代表EmoteLab開發者的觀點或法律立場。,False
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,未找到許可證。與創建者確認允許的使用。,False
+LicensePopup.Close,Close,關閉,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,打開匯出資料夾,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,載入內建模型的範例字符,False
+MainMenu.Settings.ModelSettings,Model Settings,模型設定,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,正在儲存角色資料...,False
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,正在載入角色...,False
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,第三方許可證,False
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),最終用戶許可協議 (EULA),False
+MainMenu.Info.Documentation,Documentation,文件,False
+MainMenu.Info.Discord,Join Our Discord,加入我們的不和諧,False
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",此預設設定正確的格式和尺寸。很長的動畫可能會超出平台檔案大小限制，並且某些平台會限制某些內容。,False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,打開本地模型資料夾,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,打開角色資料夾,False
+MainMenu.Info.Log,Open Log Folder,打開日誌資料夾,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,使用全域色表,False
+MainMenu.Editor.ExportStatic,Export Static Image,導出靜態影像,False
+MainMenu.Editor.Player.Speed,Speed,速度,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,靜態影像設定,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,重置靜態影像設定,False
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,取樣率,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,此切換可讓您在內部紋理和自訂紋理之間切換,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,編輯自訂紋理資料夾中的 PNG。以透明度儲存且不修改圖片大小,False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",儲存編輯後，點擊此按鈕將變更套用到您的模型。,False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,保存你的角色。儲存按鈕位於介面左側角色清單下方。,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,在使用此功能之前，請先閱讀使用自訂紋理手冊。,False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,自訂紋理,False
+MainMenu.Editor.Texture.Step1,Step 1,步驟1,False
+MainMenu.Editor.Texture.Step2,Step 2,步驟2,False
+MainMenu.Editor.Texture.Step3,Step 3,步驟3,False
+MainMenu.Editor.Texture.Step4,Step 4,步驟4,False
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,修復選定的輪廓,False
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,重置選定的圖集,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,紋理實用程式,False
+MainMenu.Editor.Texture.SelectAll,Select All,選擇全部,False
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,切換選擇,False
+MainMenu.Editor.Texture.AtlasList,Atlas List,圖集列表,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,這會將選定的圖集頁面重設為內建版本。任何未儲存的編輯都將遺失且無法復原。繼續？,False
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,調色板演算法,False

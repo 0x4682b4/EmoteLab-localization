@@ -5,16 +5,24 @@ from deep_translator import GoogleTranslator
 # --- Configuration ---
 SOURCE_COL = 'en'  # The column to translate
 
-def proc_file(file_path, target_lang, translator):
+def safe_translate(text, translator):
+    # Basic check for empty strings or purely whitespace
+    try:
+        return translator.translate(text)
+    except Exception:
+        # If any error occurs, return a placeholder
+        return text
+
+def translate_file(file_path, target_lang_code, translator):
     df = pd.read_csv(file_path, dtype=str, keep_default_na=False)
 
     # 1. Ensure the target column exists
-    if target_lang not in df.columns:
-        print(f"missing column {target_lang}")
+    if target_lang_code not in df.columns:
+        print(f"missing column {target_lang_code}")
         return
 
     # 2. Identify rows that need translation (Source exists AND Target is null)
-    mask = (df[SOURCE_COL] != "") & (df[target_lang] == "")
+    mask = (df[SOURCE_COL] != "") & (df[target_lang_code] == "")
 
     rows_to_translate = df[mask]
 
@@ -28,10 +36,10 @@ def proc_file(file_path, target_lang, translator):
     texts = rows_to_translate[SOURCE_COL].astype(str).tolist()
 
     # Translate batch
-    translated_texts = translator.translate_batch(texts)
+    translated_texts = [safe_translate(t, translator) for t in texts]
 
     # 3. Use .loc to update ONLY the specific rows that were null
-    df.loc[mask, target_lang] = translated_texts
+    df.loc[mask, target_lang_code] = translated_texts
 
     # Save the updated CSV
     df.to_csv(file_path, index=False)
@@ -62,9 +70,13 @@ def lang_dirs(root):
     return dirs.intersection(langs).union({'zh-Hant'})
 
 def proc(root):
-    for dir in lang_dirs(root):
-        # translator = GoogleTranslator(source=SOURCE_COL, target=target_code)
-        lang_dir_walk(root + dir, 'add-rev-col', add_reviewed_column)
+    for dirstr in lang_dirs(root):
+        if dirstr == 'zh-Hant':
+            target_code = 'zh-TW'
+        else:
+            target_code = dirstr
+        translator = GoogleTranslator(source=SOURCE_COL, target=target_code)
+        lang_dir_walk(root + dirstr, 'translate', lambda x: translate_file(x, dirstr, translator))
 
 if __name__ == "__main__":
     proc('../')

@@ -1,29 +1,29 @@
 Key,en,zh-Hant,reviewed
-Eyelash Length,Eyelash Length,,False
-Brows Distance,Brows Distance,,False
-Brows Height,Brows Height,,False
-Ear Shape 1,Ear Shape 1,,False
-Ear Shape 2,Ear Shape 2,,False
-Hair Bang >< Length,Hair Bang >< Length,,False
-Hair Bang >< Shear,Hair Bang >< Shear,,False
-Hair Bang >> Position,Hair Bang >> Position,,False
-Hair Bang >> Length,Hair Bang >> Length,,False
-Hair Bang >> Shear,Hair Bang >> Shear,,False
-Hair Bang << Position,Hair Bang << Position,,False
-Hair Bang << Length,Hair Bang << Length,,False
-Hair Bang << Shear,Hair Bang << Shear,,False
-Hair Framing << Length,Hair Framing << Length,,False
-Hair Framing >> Length,Hair Framing >> Length,,False
-Hair Side Length,Hair Side Length,,False
-Hair Rear Length,Hair Rear Length,,False
-Ahoge Position,Ahoge Position,,False
-Ahoge Angle,Ahoge Angle,,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,,False
-Fin & Gill Position,Fin & Gill Position,,False
-Halo Position,Halo Position,,False
-Hat Position,Hat Position,,False
-Horn >> Length,Horn >> Length,,False
-Horn << Length,Horn << Length,,False
-Horn >< Length,Horn >< Length,,False
-Horn Position,Horn Position,,False
-Ear Wing Position,Ear Wing Position,,False
+Eyelash Length,Eyelash Length,睫毛長度,False
+Brows Distance,Brows Distance,眉間距離,False
+Brows Height,Brows Height,眉毛高度,False
+Ear Shape 1,Ear Shape 1,耳朵形狀1,False
+Ear Shape 2,Ear Shape 2,耳朵形狀2,False
+Hair Bang >< Length,Hair Bang >< Length,瀏海>< 長度,False
+Hair Bang >< Shear,Hair Bang >< Shear,瀏海 >< 剪髮,False
+Hair Bang >> Position,Hair Bang >> Position,瀏海 >> 位置,False
+Hair Bang >> Length,Hair Bang >> Length,瀏海 >> 長度,False
+Hair Bang >> Shear,Hair Bang >> Shear,發瀏海 >> 剪,False
+Hair Bang << Position,Hair Bang << Position,瀏海 << 位置,False
+Hair Bang << Length,Hair Bang << Length,瀏海 << 長度,False
+Hair Bang << Shear,Hair Bang << Shear,頭髮瀏海 << 剪,False
+Hair Framing << Length,Hair Framing << Length,頭髮框架 << 長度,False
+Hair Framing >> Length,Hair Framing >> Length,發框 >> 長度,False
+Hair Side Length,Hair Side Length,頭髮側長,False
+Hair Rear Length,Hair Rear Length,頭髮後長,False
+Ahoge Position,Ahoge Position,奧格位置,False
+Ahoge Angle,Ahoge Angle,奧格角,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物耳朵和天線位置,False
+Fin & Gill Position,Fin & Gill Position,鰭和鰓的位置,False
+Halo Position,Halo Position,光環位置,False
+Hat Position,Hat Position,帽子位置,False
+Horn >> Length,Horn >> Length,喇叭>>長度,False
+Horn << Length,Horn << Length,喇叭 << 長度,False
+Horn >< Length,Horn >< Length,喇叭 >< 長度,False
+Horn Position,Horn Position,喇叭位置,False
+Ear Wing Position,Ear Wing Position,耳翼位置,False
