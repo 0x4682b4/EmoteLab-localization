@@ -1,6 +1,6 @@
 Key,en,de,reviewed
 Hair Ahoge,Hair Ahoge,Haare Ahoge,True
-Hair Ahoge Outline,Hair Ahoge Outline,Haar-Ahoge-Umriss,True
+Hair Ahoge Outline,Hair Ahoge Outline,Haare Ahoge Umriss,True
 Animal Ear >>,Animal Ear >>,Tierohr >>,True
 Animal Ear >> Fur,Animal Ear >> Fur,Tierohr >> Fell,True
 Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Tierohr >> Fellumriss,True
@@ -36,11 +36,11 @@ Eye Iris Dark >>,Eye Iris Dark >>,Augeniris dunkel >>,True
 Eye Iris Dark <<,Eye Iris Dark <<,Augeniris dunkel <<,True
 Eye Dollar,Eye Dollar,Augendollar,True
 Eye Heart,Eye Heart,Augenherz,True
-Eye Highlight,Eye Highlight,Augen-Highlight,True
+Eye Highlight,Eye Highlight,Augen Highlight,True
 Eyelashes,Eyelashes,Wimpern,True
 Eye Iris Light >>,Eye Iris Light >>,Augeniris hell >>,True
 Eye Iris Light <<,Eye Iris Light <<,Augeniris hell <<,True
-Eye(Dum) Outline,Eye(Dum) Outline,Augen(Dum)-Umriss,False
+Eye(Dum) Outline,Eye(Dum) Outline,Augen(Dum) Umriss,False
 Eye Sparkling,Eye Sparkling,Augenfunkeln,True
 Eye Spiral,Eye Spiral,Augenspirale,True
 Eye White,Eye White,Augenweiß,True
@@ -54,7 +54,7 @@ Hair Framing >> Outline,Hair Framing >> Outline,Seitensträhnen >> Umriss,True
 Hair Framing <<,Hair Framing <<,Seitensträhnen <<,True
 Hair Framing << Outline,Hair Framing << Outline,Seitensträhnen << Umriss,True
 Gill,Gill,Kieme,True
-Gill Outline,Gill Outline,Kiemen-Umriss,True
+Gill Outline,Gill Outline,Kiemen Umriss,True
 Glasses,Glasses,Brille,True
 Hairband A,Hairband A,Haarband A,True
 Hairband A Outline,Hairband A Outline,Haarband A Umriss,True
@@ -74,37 +74,37 @@ Hair Clip >>,Hair Clip >>,Haarspange >>,True
 Hair Clip >> Outline,Hair Clip >> Outline,Haarspange >> Umriss,True
 Hair Clip <<,Hair Clip <<,Haarspange <<,True
 Hair Clip << Outline,Hair Clip << Outline,Haarspange << Umriss,True
-Hair Highlight 1 >>,Hair Highlight 1 >>,Haar-Highlight 1 >>,True
-Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Haar-Highlight 1 >> Umriss,True
-Hair Highlight 2 >>,Hair Highlight 2 >>,Haar-Highlight 2 >>,True
-Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Haar-Highlight 2 >> Umriss,True
-Hair Highlight 3 >>,Hair Highlight 3 >>,Haar-Highlight 3 >>,True
-Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Haar-Highlight 3 >> Umriss,True
-Hair Highlight 1 ><,Hair Highlight 1 ><,Haar-Highlight 1 ><,True
-Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Haar-Highlight 1 >< Umriss,True
-Hair Highlight 2 ><,Hair Highlight 2 ><,Haar-Highlight 2 ><,True
-Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Haar-Highlight 2 >< Umriss,True
-Hair Highlight 3 ><,Hair Highlight 3 ><,Haar-Highlight 3 ><,True
-Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Haar-Highlight 3 >< Umriss,True
-Hair Highlight 4 ><,Hair Highlight 4 ><,Haar-Highlight 4 ><,True
-Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Haar-Highlight 4 >< Umriss,True
-Hair Highlight 5 ><,Hair Highlight 5 ><,Haar-Highlight 5 ><,True
-Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Haar-Highlight 5 >< Umriss,True
-Hair Highlight 6 ><,Hair Highlight 6 ><,Haar-Highlight 6 ><,True
-Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Haar-Highlight 6 >< Umriss,True
-Hair Highlight 1 <<,Hair Highlight 1 <<,Haar-Highlight 1 <<,True
-Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Haar-Highlight 1 << Umriss,True
-Hair Highlight 2 <<,Hair Highlight 2 <<,Haar-Highlight 2 <<,True
-Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Haar-Highlight 2 << Umriss,True
-Hair Highlight 3 <<,Hair Highlight 3 <<,Haar-Highlight 3 <<,True
-Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Haar-Highlight 3 << Umriss,True
-Hairline Outline,Hairline Outline,Haarlinien-Umriss,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,Haar Highlight 1 >>,True
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Haar Highlight 1 >> Umriss,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,Haar Highlight 2 >>,True
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Haar Highlight 2 >> Umriss,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,Haar Highlight 3 >>,True
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Haar Highlight 3 >> Umriss,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,Haar Highlight 1 ><,True
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Haar Highlight 1 >< Umriss,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,Haar Highlight 2 ><,True
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Haar Highlight 2 >< Umriss,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,Haar Highlight 3 ><,True
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Haar Highlight 3 >< Umriss,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,Haar Highlight 4 ><,True
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Haar Highlight 4 >< Umriss,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,Haar Highlight 5 ><,True
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Haar Highlight 5 >< Umriss,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,Haar Highlight 6 ><,True
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Haar Highlight 6 >< Umriss,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,Haar Highlight 1 <<,True
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Haar Highlight 1 << Umriss,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,Haar Highlight 2 <<,True
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Haar Highlight 2 << Umriss,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,Haar Highlight 3 <<,True
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Haar Highlight 3 << Umriss,True
+Hairline Outline,Hairline Outline,Haarlinien Umriss,True
 Hair Shine,Hair Shine,Haarglanz,True
 Hair Shine Outline,Hair Shine Outline,Haarglanz Umriss,True
 Halo,Halo,Heiligenschein,True
-Halo Outline,Halo Outline,Halo-Umriss,True
+Halo Outline,Halo Outline,Heiligenschein Umriss,True
 Hat,Hat,Hut,True
-Hat Outline,Hat Outline,Hut-Umriss,True
+Hat Outline,Hat Outline,Hut Umriss,True
 Hat Secondary,Hat Secondary,Hut Sekundär,True
 Hat Secondary Outline,Hat Secondary Outline,Hut Sekundär Umriss,True
 Hammer,Hammer,Hammer,True
@@ -123,7 +123,7 @@ Jail Grill,Jail Grill,Gefängnis,True
 Keyboard,Keyboard,Tastatur,True
 Kitchen Knife,Kitchen Knife,Küchenmesser,True
 Laptop,Laptop,Laptop,True
-Laptop Light,Laptop Light,Laptop-Licht,False
+Laptop Light,Laptop Light,Laptop Licht,False
 Leg >>,Leg >>,Bein >>,True
 Leg <<,Leg <<,Bein <<,True
 Lightstick Handle,Lightstick Handle,Leuchtstabgriff,True
@@ -132,28 +132,28 @@ Light Stick <<,Light Stick <<,Leuchtstab <<,True
 Mecha,Mecha,Mecha,True
 Mecha >>,Mecha >>,Mecha >>,True
 Mecha >> Outline,Mecha >> Outline,Mecha >> Umriss,True
-Mecha Outline,Mecha Outline,Mecha-Umriss,True
+Mecha Outline,Mecha Outline,Mecha Umriss,True
 Mecha <<,Mecha <<,Mecha <<,True
 Mecha << Outline,Mecha << Outline,Mecha << Umriss,True
 Mouse,Mouse,Maus,True
 Mouth/Tongue,Mouth/Tongue,Mund/Zunge,True
-Mouth/Tongue Shadow,Mouth/Tongue Shadow,Mund-/Zungenschatten,True
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,Mund/Zungenschatten,True
 Notepad,Notepad,Notizblock,True
-Outfit Collar,Outfit Collar,Outfit-Kragen,True
-Outfit Collar Outline,Outfit Collar Outline,Outfit-Kragen-Umriss,True
+Outfit Collar,Outfit Collar,Outfit Kragen,True
+Outfit Collar Outline,Outfit Collar Outline,Outfit Kragen Umriss,True
 Outfit Inner,Outfit Inner,Outfit innen,True
 Outfit Inner Outline,Outfit Inner Outline,Outfit innen Umriss,True
-Outfit Neckwear A,Outfit Neckwear A,Outfit Krawatte A,True
-Outfit Neckwear A Outline,Outfit Neckwear A Outline,Outfit Krawatte A Umriss,True
-Outfit Neckwear B,Outfit Neckwear B,Outfit Krawatte B,True
-Outfit Neckwear B Outline,Outfit Neckwear B Outline,Outfit Krawatte B Umriss,True
-Outfit Neckwear C,Outfit Neckwear C,Outfit Krawatte C,True
-Outfit Neckwear C Outline,Outfit Neckwear C Outline,Outfit Krawatte C Umriss,True
-Outfit Outer,Outfit Outer,Äußeres Outfit,True
+Outfit Neckwear A,Outfit Neckwear A,Outfit Halsschmuck A,True
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Outfit Halsschmuck A Umriss,True
+Outfit Neckwear B,Outfit Neckwear B,Outfit Halsschmuck B,True
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Outfit Halsschmuck B Umriss,True
+Outfit Neckwear C,Outfit Neckwear C,Outfit Halsschmuck C,True
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Outfit Halsschmuck C Umriss,True
+Outfit Outer,Outfit Outer,Outfit außen,True
 Outfit Outer Outline,Outfit Outer Outline,Outfit außen Umriss,True
 Pencil,Pencil,Bleistift,True
 Phone,Phone,Telefon,True
-Phone Light,Phone Light,Telefonlicht,False
+Phone Light,Phone Light,Telefon Licht,False
 Hair Pigtail >>,Hair Pigtail >>,Haarzopf >>,True
 Hair Pigtail >> Outline,Hair Pigtail >> Outline,Haarzopf >> Umriss,True
 Hair Pigtail <<,Hair Pigtail <<,Haarzopf <<,True
@@ -161,8 +161,8 @@ Hair Pigtail << Outline,Hair Pigtail << Outline,Haarzopf << Umriss,True
 Rose,Rose,Rose,True
 Round Sign,Round Sign,Rundes Schild,True
 Round Sign Text,Round Sign Text,Rundes Schild Text,True
-Hair Side,Hair Side,Haarseite,True
-Hair Side Outline,Hair Side Outline,Haarseite Umriss,True
+Hair Side,Hair Side,Haare Seite,True
+Hair Side Outline,Hair Side Outline,Haare Seite Umriss,True
 Skin,Skin,Haut,True
 Skin Outline,Skin Outline,Hautumriss,True
 Square Sign,Square Sign,Quadratisches Schild,True
@@ -170,9 +170,9 @@ Square Sign Text,Square Sign Text,Quadratisches Schild Text,True
 Steering Wheel,Steering Wheel,Lenkrad,True
 Gas Bottle,Gas Bottle,Gasflasche,True
 Pat Hand,Pat Hand,Streichelhand,True
-Sticker Alert,Sticker Alert,Aufkleber-Alert,True
-Sticker Alert Effect,Sticker Alert Effect,Aufkleber-Alert Effekt,True
-Sticker Alert Outline,Sticker Alert Outline,Aufkleber-Alert Umriss,True
+Sticker Alert,Sticker Alert,Aufkleber Alert,True
+Sticker Alert Effect,Sticker Alert Effect,Aufkleber Alert Effekt,True
+Sticker Alert Outline,Sticker Alert Outline,Aufkleber Alert Umriss,True
 Sticker Angry,Sticker Angry,Aufkleber Wütend,True
 Sticker Exclamation Mark,Sticker Exclamation Mark,Aufkleber Ausrufezeichen,True
 Sticker Ghost,Sticker Ghost,Aufkleber Geist,True
@@ -189,5 +189,5 @@ Sticker Volume,Sticker Volume,Aufkleber Lautstärke,True
 Sticky Note,Sticky Note,Haftnotiz,True
 Sticky Note Text,Sticky Note Text,Haftnotiz Text,True
 Eye Tear,Eye Tear,Augentränen,True
-Utensil,Utensil,Utensil,True
-Outfit Collar String,Outfit Collar String,Outfit-Kragenschnur,True
+Utensil,Utensil,Besteck,True
+Outfit Collar String,Outfit Collar String,Outfit Kragenschnur,True

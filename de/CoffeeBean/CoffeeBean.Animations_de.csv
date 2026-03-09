@@ -28,7 +28,7 @@ Dum 3,Dum 3,Dum 3,True
 Dum Sticker 1,Dum Sticker 1,Dum-Aufkleber 1,True
 Dum Sticker 2,Dum Sticker 2,Dum-Aufkleber 2,True
 Dum Sticker 3,Dum Sticker 3,Dum-Aufkleber 3,True
-Exclamation,Exclamation,Ausruf,False
+Exclamation,Exclamation,Ausrufezeichen,False
 Jail 1,Jail 1,Gefängnis 1,True
 Jail 2,Jail 2,Gefängnis 2,True
 Knife 1,Knife 1,Messer 1,True
@@ -37,8 +37,8 @@ Laugh,Laugh,Lachen,True
 Lick,Lick,Lecken,True
 Lightstick 1,Lightstick 1,Leuchtstab 1,True
 Lightstick 2,Lightstick 2,Leuchtstab 2,True
-Lurk 1,Lurk 1,Lauern 1,False
-Lurk 2,Lurk 2,Lauern 2,False
+Lurk 1,Lurk 1,Lurken 1,False
+Lurk 2,Lurk 2,Lurken 2,False
 Luv 1,Luv 1,Liebe 1,True
 Luv 2,Luv 2,Liebe 2,True
 Luv 3,Luv 3,Liebe 3,True
@@ -54,14 +54,14 @@ Point,Point,Zeigen,True
 Question,Question,Frage,True
 Raid 1,Raid 1,Raid 1,True
 Raid 2,Raid 2,Raid 2,True
-RedPacket 1,RedPacket 1,RedPacket 1,False
-RedPacket 2,RedPacket 2,RedPacket 2,False
+RedPacket 1,RedPacket 1,Glücksumschlag 1,False
+RedPacket 2,RedPacket 2,Glücksumschlag 2,False
 Rose,Rose,Rose,True
 Score (0 Point),Score (0 Point),Punkte (0),True
 Score (10 Point),Score (10 Point),Punkte (10),True
 Shy 1,Shy 1,Schüchtern 1,True
 Shy 2,Shy 2,Schüchtern 2,True
-Sleep (Normal),Sleep (Normal),Schlaf (normal),True
+Sleep (Normal),Sleep (Normal),Schlaf (Normal),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Schlaf (Vorbereitung 1),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Schlaf (Vorbereitung 2),True
 Sleep (UU),Sleep (UU),Schlaf (UU),True
@@ -75,5 +75,5 @@ Type Annoyed,Type Annoyed,Tippen Genervt,True
 Type Normal,Type Normal,Tippen Normal,True
 Work Angry,Work Angry,Arbeit Wütend,True
 Work Nap,Work Nap,Arbeit Nickerchen,True
-Work Normal,Work Normal,Arbeit normal,True
+Work Normal,Work Normal,Arbeit Normal,True
 Work Tired,Work Tired,Arbeit Müde,True
