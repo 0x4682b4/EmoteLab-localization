@@ -7,8 +7,8 @@ dct_reviewed = {}
 
 def summarize(file_path, target_lang):
     df = pd.read_csv(file_path)
-    dct_totals[target_lang] = len(df['reviewed'])
-    dct_reviewed[target_lang] = df['reviewed'].sum()
+    dct_totals[target_lang] += len(df['reviewed'])
+    dct_reviewed[target_lang] += df['reviewed'].sum()
 
 
 def proc(root, target_lang):
