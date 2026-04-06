@@ -22,12 +22,12 @@ Drink (Beverage Cup),Drink (Beverage Cup),음료 마시기(음료컵),True
 Drive,Drive,운전하기,True
 Drooling (Chopstick),Drooling (Chopstick),침흘림(젓가락),True
 Drooling (Fork&Knife),Drooling (Fork&Knife),침흘림(포크&나이프),True
-Dum 1,Dum 1,Dum(바보) 1,True
-Dum 2,Dum 2,Dum(바보) 2,True
-Dum 3,Dum 3,Dum(바보) 3,True
-Dum Sticker 1,Dum Sticker 1,Dum(바보) 스티커 1,True
-Dum Sticker 2,Dum Sticker 2,Dum(바보) 스티커 2,True
-Dum Sticker 3,Dum Sticker 3,Dum(바보) 스티커 3,True
+Dum 1,Dum 1,바보 1,True
+Dum 2,Dum 2,바보 2,True
+Dum 3,Dum 3,바보 3,True
+Dum Sticker 1,Dum Sticker 1,바보 스티커 1,True
+Dum Sticker 2,Dum Sticker 2,바보 스티커 2,True
+Dum Sticker 3,Dum Sticker 3,바보 스티커 3,True
 Exclamation,Exclamation,깜짝,True
 Jail 1,Jail 1,감옥 1,True
 Jail 2,Jail 2,감옥 2,True
