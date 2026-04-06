@@ -1,95 +1,95 @@
-Key,en,tr
-MainMenu.TabHeaderLable.Editor,Editor,Editör
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","""{{0}“ isimli karakteri silmek istediğinizden emin misiniz? Bu karar geri alınamaz."
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","""{0}“ İsimli karakter halihazırda mevcut. „{0}“ isimli karakterin üstüne yazmak istediğinizden emin misiniz? Bu karar geri alınamaz."
-MainMenu.Confirm,Confirm,Onayla
-MainMenu.Cancel,Cancel,İptal et
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Lütfen bir karakter ismi giriniz.
-MainMenu.Editor.Model,Models,Modeller
-MainMenu.Editor.Character,Character,Karakter
-MainMenu.Editor.Animation,Animation,Animasyon
-MainMenu.Editor.PartsSelection,Choose Parts,Bölüm Seç
-MainMenu.Editor.PartsAdjustment,Adjustment,Düzenleme
-MainMenu.Search,Search...,Ara...
-MainMenu.Editor.SaveCharacter,Save Character,Karakteri Kaydet
-MainMenu.Editor.Unload,Clear Character,Karakteri Sıfırla
-MainMenu.Editor.DeleteCharacter,Delete Character,Karakteri Sil
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,Özel Doku Kullan
-MainMenu.Editor.ReloadTextures,Reload Textures,Dokuları Yinele
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Özel Doku Klasörünü Aç
-MainMenu.Editor.Color,Color,Renk
-MainMenu.Editor.TintColor,TintColor,Ana Renk
-MainMenu.Editor.TintBlackColor,TintBlackColor,Alt Renk
-MainMenu.Editor.LICENSE,LICENSE,LİSANS
-MainMenu.Editor.AssetTypeAA,Default Assets,Standart İçerikler
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Üçüncü Parti İçerikler
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,İsim boş bırakılamaz.
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,"İsim, {0} harfi geçemez."
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","İsimde ""{0}“ sembolü olamaz."
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}“ ismi rezerve bir isimdir ve kullanılamaz."
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,İsim nokta ile bitemez.
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,İsim sadece boşluktan oluşamaz.
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Ekrandaki modeli kaldır
-MainMenu.Settings.GeneralSettings,General Settings,Genel Ayarlar
-MainMenu.Settings.GeneralSettings.Language,Language,Dil
-MainMenu.Settings.ViewportSettings,Viewport Settings,Model Alanı Tuş Ayarları
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Yakınlaştırma Hızı
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Döndürme Hızı
-MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modele Odakla
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Yatay Ofset
-MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Dikey Ofset
-MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Model Alanı Tuş Ayarlarını Sıfırla
-MainMenu.Settings.ExportSettings,Animation Export Settings,Animasyon Dışarı Aktarma Ayarları
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Kayıt Lokasyonu
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Dışa Aktarım Ön Ayarları
-MainMenu.Settings.ExportSettings.Encoder,Encoder,Encoder
-MainMenu.Settings.ExportSettings.Width,Width,Genişlik
-MainMenu.Settings.ExportSettings.Height,Height,Yükseklik
-MainMenu.Settings.ExportSettings.FPS,FPS,FPS
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Maks. Kare Hızını Limitle
-MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Maks. Kare Hızı
-MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Başlangıç Değeri
-MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Titremeye İzin Ver
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Dışarı Aktarma Ayarlarını Sıfırla
-MainMenu.Editor.Export,Export Emote,Emoji Dışa Aktar
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position.,"Lisans, modelin yaratıcısı tarafından sağlanmıştır. Yalnızca referans amacıyla gösterilmiştir ve EmoteLab geliştiricisinin görüşlerini veya yasal konumunu temsil etmemektedir."
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Lisans bulunamadı. Lütfen kullanım iznini yapımcıyla teyit edin.
-LicensePopup.Close,Close,Kapat
-MainMenu.Editor.OpenExportFolder,Open Export Folder,Dışa Aktarılan Dosyayı Göster
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Gömülü Modeller için Örnek Karakterler Yükle
-MainMenu.Settings.ModelSettings,Model Settings,Model Ayarları
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Karakter Verileri Kaydediliyor...
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Karakter Yükleniyor...
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Üçüncü Parti Lisansları
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Son Kullanıcı Lisans Anlaşması (EULA)
-MainMenu.Info.Documentation,Documentation,Dokümantasyon
-MainMenu.Info.Discord,Join Our Discord,Discord'umuza Katıl
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",Bu ön ayar doğru formatı ve boyutları doğru ayarlar. Çok uzun animasyonlar platformların boyut limitini aşabilir. Aynı zamanda bazı platformlar belli başlı içeriklere izin vermiyor olabilir.
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Yerel Model Dosyasını Aç
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Karakter Dosyasını Aç
-MainMenu.Info.Log,Open Log Folder,Sistem Günlüğü Dosyasını Aç
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Küresel Renk Tablosunu Kullanarak
-MainMenu.Editor.ExportStatic,Export Static Image,Düz Resim Dışarı Aktar
-MainMenu.Editor.Player.Speed,Speed,Hız
-MainMenu.Settings.StaticImageSettings,Static Image Settings,Düz Resim Ayarları
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Düz Resim Ayarlarını sıfırla
-MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Örnekleme Oranı
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,"Bu ayar, uygulama içinde bulunan ve özel olarak eklenen dokular arasında geçiş yapmanızı sağlar"
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,PNG'leri Özel Doku dosyasında düzenleyin. Transparant olarak resmi kaydedin ve yüksekliğini/genişliğini değiştirmeyin
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",Düzenlemeniz bittikten sonra bu tuşa basıp değişikliklerin modele uygulanmasını sağlayın.
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,"Karakterinizi kaydedin. Kaydetme tuşu arayüzün solunda, karakter listesinin altında bulunur."
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Lütfen bu özelliği kullanmadan önce Özel Doku Kullanma rehberini okuyun.
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,Özel Doku
-MainMenu.Editor.Texture.Step1,Step 1,Adım 1
-MainMenu.Editor.Texture.Step2,Step 2,Adım 2
-MainMenu.Editor.Texture.Step3,Step 3,Adım 3
-MainMenu.Editor.Texture.Step4,Step 4,Adım 4
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Seçili Atlasları Güncelle
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Seçili Atlasları Sıfırla
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,Doku Hizmetleri
-MainMenu.Editor.Texture.SelectAll,Select All,Hepsini seç
-MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Tersini Seç
-MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas Listesi
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Değiştirilen Atlas'ları gömülü versiyonlardaki hallerine geri getirecek. Kaydedilmeyen düzenlemeler kaybolacak ve geri getirilemeyecektir. Devam edilsin mi?
-MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palet Algoritması
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Doku dosyalarının üstüne dosyalardaki dokular yazılacak. Devam edilsin mi?
+Key,en,tr,Reviewed
+MainMenu.TabHeaderLable.Editor,Editor,Editör,True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","""{{0}“ isimli karakteri silmek istediğinizden emin misiniz? Bu karar geri alınamaz.",True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","""{0}“ İsimli karakter halihazırda mevcut. „{0}“ isimli karakterin üstüne yazmak istediğinizden emin misiniz? Bu karar geri alınamaz.",True
+MainMenu.Confirm,Confirm,Onayla,True
+MainMenu.Cancel,Cancel,İptal et,True
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Lütfen bir karakter ismi giriniz.,True
+MainMenu.Editor.Model,Models,Modeller,True
+MainMenu.Editor.Character,Character,Karakter,True
+MainMenu.Editor.Animation,Animation,Animasyon,True
+MainMenu.Editor.PartsSelection,Choose Parts,Bölüm Seç,True
+MainMenu.Editor.PartsAdjustment,Adjustment,Düzenleme,True
+MainMenu.Search,Search...,Ara...,True
+MainMenu.Editor.SaveCharacter,Save Character,Karakteri Kaydet,True
+MainMenu.Editor.Unload,Clear Character,Karakteri Sıfırla,True
+MainMenu.Editor.DeleteCharacter,Delete Character,Karakteri Sil,True
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Özel Doku Kullan,True
+MainMenu.Editor.ReloadTextures,Reload Textures,Dokuları Yinele,True
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Özel Doku Klasörünü Aç,True
+MainMenu.Editor.Color,Color,Renk,True
+MainMenu.Editor.TintColor,TintColor,Ana Renk,True
+MainMenu.Editor.TintBlackColor,TintBlackColor,Alt Renk,True
+MainMenu.Editor.LICENSE,LICENSE,LİSANS,True
+MainMenu.Editor.AssetTypeAA,Default Assets,Standart İçerikler,True
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Üçüncü Parti İçerikler,True
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,İsim boş bırakılamaz.,True
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,"İsim, {0} harfi geçemez.",True
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","İsimde ""{0}“ sembolü olamaz.",True
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}“ ismi rezerve bir isimdir ve kullanılamaz.",True
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,İsim nokta ile bitemez.,True
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,İsim sadece boşluktan oluşamaz.,True
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Ekrandaki modeli kaldır,True
+MainMenu.Settings.GeneralSettings,General Settings,Genel Ayarlar,True
+MainMenu.Settings.GeneralSettings.Language,Language,Dil,True
+MainMenu.Settings.ViewportSettings,Viewport Settings,Model Alanı Tuş Ayarları,True
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Yakınlaştırma Hızı,True
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Döndürme Hızı,True
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modele Odakla,True
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Yatay Ofset,True
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Dikey Ofset,True
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Model Alanı Tuş Ayarlarını Sıfırla,True
+MainMenu.Settings.ExportSettings,Animation Export Settings,Animasyon Dışarı Aktarma Ayarları,True
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Kayıt Lokasyonu,True
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Dışa Aktarım Ön Ayarları,True
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Encoder,True
+MainMenu.Settings.ExportSettings.Width,Width,Genişlik,True
+MainMenu.Settings.ExportSettings.Height,Height,Yükseklik,True
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,True
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Maks. Kare Hızını Limitle,True
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Maks. Kare Hızı,True
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Başlangıç Değeri,True
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Titremeye İzin Ver,True
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Dışarı Aktarma Ayarlarını Sıfırla,True
+MainMenu.Editor.Export,Export Emote,Emoji Dışa Aktar,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position.,"Lisans, modelin yaratıcısı tarafından sağlanmıştır. Yalnızca referans amacıyla gösterilmiştir ve EmoteLab geliştiricisinin görüşlerini veya yasal konumunu temsil etmemektedir.",True
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Lisans bulunamadı. Lütfen kullanım iznini yapımcıyla teyit edin.,True
+LicensePopup.Close,Close,Kapat,True
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Dışa Aktarılan Dosyayı Göster,True
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Gömülü Modeller için Örnek Karakterler Yükle,True
+MainMenu.Settings.ModelSettings,Model Settings,Model Ayarları,True
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Karakter Verileri Kaydediliyor...,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Karakter Yükleniyor...,True
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Üçüncü Parti Lisansları,True
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Son Kullanıcı Lisans Anlaşması (EULA),True
+MainMenu.Info.Documentation,Documentation,Dokümantasyon,True
+MainMenu.Info.Discord,Join Our Discord,Discord'umuza Katıl,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",Bu ön ayar doğru formatı ve boyutları doğru ayarlar. Çok uzun animasyonlar platformların boyut limitini aşabilir. Aynı zamanda bazı platformlar belli başlı içeriklere izin vermiyor olabilir.,True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Yerel Model Dosyasını Aç,True
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Karakter Dosyasını Aç,True
+MainMenu.Info.Log,Open Log Folder,Sistem Günlüğü Dosyasını Aç,True
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Küresel Renk Tablosunu Kullanarak,True
+MainMenu.Editor.ExportStatic,Export Static Image,Düz Resim Dışarı Aktar,True
+MainMenu.Editor.Player.Speed,Speed,Hız,True
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Düz Resim Ayarları,True
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Düz Resim Ayarlarını sıfırla,True
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Örnekleme Oranı,True
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,"Bu ayar, uygulama içinde bulunan ve özel olarak eklenen dokular arasında geçiş yapmanızı sağlar",True
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,PNG'leri Özel Doku dosyasında düzenleyin. Transparant olarak resmi kaydedin ve yüksekliğini/genişliğini değiştirmeyin,True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",Düzenlemeniz bittikten sonra bu tuşa basıp değişikliklerin modele uygulanmasını sağlayın.,True
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,"Karakterinizi kaydedin. Kaydetme tuşu arayüzün solunda, karakter listesinin altında bulunur.",True
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Lütfen bu özelliği kullanmadan önce Özel Doku Kullanma rehberini okuyun.,True
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Özel Doku,True
+MainMenu.Editor.Texture.Step1,Step 1,Adım 1,True
+MainMenu.Editor.Texture.Step2,Step 2,Adım 2,True
+MainMenu.Editor.Texture.Step3,Step 3,Adım 3,True
+MainMenu.Editor.Texture.Step4,Step 4,Adım 4,True
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Seçili Atlasları Güncelle,True
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Seçili Atlasları Sıfırla,True
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Doku Hizmetleri,True
+MainMenu.Editor.Texture.SelectAll,Select All,Hepsini seç,True
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Tersini Seç,True
+MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas Listesi,True
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Değiştirilen Atlas'ları gömülü versiyonlardaki hallerine geri getirecek. Kaydedilmeyen düzenlemeler kaybolacak ve geri getirilemeyecektir. Devam edilsin mi?,True
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palet Algoritması,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Doku dosyalarının üstüne dosyalardaki dokular yazılacak. Devam edilsin mi?,True

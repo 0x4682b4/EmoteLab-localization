@@ -63,8 +63,9 @@ def lang_dir_walk(lang_root, desc_str, func):
 def lang_dirs(root):
     dirs = set(os.listdir(root))
     langs = GoogleTranslator().get_supported_languages(as_dict=True).values()
-
-    return dirs.intersection(langs).union({'zh-Hant', 'zh-Hans'})
+    langs = list(dirs.intersection(langs).union({'zh-Hant', 'zh-Hans'}))
+    langs.sort()
+    return langs
 
 def proc(root):
     for dirstr in lang_dirs(root):

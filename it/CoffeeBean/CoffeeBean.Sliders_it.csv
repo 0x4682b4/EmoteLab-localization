@@ -1,0 +1,35 @@
+Key,en,it,reviewed
+Eyelash Length,Eyelash Length,Lunghezza delle ciglia,False
+Brows Distance,Brows Distance,Distanza delle sopracciglia,False
+Brows Height,Brows Height,Altezza delle sopracciglia,False
+Ear Shape 1,Ear Shape 1,Forma dell'orecchio 1,False
+Ear Shape 2,Ear Shape 2,Forma dell'orecchio 2,False
+Hair Bang >< Length,Hair Bang >< Length,Frangia dei capelli >< Lunghezza,False
+Hair Bang >< Shear,Hair Bang >< Shear,Frangia per capelli >< Taglio,False
+Hair Bang >> Position,Hair Bang >> Position,Frangia dei capelli >> Posizione,False
+Hair Bang >> Length,Hair Bang >> Length,Frangia capelli >> Lunghezza,False
+Hair Bang >> Shear,Hair Bang >> Shear,Frangia Capelli >> Taglio,False
+Hair Bang << Position,Hair Bang << Position,Frangia dei capelli <<Posizione,False
+Hair Bang << Length,Hair Bang << Length,Frangia Capelli << Lunghezza,False
+Hair Bang << Shear,Hair Bang << Shear,Frangia Capelli << Taglio,False
+Hair Framing << Length,Hair Framing << Length,Inquadratura dei capelli << Lunghezza,False
+Hair Framing >> Length,Hair Framing >> Length,Inquadratura dei capelli >> Lunghezza,False
+Hair Side Length,Hair Side Length,Lunghezza laterale dei capelli,False
+Hair Rear Length,Hair Rear Length,Lunghezza posteriore dei capelli,False
+Ahoge Position,Ahoge Position,Posizione Ahoge,False
+Ahoge Angle,Ahoge Angle,Angolo Ahoge,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Posizione dell'orecchio e dell'antenna dell'animale,False
+Fin & Gill Position,Fin & Gill Position,Posizione delle pinne e delle branchie,False
+Halo Position,Halo Position,Posizione dell'alone,False
+Hat Position,Hat Position,Posizione del cappello,False
+Horn >> Length,Horn >> Length,Corno >> Lunghezza,False
+Horn << Length,Horn << Length,Corno <<Lunghezza,False
+Horn >< Length,Horn >< Length,Corno >< Lunghezza,False
+Horn Position,Horn Position,Posizione del corno,False
+Ear Wing Position,Ear Wing Position,Posizione dell'ala dell'orecchio,False
+Wing Size,Wing Size,Dimensione dell'ala,False
+Wing Position,Wing Position,Posizione dell'ala,False
+Wing Angle,Wing Angle,Angolo dell'ala,False
+Tail Size,Tail Size,Dimensione della coda,False
+Tail Flip,Tail Flip,Capovolgimento della coda,False
+Tail Angle,Tail Angle,Angolo della coda,False
