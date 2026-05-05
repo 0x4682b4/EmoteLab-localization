@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,图集列表,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,此操作将把所选图集页面重置为内置版本。未保存的修改将丢失且无法恢复。是否继续？,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,色板算法,True
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,操作会修改并覆盖选中的 PNG 图集文件以修复白边。此操作无法撤销，是否继续？,True
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","部分语言由我们的社区翻译或由机器翻译协助完成，因此质量可能有所不同。
+
+您可在设置中更改语言。
+
+请在<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub</link>上查看我们的社区贡献者。
+
+想要参与？欢迎通过<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>加入我们。",True
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,不再显示,True

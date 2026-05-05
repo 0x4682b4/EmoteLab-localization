@@ -130,15 +130,19 @@ function loadHansMap(csvPath, hansCol) {
   if (rows.length < 2) return new Map();
   const header = rows[0];
   const keyIdx = header.indexOf("Key");
+  const enIdx = header.indexOf("en");
   const colIdx = header.indexOf(hansCol);
-  if (keyIdx === -1 || colIdx === -1) {
-    throw new Error(`Missing Key or ${hansCol} in ${csvPath}`);
+  if (keyIdx === -1 || enIdx === -1 || colIdx === -1) {
+    throw new Error(`Missing Key, en, or ${hansCol} in ${csvPath}`);
   }
   const map = new Map();
   for (let r = 1; r < rows.length; r++) {
     const row = rows[r];
     if (row.length <= keyIdx) continue;
-    map.set(row[keyIdx], row[colIdx] ?? "");
+    map.set(row[keyIdx], {
+      en: row[enIdx] ?? "",
+      hans: row[colIdx] ?? "",
+    });
   }
   return map;
 }
@@ -149,24 +153,45 @@ function applyConversion(hantPath, hansMap, hantCol, convert) {
   if (rows.length < 2) return;
   const header = rows[0];
   const keyIdx = header.indexOf("Key");
+  const enIdx = header.indexOf("en");
   const colIdx = header.indexOf(hantCol);
+  const reviewedIdx = header.indexOf("reviewed");
   if (keyIdx === -1 || colIdx === -1) {
     throw new Error(`Missing Key or ${hantCol} in ${hantPath}`);
   }
-  let n = 0;
+  let nFilled = 0;
+  let nAdded = 0;
+  const existingKeys = new Set();
+
   for (let r = 1; r < rows.length; r++) {
     const row = rows[r];
     if (row.length <= keyIdx) continue;
     const key = row[keyIdx];
-    if (hansMap.has(key)) {
-      const src = hansMap.get(key);
+    existingKeys.add(key);
+    const current = (row[colIdx] ?? "").trim();
+    // Only fill missing zh-Hant values; keep existing translations untouched.
+    if (!current && hansMap.has(key)) {
+      const src = hansMap.get(key).hans;
       row[colIdx] = convert(src);
-      n++;
+      nFilled++;
     }
   }
+
+  // Add keys that exist in zh-Hans but are missing from zh-Hant.
+  for (const [key, srcData] of hansMap.entries()) {
+    if (existingKeys.has(key)) continue;
+    const newRow = new Array(header.length).fill("");
+    newRow[keyIdx] = key;
+    if (enIdx !== -1) newRow[enIdx] = srcData.en;
+    newRow[colIdx] = convert(srcData.hans);
+    if (reviewedIdx !== -1) newRow[reviewedIdx] = "False";
+    rows.push(newRow);
+    nAdded++;
+  }
+
   const out = rows.map(toCsvRow).join("\n") + "\n";
   fs.writeFileSync(hantPath, out, "utf8");
-  return n;
+  return { filled: nFilled, added: nAdded };
 }
 
 const PAIRS = [
@@ -193,8 +218,10 @@ function main() {
       continue;
     }
     const hansMap = loadHansMap(pHans, "zh-Hans");
-    const updated = applyConversion(pHant, hansMap, "zh-Hant", convert);
-    console.log(`${relHant}: updated ${updated} rows from zh-Hans`);
+    const result = applyConversion(pHant, hansMap, "zh-Hant", convert);
+    console.log(
+      `${relHant}: filled ${result.filled} empty rows, added ${result.added} missing keys from zh-Hans`
+    );
   }
 }
 

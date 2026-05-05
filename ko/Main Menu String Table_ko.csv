@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,이미지 시트 목록,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,선택한 이미지 시트 페이지를 기본(내장) 버전으로 초기화합니다. 저장하지 않은 편집 내용은 사라지며 복구할 수 없습니다. 계속하시겠습니까?,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,색상 추출,True
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,"선택한 텍스처 파일을 덮어쓰며, 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?",True
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","일부 언어는 커뮤니티에서 번역되거나 기계 번역의 도움을 받기 때문에 품질이 다를 수 있습니다.
+
+설정에서 언어를 변경할 수 있습니다.
+
+<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub의 커뮤니티 기여자</link>를 확인하세요.
+
+기여하고 싶나요? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>에 참여하세요.",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,다시 표시하지 않음,False

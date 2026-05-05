@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),Alvás (normál),False
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Alvás (1. előkészítési szakasz),False
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Alvás (2. előkészítési szakasz),False
 Sleep (UU),Sleep (UU),Alvás (UU),False
-Sparkling,Sparkling,Szikrázó,False
 Surprise,Surprise,Meglepetés,False
 Sweat,Sweat,Izzad,False
 Thumb Down,Thumb Down,Lefelé hüvelykujj,False
@@ -90,6 +89,7 @@ Love Letter,Love Letter,Szerelmeslevél,False
 Need Food,Need Food,Élelmiszer kell,False
 PNGTuber Idle,PNGTuber Idle,PNGTuber Idle,False
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,False
+PNGTuber Loading,PNGTuber Loading,PNGTuber betöltése,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber Talk,False
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Talk 2,False
 PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,False
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat Smooth,False
 Sing,Sing,Énekel,False
 Tablet,Tablet,Tabletta,False
 Tail Wag,Tail Wag,Tail Wag,False
+Bug,Bug,Bogár,False
+Cheer,Cheer,Éljenzés,False
+Easter,Easter,húsvéti,False
+Gun,Gun,Pisztoly,False
+Idea,Idea,Ötlet,False
+Megaphone,Megaphone,Megafon,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),Fizetett szünet (Easy Mode),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),Fizetett szünet (kemény mód),False
+Spray,Spray,Permet,False
+Stops Working,Stops Working,Leállítja a munkát,False
+Sunglasses Gleam,Sunglasses Gleam,Napszemüveg Gleam,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Pixel Gleam napszemüveg,False
+Sunglasses Remove,Sunglasses Remove,Távolítsa el a napszemüveget,False
+Swatter,Swatter,Légycsapó,False
+Tape,Tape,Szalag,False
+Trash Bin,Trash Bin,Szemeteskosár,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber Idle,False
+TrashTuber Talk,TrashTuber Talk,TrashTuber Talk,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber Yap,False
+Cheers,Cheers,Egészségére,False
+Dance 1,Dance 1,Tánc 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),Tánc (Caramelldansen),False
+Dance (Helltaker),Dance (Helltaker),Tánc (Helltaker),False
+Dance (Low Cortisol),Dance (Low Cortisol),Tánc (alacsony kortizolszint),False
+Eat (Donut),Eat (Donut),Egyél (fánk),False
+Eat (Popcorn),Eat (Popcorn),Egyél (pattogatott kukorica),False
+Eat (Watermelon),Eat (Watermelon),Egyél (görögdinnye),False
+Game,Game,Játék,False
+Greeting 1,Greeting 1,Üdvözlet 1,False
+Greeting 2,Greeting 2,Üdvözlet 2,False
+Sparkling 1,Sparkling 1,Szikrázó 1,False
+Sparkling 2,Sparkling 2,Szikrázó 2,False
+Think (Confident),Think (Confident),Gondolkodj (Magabiztos),False
+Think (Serious),Think (Serious),Gondolkozz (komolyan),False

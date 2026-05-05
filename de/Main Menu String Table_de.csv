@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas-Liste,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Dadurch werden die ausgewählten Atlasseiten auf die integrierten Versionen zurückgesetzt. Alle nicht gespeicherten Änderungen gehen verloren und können nicht wiederhergestellt werden. Weitermachen?,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palettenalgorithmus,True
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Dadurch werden die ausgewählten Texturdateien überschrieben und können nicht rückgängig gemacht werden. Fortfahren?,True
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Einige Sprachen werden von unserer Community übersetzt oder durch maschinelle Übersetzung unterstützt, daher kann die Qualität variieren.
+
+Sie können die Sprache in den Einstellungen ändern.
+
+Sehen Sie sich unsere <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">Community-Mitwirkenden auf GitHub</link> an.
+
+Möchten Sie einen Beitrag leisten? Begleiten Sie uns auf <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Zeige das nicht noch einmal,False

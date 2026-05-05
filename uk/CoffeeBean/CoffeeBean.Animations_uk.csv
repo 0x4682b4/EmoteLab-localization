@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),сон (нормальний),False
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Сон (підготовчий етап 1),False
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Сон (підготовчий етап 2),False
 Sleep (UU),Sleep (UU),Сон (UU),False
-Sparkling,Sparkling,Ігристе,False
 Surprise,Surprise,Сюрприз,False
 Sweat,Sweat,піт,False
 Thumb Down,Thumb Down,Великий палець вниз,False
@@ -90,6 +89,7 @@ Love Letter,Love Letter,Любовний лист,False
 Need Food,Need Food,Потрібна їжа,False
 PNGTuber Idle,PNGTuber Idle,PNGTuber не працює,False
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,False
+PNGTuber Loading,PNGTuber Loading,PNG Tuber Завантаження,False
 PNGTuber Talk,PNGTuber Talk,PNG Tuber Talk,False
 PNGTuber Talk 2,PNGTuber Talk 2,PNG Tuber Talk 2,False
 PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,False
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat Smooth,False
 Sing,Sing,Співай,False
 Tablet,Tablet,планшет,False
 Tail Wag,Tail Wag,Виляння хвостом,False
+Bug,Bug,помилка,False
+Cheer,Cheer,Розвеселити,False
+Easter,Easter,Великдень,False
+Gun,Gun,пістолет,False
+Idea,Idea,Ідея,False
+Megaphone,Megaphone,Мегафон,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),Оплачувана перерва (легкий режим),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),Оплачувана перерва (важкий режим),False
+Spray,Spray,Спрей,False
+Stops Working,Stops Working,Припиняє працювати,False
+Sunglasses Gleam,Sunglasses Gleam,Сонцезахисні окуляри Gleam,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Сонцезахисні окуляри Pixel Gleam,False
+Sunglasses Remove,Sunglasses Remove,Зняти сонцезахисні окуляри,False
+Swatter,Swatter,Бійка,False
+Tape,Tape,Tape,False
+Trash Bin,Trash Bin,Відро для сміття,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber не працює,False
+TrashTuber Talk,TrashTuber Talk,Обговорення TrashTuber,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber Яп,False
+Cheers,Cheers,Ура,False
+Dance 1,Dance 1,Танець 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),Танець (Caramelldansen),False
+Dance (Helltaker),Dance (Helltaker),Танець (Helltaker),False
+Dance (Low Cortisol),Dance (Low Cortisol),Танці (низький кортизол),False
+Eat (Donut),Eat (Donut),Їсти (пончик),False
+Eat (Popcorn),Eat (Popcorn),Їсти (попкорн),False
+Eat (Watermelon),Eat (Watermelon),Їсти (кавун),False
+Game,Game,Гра,False
+Greeting 1,Greeting 1,Вітання 1,False
+Greeting 2,Greeting 2,Вітання 2,False
+Sparkling 1,Sparkling 1,Ігристе 1,False
+Sparkling 2,Sparkling 2,Ігристе 2,False
+Think (Confident),Think (Confident),Подумай (впевнено),False
+Think (Serious),Think (Serious),Подумай (серйозно),False

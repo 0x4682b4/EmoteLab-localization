@@ -216,3 +216,56 @@ Wing >>,Wing >>,Flügel >>,True
 Wing >> Outline,Wing >> Outline,Flügel >> Umriss,True
 Wing <<,Wing <<,Flügel <<,True
 Wing << Outline,Wing << Outline,Flügel << Umriss,True
+Cape,Cape,Kap,False
+Cape Outline,Cape Outline,Umriss des Kaps,False
+Cheek,Cheek,Wange,False
+Cockroach,Cockroach,Kakerlake,False
+Controller,Controller,Regler,False
+Donut,Donut,Krapfen,False
+Earring >>,Earring >>,Ohrring >>,False
+Earring <<,Earring <<,Ohrring <<,False
+Earring >> Outline,Earring >> Outline,Ohrring >> Umriss,False
+Earring << Outline,Earring << Outline,Ohrring << Umriss,False
+Face Feature A >>,Face Feature A >>,Gesichtsmerkmal A >>,False
+Face Feature A <<,Face Feature A <<,Gesichtsmerkmal A <<,False
+Face Feature B >>,Face Feature B >>,Gesichtsmerkmal B >>,False
+Face Feature B <<,Face Feature B <<,Gesichtsmerkmal B <<,False
+Face Feature C,Face Feature C,Gesichtsmerkmal C,False
+Facial Hair A,Facial Hair A,Gesichtsbehaarung A,False
+Facial Hair A Outline,Facial Hair A Outline,Gesichtsbehaarung Ein Umriss,False
+Facial Hair B,Facial Hair B,Gesichtsbehaarung B,False
+Facial Hair B Outline,Facial Hair B Outline,Facial Hair B Outline,False
+Glove >>,Glove >>,Handschuh >>,False
+Glove >> Outline,Glove >> Outline,Handschuh >> Umriss,False
+Glove <<,Glove <<,Handschuh <<,False
+Glove << Outline,Glove << Outline,Handschuh << Umriss,False
+Hand >>,Hand >>,Hand >>,False
+Hand >> Outline,Hand >> Outline,Hand >> Umriss,False
+Hand <<,Hand <<,Hand <<,False
+Hand << Outline,Hand << Outline,Hand << Umriss,False
+Gun,Gun,Pistole,False
+Gun Flash,Gun Flash,Waffenblitz,False
+Lubricant,Lubricant,Schmiermittel,False
+Megaphone,Megaphone,Megaphon,False
+Nose,Nose,Nase,False
+Piercing A >>,Piercing A >>,Piercing A >>,False
+Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Umriss,False
+Piercing A <<,Piercing A <<,Piercing A <<,False
+Piercing A << Outline,Piercing A << Outline,Piercing A << Umriss,False
+Piercing B >>,Piercing B >>,Piercing B >>,False
+Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Umriss,False
+Piercing B <<,Piercing B <<,Piercing B <<,False
+Piercing B << Outline,Piercing B << Outline,Piercing B << Umriss,False
+Pixel Sun Glasses,Pixel Sun Glasses,Pixel-Sonnenbrille,False
+Pompom >>,Pompom >>,Pompon >>,False
+Pompom <<,Pompom <<,Pompon <<,False
+Spray,Spray,Spray,False
+Sticker Light Bulb,Sticker Light Bulb,Aufkleber Glühbirne,False
+Sticker Loading,Sticker Loading,Aufkleber wird geladen,False
+Sunglasses,Sunglasses,Sonnenbrille,False
+Sunglasses Reflection,Sunglasses Reflection,Sonnenbrillenreflexion,False
+Tape,Tape,Band,False
+Toilet,Toilet,Toilette,False
+Trash Bin,Trash Bin,Mülleimer,False
+Wave Hand,Wave Hand,Hand winken,False
+Swatter,Swatter,Fliegenklatsche,False

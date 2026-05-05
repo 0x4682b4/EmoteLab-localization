@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),睡覺(普通),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),睡覺(準備階段1),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),睡覺(準備階段2),True
 Sleep (UU),Sleep (UU),睡覺 (UU),True
-Sparkling,Sparkling,期待,True
 Surprise,Surprise,驚嚇,True
 Sweat,Sweat,汗,True
 Thumb Down,Thumb Down,倒讚,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,情書,True
 Need Food,Need Food,求餵食,True
 PNGTuber Idle,PNGTuber Idle,PNGTuber 閒置,True
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 閒置 2,True
+PNGTuber Loading,PNGTuber Loading,PNGTuber 載入中,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber 說話,True
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 說話 2,True
 PNGTuber Yap,PNGTuber Yap,PNGTuber 說教,True
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat 平滑,True
 Sing,Sing,唱歌,True
 Tablet,Tablet,繪圖板,True
 Tail Wag,Tail Wag,雨刷尾巴,True
+Bug,Bug,Bug,False
+Cheer,Cheer,加油,False
+Easter,Easter,復活節,False
+Gun,Gun,槍,False
+Idea,Idea,主意,False
+Megaphone,Megaphone,擴音器,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),帶薪拉屎(簡單模式),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),帶薪拉屎(困難模式),False
+Spray,Spray,噴劑,False
+Stops Working,Stops Working,停止工作,False
+Sunglasses Gleam,Sunglasses Gleam,墨鏡反光,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,畫素墨鏡反光,False
+Sunglasses Remove,Sunglasses Remove,摘掉墨鏡,False
+Swatter,Swatter,拍蠅,False
+Tape,Tape,膠帶,False
+Trash Bin,Trash Bin,垃圾桶,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber 閒置,False
+TrashTuber Talk,TrashTuber Talk,TrashTuber 說話,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber 說教,False
+Cheers,Cheers,乾杯,False
+Dance 1,Dance 1,跳舞 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),跳舞 (Caramelldansen),False
+Dance (Helltaker),Dance (Helltaker),跳舞(Helltaker),False
+Dance (Low Cortisol),Dance (Low Cortisol),跳舞(低皮質醇),False
+Eat (Donut),Eat (Donut),喫(甜甜圈),False
+Eat (Popcorn),Eat (Popcorn),喫(爆米花),False
+Eat (Watermelon),Eat (Watermelon),喫(西瓜),False
+Game,Game,打遊戲,False
+Greeting 1,Greeting 1,打招呼 1,False
+Greeting 2,Greeting 2,打招呼 2,False
+Sparkling 1,Sparkling 1,期待 1,False
+Sparkling 2,Sparkling 2,期待 2,False
+Think (Confident),Think (Confident),思考（自信地）,False
+Think (Serious),Think (Serious),思考（認真地）,False

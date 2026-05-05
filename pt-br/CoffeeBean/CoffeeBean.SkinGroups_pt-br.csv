@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,Mechas Laterais do Cabelo << B,True
 Hair Side Branch << C,Hair Side Branch << C,Mechas Laterais do Cabelo << C,True
 Tail,Tail,Rabo,True
 Wing,Wing,Asa,True
+Facial Hair A,Facial Hair A,Pêlos faciais A,False
+Facial Hair B,Facial Hair B,Pêlos faciais B,False
+Cheek,Cheek,Bochecha,False
+Face Feature A >>,Face Feature A >>,Característica facial A >>,False
+Face Feature A <<,Face Feature A <<,Característica facial A <<,False
+Face Feature B >>,Face Feature B >>,Característica facial B >>,False
+Face Feature B <<,Face Feature B <<,Característica facial B <<,False
+Face Feature C,Face Feature C,Característica facial C,False
+Nose,Nose,Nariz,False
+Earring >>,Earring >>,Brinco >>,False
+Earring <<,Earring <<,Brinco <<,False
+Piercing A >>,Piercing A >>,Perfuração A >>,False
+Piercing A <<,Piercing A <<,Perfuração A <<,False
+Piercing B >>,Piercing B >>,Perfuração B >>,False
+Piercing B <<,Piercing B <<,Perfuração B <<,False
+Hand,Hand,Mão,False
+Leg,Leg,Perna,False
+Cape Back,Cape Back,Cabo de volta,False
+Cape Front,Cape Front,Frente do Cabo,False

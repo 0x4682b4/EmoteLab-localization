@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),Schlaf (Normal),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Schlaf (Vorbereitung 1),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Schlaf (Vorbereitung 2),True
 Sleep (UU),Sleep (UU),Schlaf (UU),True
-Sparkling,Sparkling,Funkeln,True
 Surprise,Surprise,Überraschung,True
 Sweat,Sweat,Schweiß,True
 Thumb Down,Thumb Down,Daumen runter,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,Liebesbrief,True
 Need Food,Need Food,Brauche Essen,True
 PNGTuber Idle,PNGTuber Idle,PNGTuber Idle,True
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,True
+PNGTuber Loading,PNGTuber Loading,PNGTuber wird geladen,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber Reden,True
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Reden 2,True
 PNGTuber Yap,PNGTuber Yap,PNGTuber Yappen,True
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat Animiert,True
 Sing,Sing,Singen,True
 Tablet,Tablet,Tablet,True
 Tail Wag,Tail Wag,Schwanzwedeln,True
+Bug,Bug,Insekt,False
+Cheer,Cheer,Jubeln,False
+Easter,Easter,Ostern,False
+Gun,Gun,Pistole,False
+Idea,Idea,Idee,False
+Megaphone,Megaphone,Megaphon,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),Bezahlte Pause (einfacher Modus),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),Bezahlte Pause (harter Modus),False
+Spray,Spray,Spray,False
+Stops Working,Stops Working,Funktioniert nicht mehr,False
+Sunglasses Gleam,Sunglasses Gleam,Sonnenbrillen glänzen,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Sonnenbrille Pixel Gleam,False
+Sunglasses Remove,Sunglasses Remove,Sonnenbrille entfernen,False
+Swatter,Swatter,Fliegenklatsche,False
+Tape,Tape,Band,False
+Trash Bin,Trash Bin,Mülleimer,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber im Leerlauf,False
+TrashTuber Talk,TrashTuber Talk,TrashTuber-Talk,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber Yap,False
+Cheers,Cheers,Prost,False
+Dance 1,Dance 1,Tanz 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),Tanz (Caramelldansen),False
+Dance (Helltaker),Dance (Helltaker),Tanz (Helltaker),False
+Dance (Low Cortisol),Dance (Low Cortisol),Tanzen (niedriger Cortisolspiegel),False
+Eat (Donut),Eat (Donut),Essen (Donut),False
+Eat (Popcorn),Eat (Popcorn),Essen (Popcorn),False
+Eat (Watermelon),Eat (Watermelon),Essen (Wassermelone),False
+Game,Game,Spiel,False
+Greeting 1,Greeting 1,Begrüßung 1,False
+Greeting 2,Greeting 2,Begrüßung 2,False
+Sparkling 1,Sparkling 1,Funkelnd 1,False
+Sparkling 2,Sparkling 2,Funkelnd 2,False
+Think (Confident),Think (Confident),Denken (selbstbewusst),False
+Think (Serious),Think (Serious),Denken Sie (ernsthaft),False

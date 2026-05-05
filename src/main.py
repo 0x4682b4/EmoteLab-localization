@@ -31,6 +31,9 @@ dct_langs = {
     'ru': 'en',
     'pt-br': 'en',
     'uk': 'en',
+    'it': 'en',
+    'th': 'en',
+    'tr': 'en',
 }
 
 class CSVFile:
@@ -63,6 +66,14 @@ class LanguageCSVFile(CSVFile):
         # put all rows from reference into csv
         df = pd.merge(ref.df, self.df, how='left', left_on=ref.key, right_on=self.key, suffixes=('', '_y'))
         msk_changed = df['en'] != df['en_y']
+
+        # For non-main-menu files we join DisplayName (ref) -> Key (locale).
+        # New rows won't have a right-side Key, so backfill locale Key from the ref join key.
+        if 'Key' in df.columns and ref.key in df.columns:
+            df['Key'] = df['Key'].fillna(df[ref.key])
+        elif ref.key in df.columns:
+            df['Key'] = df[ref.key]
+
         df = df[self.df.columns]
         df.loc[msk_changed, 'reviewed'] = False  # if the english string has changed, reset the reviewed flag
         df['reviewed'] = df['reviewed'].fillna(False)
@@ -87,8 +98,21 @@ class LanguageCSVFile(CSVFile):
 
             print(f'translating {sum(translate_msk)} entries for {translation_target} from {src_lang}...')
             translator = GoogleTranslator(source=src_lang, target=translation_target)
+            def safe_translate_row(row):
+                src_text = row[src_lang]
+                try:
+                    return translator.translate(src_text)
+                except Exception as ex:
+                    key = row.get('Key', '<unknown-key>')
+                    print(
+                        f'[warn] translation failed for {self.lang} key="{key}" text="{src_text}": {ex}'
+                    )
+                    # Fallback to English so locale tables keep a usable non-empty value.
+                    return src_text
 
-            self.df.loc[translate_msk, self.lang] = self.df[translate_msk].apply(lambda row: translator.translate(row[src_lang]), axis="columns")
+            self.df.loc[translate_msk, self.lang] = self.df[translate_msk].apply(
+                safe_translate_row, axis="columns"
+            )
 
     def summary(self):
         return self.df.loc[:, 'reviewed'].sum(), len(self.df)

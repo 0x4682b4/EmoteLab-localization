@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),수면(일반),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),수면(준비 1단계),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),수면(준비 2단계,True
 Sleep (UU),Sleep (UU),수면(UU),True
-Sparkling,Sparkling,반짝반짝,True
 Surprise,Surprise,놀람,True
 Sweat,Sweat,땀,True
 Thumb Down,Thumb Down,싫어요,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,러브레터,True
 Need Food,Need Food,배고픔,True
 PNGTuber Idle,PNGTuber Idle,2D 버튜버 (대기),True
 PNGTuber Idle 2,PNGTuber Idle 2,2D 버튜버 (대기) 2,True
+PNGTuber Loading,PNGTuber Loading,PNGTuber 로드 중,False
 PNGTuber Talk,PNGTuber Talk,2D 버튜버 (말하기),True
 PNGTuber Talk 2,PNGTuber Talk 2,2D 버튜버 (말하기) 2,True
 PNGTuber Yap,PNGTuber Yap,2D 버튜버 (수다),True
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,팝캣 (부드러움),True
 Sing,Sing,노래하기,True
 Tablet,Tablet,타블렛,True
 Tail Wag,Tail Wag,꼬리 흔들기,True
+Bug,Bug,벌레,False
+Cheer,Cheer,환호,False
+Easter,Easter,부활절,False
+Gun,Gun,총,False
+Idea,Idea,아이디어,False
+Megaphone,Megaphone,메가폰,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),유급 휴식(쉬움 모드),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),유급 휴식(하드 모드),False
+Spray,Spray,스프레이,False
+Stops Working,Stops Working,작동이 중지됨,False
+Sunglasses Gleam,Sunglasses Gleam,선글라스 글림,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,선글라스 픽셀 글림,False
+Sunglasses Remove,Sunglasses Remove,선글라스 제거,False
+Swatter,Swatter,찰싹 때리는 사람,False
+Tape,Tape,줄자,False
+Trash Bin,Trash Bin,쓰레기통,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber 유휴 상태,False
+TrashTuber Talk,TrashTuber Talk,TrashTuber 토크,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber 얍,False
+Cheers,Cheers,건배,False
+Dance 1,Dance 1,댄스 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),댄스(카라멜단센),False
+Dance (Helltaker),Dance (Helltaker),댄스(헬테이커),False
+Dance (Low Cortisol),Dance (Low Cortisol),댄스(낮은 코르티솔),False
+Eat (Donut),Eat (Donut),먹다(도넛),False
+Eat (Popcorn),Eat (Popcorn),먹다 (팝콘),False
+Eat (Watermelon),Eat (Watermelon),먹다(수박),False
+Game,Game,게임,False
+Greeting 1,Greeting 1,인사말 1,False
+Greeting 2,Greeting 2,인사말 2,False
+Sparkling 1,Sparkling 1,스파클링 1,False
+Sparkling 2,Sparkling 2,스파클링 2,False
+Think (Confident),Think (Confident),생각하다(자신감),False
+Think (Serious),Think (Serious),생각해보세요 (진지하게),False

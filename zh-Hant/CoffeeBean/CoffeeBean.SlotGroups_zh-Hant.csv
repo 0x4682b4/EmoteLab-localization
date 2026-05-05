@@ -216,3 +216,56 @@ Wing >>,Wing >>,翅膀 >>,True
 Wing >> Outline,Wing >> Outline,翅膀 >> 輪廓,True
 Wing <<,Wing <<,翅膀 <<,True
 Wing << Outline,Wing << Outline,翅膀 << 輪廓,True
+Cape,Cape,鬥篷,False
+Cape Outline,Cape Outline,鬥篷 輪廓,False
+Cheek,Cheek,臉頰,False
+Cockroach,Cockroach,蟑螂,False
+Controller,Controller,手柄,False
+Donut,Donut,甜甜圈,False
+Earring >>,Earring >>,耳環 >>,False
+Earring <<,Earring <<,耳環 <<,False
+Earring >> Outline,Earring >> Outline,耳環 >> 輪廓,False
+Earring << Outline,Earring << Outline,耳環 << 輪廓,False
+Face Feature A >>,Face Feature A >>,臉部特徵 A >>,False
+Face Feature A <<,Face Feature A <<,臉部特徵 A <<,False
+Face Feature B >>,Face Feature B >>,臉部特徵 B >>,False
+Face Feature B <<,Face Feature B <<,臉部特徵 B <<,False
+Face Feature C,Face Feature C,臉部特徵 C,False
+Facial Hair A,Facial Hair A,鬍子 A,False
+Facial Hair A Outline,Facial Hair A Outline,鬍子 A 輪廓,False
+Facial Hair B,Facial Hair B,鬍子 B,False
+Facial Hair B Outline,Facial Hair B Outline,鬍子 B 輪廓,False
+Glove >>,Glove >>,手套 >>,False
+Glove >> Outline,Glove >> Outline,手套 >> 輪廓,False
+Glove <<,Glove <<,手套 <<,False
+Glove << Outline,Glove << Outline,手套 << 輪廓,False
+Hand >>,Hand >>,手 >>,False
+Hand >> Outline,Hand >> Outline,手 >> 輪廓,False
+Hand <<,Hand <<,手 <<,False
+Hand << Outline,Hand << Outline,手 << 輪廓,False
+Gun,Gun,槍,False
+Gun Flash,Gun Flash,槍口閃光,False
+Lubricant,Lubricant,潤滑劑,False
+Megaphone,Megaphone,擴音器,False
+Nose,Nose,鼻子,False
+Piercing A >>,Piercing A >>,耳釘 A >>,False
+Piercing A >> Outline,Piercing A >> Outline,耳釘 A >> 輪廓,False
+Piercing A <<,Piercing A <<,耳釘 A <<,False
+Piercing A << Outline,Piercing A << Outline,耳釘 A << 輪廓,False
+Piercing B >>,Piercing B >>,耳釘 B >>,False
+Piercing B >> Outline,Piercing B >> Outline,耳釘 B >> 輪廓,False
+Piercing B <<,Piercing B <<,耳釘 B <<,False
+Piercing B << Outline,Piercing B << Outline,耳釘 B << 輪廓,False
+Pixel Sun Glasses,Pixel Sun Glasses,畫素太陽鏡,False
+Pompom >>,Pompom >>,拉拉花 >>,False
+Pompom <<,Pompom <<,拉拉花 <<,False
+Spray,Spray,噴霧,False
+Sticker Light Bulb,Sticker Light Bulb,表情貼紙 燈泡,False
+Sticker Loading,Sticker Loading,表情貼紙 載入,False
+Sunglasses,Sunglasses,太陽鏡,False
+Sunglasses Reflection,Sunglasses Reflection,太陽鏡反光,False
+Tape,Tape,膠帶,False
+Toilet,Toilet,馬桶,False
+Trash Bin,Trash Bin,垃圾桶,False
+Wave Hand,Wave Hand,揮手 手,False
+Swatter,Swatter,拍子,False

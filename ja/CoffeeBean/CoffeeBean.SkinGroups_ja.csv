@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,横髪 ハネ << B,True
 Hair Side Branch << C,Hair Side Branch << C,横髪 ハネ << C,True
 Tail,Tail,しっぽ,False
 Wing,Wing,翼,False
+Facial Hair A,Facial Hair A,ひげA,False
+Facial Hair B,Facial Hair B,ひげB,False
+Cheek,Cheek,頬,False
+Face Feature A >>,Face Feature A >>,顔の特徴A >>,False
+Face Feature A <<,Face Feature A <<,顔の特徴 A <<,False
+Face Feature B >>,Face Feature B >>,顔の特徴B >>,False
+Face Feature B <<,Face Feature B <<,顔の特徴 B <<,False
+Face Feature C,Face Feature C,顔の特徴 C,False
+Nose,Nose,鼻,False
+Earring >>,Earring >>,イヤリング >>,False
+Earring <<,Earring <<,イヤリング <<,False
+Piercing A >>,Piercing A >>,ピアスA >>,False
+Piercing A <<,Piercing A <<,ピアスA <<,False
+Piercing B >>,Piercing B >>,ピアスB >>,False
+Piercing B <<,Piercing B <<,ピアスB <<,False
+Hand,Hand,手,False
+Leg,Leg,脚,False
+Cape Back,Cape Back,ケープバック,False
+Cape Front,Cape Front,ケープフロント,False

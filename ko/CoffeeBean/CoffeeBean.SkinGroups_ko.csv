@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,옆머리 가닥 << B,True
 Hair Side Branch << C,Hair Side Branch << C,옆머리 가닥 << C,True
 Tail,Tail,꼬리,True
 Wing,Wing,날개,True
+Facial Hair A,Facial Hair A,얼굴 털 A,False
+Facial Hair B,Facial Hair B,수염 B,False
+Cheek,Cheek,볼,False
+Face Feature A >>,Face Feature A >>,얼굴 특징 A >>,False
+Face Feature A <<,Face Feature A <<,얼굴 특징 A <<,False
+Face Feature B >>,Face Feature B >>,얼굴 특징 B >>,False
+Face Feature B <<,Face Feature B <<,얼굴 특징 B <<,False
+Face Feature C,Face Feature C,얼굴 특징 C,False
+Nose,Nose,코,False
+Earring >>,Earring >>,귀걸이 >>,False
+Earring <<,Earring <<,귀걸이 <<,False
+Piercing A >>,Piercing A >>,피어싱 A >>,False
+Piercing A <<,Piercing A <<,피어싱 A <<,False
+Piercing B >>,Piercing B >>,피어싱 B >>,False
+Piercing B <<,Piercing B <<,피어싱 B <<,False
+Hand,Hand,손,False
+Leg,Leg,다리,False
+Cape Back,Cape Back,케이프 백,False
+Cape Front,Cape Front,케이프 프론트,False

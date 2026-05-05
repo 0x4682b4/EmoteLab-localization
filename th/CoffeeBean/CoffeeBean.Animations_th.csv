@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),นอนหลับ (ปกติ),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),นอนหลับ (เตรียมตัวนอน 1),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),นอนหลับ (เตรียมตัวนอน 2),True
 Sleep (UU),Sleep (UU),นอนหลับ (UU),True
-Sparkling,Sparkling,แวววาว,True
 Surprise,Surprise,เซอร์ไพรส์,True
 Sweat,Sweat,เหงือตก,True
 Thumb Down,Thumb Down,ไม่ชอบ,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,จดหมายรัก,True
 Need Food,Need Food,ขออาหาร,True
 PNGTuber Idle,PNGTuber Idle,PNGTuber Idle,True
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,True
+PNGTuber Loading,PNGTuber Loading,กำลังโหลด PNGTuber,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber พูดคุย,True
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber พูดคุย 2,True
 PNGTuber Yap,PNGTuber Yap,PNGTuber โวย,True
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat Smooth,True
 Sing,Sing,ร้องเพลง,True
 Tablet,Tablet,แท็บเล็ตวาดรูป,True
 Tail Wag,Tail Wag,กระดิกหาง,True
+Bug,Bug,แมลง,False
+Cheer,Cheer,เชียร์,False
+Easter,Easter,อีสเตอร์,False
+Gun,Gun,ปืน,False
+Idea,Idea,ความคิด,False
+Megaphone,Megaphone,โทรโข่ง,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),แบ่งจ่าย (โหมดง่าย),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),แบ่งจ่าย (โหมดฮาร์ด),False
+Spray,Spray,สเปรย์,False
+Stops Working,Stops Working,หยุดทำงาน,False
+Sunglasses Gleam,Sunglasses Gleam,แว่นกันแดดกลิตเตอร์,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,แว่นกันแดด Pixel Gleam,False
+Sunglasses Remove,Sunglasses Remove,ถอดแว่นกันแดด,False
+Swatter,Swatter,ไม้ตี,False
+Tape,Tape,เทป,False
+Trash Bin,Trash Bin,ถังขยะ,False
+TrashTuber Idle,TrashTuber Idle,ถังขยะไม่ได้ใช้งาน,False
+TrashTuber Talk,TrashTuber Talk,ถังขยะพูดคุย,False
+TrashTuber Yap,TrashTuber Yap,ถังขยะ ยัป,False
+Cheers,Cheers,ไชโย,False
+Dance 1,Dance 1,เต้นรำ 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),เต้นรำ (คาราเมลแดนเซน),False
+Dance (Helltaker),Dance (Helltaker),เต้นรำ (เฮลเทคเกอร์),False
+Dance (Low Cortisol),Dance (Low Cortisol),เต้นรำ (คอร์ติซอลต่ำ),False
+Eat (Donut),Eat (Donut),กิน (โดนัท),False
+Eat (Popcorn),Eat (Popcorn),กิน (ป๊อปคอร์น),False
+Eat (Watermelon),Eat (Watermelon),กิน (แตงโม),False
+Game,Game,เกม,False
+Greeting 1,Greeting 1,คำทักทาย 1,False
+Greeting 2,Greeting 2,คำทักทาย 2,False
+Sparkling 1,Sparkling 1,เปล่งประกาย 1,False
+Sparkling 2,Sparkling 2,ประกาย 2,False
+Think (Confident),Think (Confident),คิด(มั่นใจ),False
+Think (Serious),Think (Serious),คิดถึง (จริงจัง),False

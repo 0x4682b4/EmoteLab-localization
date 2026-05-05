@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),Dormindo (Normal),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Dormindo (Preparação 1),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Dormindo (Preparação 2),True
 Sleep (UU),Sleep (UU),Dormindo (UU),True
-Sparkling,Sparkling,Brilhante,True
 Surprise,Surprise,Surpresa,True
 Sweat,Sweat,Suando,True
 Thumb Down,Thumb Down,Polegar para Baixo,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,Carta de Amor,True
 Need Food,Need Food,Precisa de Comida,True
 PNGTuber Idle,PNGTuber Idle,PNGTuber Inativo ,True
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Inativo 2,True
+PNGTuber Loading,PNGTuber Loading,Carregando PNGTuber,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber Falando,True
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Falando 2,True
 PNGTuber Yap,PNGTuber Yap,PNGTuber Conversando,True
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat Suave,True
 Sing,Sing,Cantando,True
 Tablet,Tablet,Tablet,True
 Tail Wag,Tail Wag,Balançando a cauda,True
+Bug,Bug,Erro,False
+Cheer,Cheer,Alegrar,False
+Easter,Easter,Páscoa,False
+Gun,Gun,Pistola,False
+Idea,Idea,Ideia,False
+Megaphone,Megaphone,Megafone,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),Pausa Paga (Modo Fácil),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),Pausa Paga (Modo Difícil),False
+Spray,Spray,Pulverizar,False
+Stops Working,Stops Working,Para de funcionar,False
+Sunglasses Gleam,Sunglasses Gleam,Óculos de sol brilham,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Óculos de sol Pixel Gleam,False
+Sunglasses Remove,Sunglasses Remove,Óculos de sol remover,False
+Swatter,Swatter,mata-mata,False
+Tape,Tape,Fita,False
+Trash Bin,Trash Bin,Lixeira,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber ocioso,False
+TrashTuber Talk,TrashTuber Talk,Conversa sobre TrashTuber,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber Yap,False
+Cheers,Cheers,Saúde,False
+Dance 1,Dance 1,Dança 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),Dança (Caramelldansen),False
+Dance (Helltaker),Dance (Helltaker),Dança (Helltaker),False
+Dance (Low Cortisol),Dance (Low Cortisol),Dança (baixo cortisol),False
+Eat (Donut),Eat (Donut),Coma (rosquinha),False
+Eat (Popcorn),Eat (Popcorn),Comer (pipoca),False
+Eat (Watermelon),Eat (Watermelon),Coma (melancia),False
+Game,Game,Jogo,False
+Greeting 1,Greeting 1,Saudação 1,False
+Greeting 2,Greeting 2,Saudação 2,False
+Sparkling 1,Sparkling 1,Espumante 1,False
+Sparkling 2,Sparkling 2,Espumante 2,False
+Think (Confident),Think (Confident),Pense (Confiante),False
+Think (Serious),Think (Serious),Pense (sério),False

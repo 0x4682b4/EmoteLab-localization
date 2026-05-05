@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,Список атласу,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Це скине вибрані сторінки атласу до вбудованих версій. Будь-які незбережені зміни буде втрачено та не можна буде відновити. Продовжити?,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Алгоритм палітри,False
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,"Це перезапише вибрані файли текстури, і цю дію неможливо скасувати. Продовжити?",False
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Деякі мови перекладаються нашою спільнотою або за допомогою машинного перекладу, тому якість може відрізнятися.
+
+Ви можете змінити мову в налаштуваннях.
+
+Дивіться <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">учасників спільноти на GitHub</link>.
+
+Хочете зробити внесок? Приєднуйтесь до нас на <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Не показувати це знову,False

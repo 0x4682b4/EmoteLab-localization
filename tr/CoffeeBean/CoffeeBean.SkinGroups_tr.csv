@@ -1,4 +1,4 @@
-Key,en,tr,Reviewed
+Key,en,tr,reviewed
 Brows,Brows,Kaşlar,True
 Ear,Ear,Kulaklar,True
 Eye,Eye,Gözler,True
@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,Yan Saç Kalkıklığı << B,True
 Hair Side Branch << C,Hair Side Branch << C,Yan Saç Kalkıklığı << C,True
 Tail,Tail,Kuyruk,True
 Wing,Wing,Kanatlar,True
+Facial Hair A,Facial Hair A,Sakal A,False
+Facial Hair B,Facial Hair B,Sakal B,False
+Cheek,Cheek,Yanak,False
+Face Feature A >>,Face Feature A >>,Yüz Özelliği A >>,False
+Face Feature A <<,Face Feature A <<,Yüz Özelliği A <<,False
+Face Feature B >>,Face Feature B >>,Yüz Özelliği B >>,False
+Face Feature B <<,Face Feature B <<,Yüz Özelliği B <<,False
+Face Feature C,Face Feature C,Yüz Özelliği C,False
+Nose,Nose,Burun,False
+Earring >>,Earring >>,Küpe >>,False
+Earring <<,Earring <<,Küpe <<,False
+Piercing A >>,Piercing A >>,Delici A >>,False
+Piercing A <<,Piercing A <<,Delici A <<,False
+Piercing B >>,Piercing B >>,Delici B >>,False
+Piercing B <<,Piercing B <<,Delici B <<,False
+Hand,Hand,El,False
+Leg,Leg,Bacak,False
+Cape Back,Cape Back,Pelerin Sırtı,False
+Cape Front,Cape Front,Cape Önü,False
