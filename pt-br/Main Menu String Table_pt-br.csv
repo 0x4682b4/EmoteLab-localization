@@ -53,7 +53,7 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Ativar Suaviza
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Resetar Opções de Exportação,True
 MainMenu.Editor.Export,Export Emote,Exportar Emote,True
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Licença provida pelo criador do modelo. Apresentada apenas para referência e não representa as ideias ou posicionamento legal dos desenvolvedores do Emotelab.,True
-LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Licença não encontrada. Confirme com o criador se o uso é permitido.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Licença não encontrada. Confirme com o criador se o uso é permitido.,True
 LicensePopup.Close,Close,Fechar,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Abre Pasta de Exportação,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Carregar Personagens de Exemplo para Modelos Pré-criados,True
@@ -99,11 +99,11 @@ You can change the language in Settings.
 
 See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Alguns idiomas são traduzidos pela nossa comunidade ou assistidos por tradução automática, portanto a qualidade pode variar.
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Alguns idiomas são traduzidos pela nossa comunidade ou por tradução de maquina, portanto a qualidade pode variar.
 
-Você pode alterar o idioma em Configurações.
+Você pode alterar o idioma nas Configurações.
 
 Veja nossos <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">colaboradores da comunidade no GitHub</link>.
 
-Quer contribuir? Junte-se a nós no <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
-MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Não mostre isso de novo,False
+Quer ajudar? Junte-se a nós no <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",True
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Não mostrar novamente,True

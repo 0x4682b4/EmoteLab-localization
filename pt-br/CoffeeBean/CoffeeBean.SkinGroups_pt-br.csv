@@ -61,22 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,Mechas Laterais do Cabelo << B,True
 Hair Side Branch << C,Hair Side Branch << C,Mechas Laterais do Cabelo << C,True
 Tail,Tail,Rabo,True
 Wing,Wing,Asa,True
-Facial Hair A,Facial Hair A,Pêlos faciais A,False
-Facial Hair B,Facial Hair B,Pêlos faciais B,False
-Cheek,Cheek,Bochecha,False
-Face Feature A >>,Face Feature A >>,Característica facial A >>,False
-Face Feature A <<,Face Feature A <<,Característica facial A <<,False
-Face Feature B >>,Face Feature B >>,Característica facial B >>,False
-Face Feature B <<,Face Feature B <<,Característica facial B <<,False
-Face Feature C,Face Feature C,Característica facial C,False
-Nose,Nose,Nariz,False
-Earring >>,Earring >>,Brinco >>,False
-Earring <<,Earring <<,Brinco <<,False
-Piercing A >>,Piercing A >>,Perfuração A >>,False
-Piercing A <<,Piercing A <<,Perfuração A <<,False
-Piercing B >>,Piercing B >>,Perfuração B >>,False
-Piercing B <<,Piercing B <<,Perfuração B <<,False
-Hand,Hand,Mão,False
-Leg,Leg,Perna,False
-Cape Back,Cape Back,Cabo de volta,False
-Cape Front,Cape Front,Frente do Cabo,False
+Facial Hair A,Facial Hair A,Pêlos faciais A,True
+Facial Hair B,Facial Hair B,Pêlos faciais B,True
+Cheek,Cheek,Bochecha,True
+Face Feature A >>,Face Feature A >>,Pintas >>,True
+Face Feature A <<,Face Feature A <<,Pintas <<,True
+Face Feature B >>,Face Feature B >>,Característica facial A >>,True
+Face Feature B <<,Face Feature B <<,Característica facial A <<,True
+Face Feature C,Face Feature C,Característica facial B,True
+Nose,Nose,Nariz,True
+Earring >>,Earring >>,Brinco >>,True
+Earring <<,Earring <<,Brinco <<,True
+Piercing A >>,Piercing A >>,Piercing A >>,True
+Piercing A <<,Piercing A <<,Piercing A <<,True
+Piercing B >>,Piercing B >>,Piercing B >>,True
+Piercing B <<,Piercing B <<,Piercing B <<,True
+Hand,Hand,Mão,True
+Leg,Leg,Perna,True
+Cape Back,Cape Back,Capa de trás,True
+Cape Front,Cape Front,Capa da frente,True
