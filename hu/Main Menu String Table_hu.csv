@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,Atlasz lista,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,"Ezzel visszaállítja a kiválasztott atlaszoldalakat a beépített verziókra. A nem mentett szerkesztések elvesznek, és nem állíthatók vissza. Folytatja?",False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Paletta algoritmus,False
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,"Ez felülírja a kiválasztott textúrafájlokat, és nem vonható vissza. Folytatja?",False
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Egyes nyelveket közösségünk fordít, vagy gépi fordítás segíti elő, így a minőség változhat.
+
+A nyelvet a Beállításokban módosíthatja.
+
+Tekintse meg <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">közösségi közreműködőinket a GitHubon</link>.
+
+Szeretnél hozzájárulni? Csatlakozz hozzánk a <link=""https://discord.gg/Xt8dAV8YF7"">Discordon</link>.",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Ne mutasd ezt újra,False

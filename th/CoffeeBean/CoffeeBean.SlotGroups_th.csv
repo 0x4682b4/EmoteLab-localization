@@ -216,3 +216,56 @@ Wing >>,Wing >>,ปีก >>,True
 Wing >> Outline,Wing >> Outline,เส้นร่างปีก >>,True
 Wing <<,Wing <<,ปีก <<,True
 Wing << Outline,Wing << Outline,เส้นร่างปีก <<,True
+Cape,Cape,เคป,False
+Cape Outline,Cape Outline,โครงร่างเคป,False
+Cheek,Cheek,แก้ม,False
+Cockroach,Cockroach,แมลงสาบ,False
+Controller,Controller,คอนโทรลเลอร์,False
+Donut,Donut,โดนัท,False
+Earring >>,Earring >>,ต่างหู >>,False
+Earring <<,Earring <<,ต่างหู <<,False
+Earring >> Outline,Earring >> Outline,ต่างหู >> โครงร่าง,False
+Earring << Outline,Earring << Outline,ต่างหู << โครงร่าง,False
+Face Feature A >>,Face Feature A >>,ลักษณะใบหน้า A >>,False
+Face Feature A <<,Face Feature A <<,ลักษณะใบหน้า A <<,False
+Face Feature B >>,Face Feature B >>,ลักษณะใบหน้า B >>,False
+Face Feature B <<,Face Feature B <<,ลักษณะใบหน้า B <<,False
+Face Feature C,Face Feature C,ลักษณะใบหน้า C,False
+Facial Hair A,Facial Hair A,ขนบนใบหน้า A,False
+Facial Hair A Outline,Facial Hair A Outline,ขนบนใบหน้าโครงร่าง,False
+Facial Hair B,Facial Hair B,ขนบนใบหน้าบี,False
+Facial Hair B Outline,Facial Hair B Outline,โครงร่างขนบนใบหน้า B,False
+Glove >>,Glove >>,ถุงมือ >>,False
+Glove >> Outline,Glove >> Outline,ถุงมือ >> โครงร่าง,False
+Glove <<,Glove <<,ถุงมือ<<,False
+Glove << Outline,Glove << Outline,ถุงมือ << โครงร่าง,False
+Hand >>,Hand >>,มือ >>,False
+Hand >> Outline,Hand >> Outline,มือ >> โครงร่าง,False
+Hand <<,Hand <<,มือ <<,False
+Hand << Outline,Hand << Outline,มือ << โครงร่าง,False
+Gun,Gun,ปืน,False
+Gun Flash,Gun Flash,ปืนแฟลช,False
+Lubricant,Lubricant,น้ำมันหล่อลื่น,False
+Megaphone,Megaphone,โทรโข่ง,False
+Nose,Nose,จมูก,False
+Piercing A >>,Piercing A >>,เจาะเอ >>,False
+Piercing A >> Outline,Piercing A >> Outline,เจาะ A >> โครงร่าง,False
+Piercing A <<,Piercing A <<,เจาะเอ <<,False
+Piercing A << Outline,Piercing A << Outline,เจาะ A << เค้าร่าง,False
+Piercing B >>,Piercing B >>,เจาะบี >>,False
+Piercing B >> Outline,Piercing B >> Outline,เจาะ B >> โครงร่าง,False
+Piercing B <<,Piercing B <<,เจาะบี <<,False
+Piercing B << Outline,Piercing B << Outline,เจาะ B << เค้าร่าง,False
+Pixel Sun Glasses,Pixel Sun Glasses,แว่นกันแดดพิกเซล,False
+Pompom >>,Pompom >>,ปอมปอม >>,False
+Pompom <<,Pompom <<,ปอมปอม <<,False
+Spray,Spray,สเปรย์,False
+Sticker Light Bulb,Sticker Light Bulb,สติ๊กเกอร์หลอดไฟ,False
+Sticker Loading,Sticker Loading,กำลังโหลดสติ๊กเกอร์,False
+Sunglasses,Sunglasses,แว่นกันแดด,False
+Sunglasses Reflection,Sunglasses Reflection,แว่นกันแดดสะท้อนแสง,False
+Tape,Tape,เทป,False
+Toilet,Toilet,ห้องน้ำ,False
+Trash Bin,Trash Bin,ถังขยะ,False
+Wave Hand,Wave Hand,คลื่นมือ,False
+Swatter,Swatter,ไม้ตี,False

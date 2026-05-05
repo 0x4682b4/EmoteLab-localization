@@ -216,3 +216,56 @@ Wing >>,Wing >>,Asa >>,True
 Wing >> Outline,Wing >> Outline,Asa >> Contorno,True
 Wing <<,Wing <<,Asa <<,True
 Wing << Outline,Wing << Outline,Asa << Contorno,True
+Cape,Cape,Cabo,False
+Cape Outline,Cape Outline,Contorno do Cabo,False
+Cheek,Cheek,Bochecha,False
+Cockroach,Cockroach,Barata,False
+Controller,Controller,Controlador,False
+Donut,Donut,Rosquinha,False
+Earring >>,Earring >>,Brinco >>,False
+Earring <<,Earring <<,Brinco <<,False
+Earring >> Outline,Earring >> Outline,Brinco >> Contorno,False
+Earring << Outline,Earring << Outline,Brinco << Contorno,False
+Face Feature A >>,Face Feature A >>,Característica facial A >>,False
+Face Feature A <<,Face Feature A <<,Característica facial A <<,False
+Face Feature B >>,Face Feature B >>,Característica facial B >>,False
+Face Feature B <<,Face Feature B <<,Característica facial B <<,False
+Face Feature C,Face Feature C,Característica facial C,False
+Facial Hair A,Facial Hair A,Pêlos faciais A,False
+Facial Hair A Outline,Facial Hair A Outline,"Pêlos faciais, um contorno",False
+Facial Hair B,Facial Hair B,Pêlos faciais B,False
+Facial Hair B Outline,Facial Hair B Outline,Contorno B dos pêlos faciais,False
+Glove >>,Glove >>,Luva >>,False
+Glove >> Outline,Glove >> Outline,Luva >> Contorno,False
+Glove <<,Glove <<,Luva <<,False
+Glove << Outline,Glove << Outline,Luva << Contorno,False
+Hand >>,Hand >>,Mão >>,False
+Hand >> Outline,Hand >> Outline,Mão >> Contorno,False
+Hand <<,Hand <<,Mão <<,False
+Hand << Outline,Hand << Outline,Mão << Contorno,False
+Gun,Gun,Pistola,False
+Gun Flash,Gun Flash,Flash de arma,False
+Lubricant,Lubricant,Lubrificante,False
+Megaphone,Megaphone,Megafone,False
+Nose,Nose,Nariz,False
+Piercing A >>,Piercing A >>,Perfuração A >>,False
+Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Contorno,False
+Piercing A <<,Piercing A <<,Perfuração A <<,False
+Piercing A << Outline,Piercing A << Outline,Perfuração A << Contorno,False
+Piercing B >>,Piercing B >>,Perfuração B >>,False
+Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Contorno,False
+Piercing B <<,Piercing B <<,Perfuração B <<,False
+Piercing B << Outline,Piercing B << Outline,Piercing B << Contorno,False
+Pixel Sun Glasses,Pixel Sun Glasses,Óculos de sol pixelados,False
+Pompom >>,Pompom >>,Pompom >>,False
+Pompom <<,Pompom <<,Pompom <<,False
+Spray,Spray,Pulverizar,False
+Sticker Light Bulb,Sticker Light Bulb,Lâmpada adesiva,False
+Sticker Loading,Sticker Loading,Carregamento de adesivos,False
+Sunglasses,Sunglasses,Óculos de sol,False
+Sunglasses Reflection,Sunglasses Reflection,Reflexão de óculos de sol,False
+Tape,Tape,Fita,False
+Toilet,Toilet,Banheiro,False
+Trash Bin,Trash Bin,Lixeira,False
+Wave Hand,Wave Hand,Acenar mão,False
+Swatter,Swatter,mata-mata,False

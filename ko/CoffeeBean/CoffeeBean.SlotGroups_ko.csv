@@ -216,3 +216,56 @@ Wing >>,Wing >>,날개 >>,True
 Wing >> Outline,Wing >> Outline,날개 >> 외곽선,True
 Wing <<,Wing <<,날개 <<,True
 Wing << Outline,Wing << Outline,날개 << 외곽선,True
+Cape,Cape,곶,False
+Cape Outline,Cape Outline,케이프 아웃라인,False
+Cheek,Cheek,볼,False
+Cockroach,Cockroach,바퀴벌레,False
+Controller,Controller,제어 장치,False
+Donut,Donut,도넛,False
+Earring >>,Earring >>,귀걸이 >>,False
+Earring <<,Earring <<,귀걸이 <<,False
+Earring >> Outline,Earring >> Outline,귀걸이 >> 개요,False
+Earring << Outline,Earring << Outline,귀걸이 << 개요,False
+Face Feature A >>,Face Feature A >>,얼굴 특징 A >>,False
+Face Feature A <<,Face Feature A <<,얼굴 특징 A <<,False
+Face Feature B >>,Face Feature B >>,얼굴 특징 B >>,False
+Face Feature B <<,Face Feature B <<,얼굴 특징 B <<,False
+Face Feature C,Face Feature C,얼굴 특징 C,False
+Facial Hair A,Facial Hair A,얼굴 털 A,False
+Facial Hair A Outline,Facial Hair A Outline,얼굴 털 A 개요,False
+Facial Hair B,Facial Hair B,수염 B,False
+Facial Hair B Outline,Facial Hair B Outline,얼굴 털 B 윤곽선,False
+Glove >>,Glove >>,장갑 >>,False
+Glove >> Outline,Glove >> Outline,장갑 >> 개요,False
+Glove <<,Glove <<,장갑 <<,False
+Glove << Outline,Glove << Outline,장갑 << 개요,False
+Hand >>,Hand >>,손 >>,False
+Hand >> Outline,Hand >> Outline,손 >> 개요,False
+Hand <<,Hand <<,손 <<,False
+Hand << Outline,Hand << Outline,손 << 개요,False
+Gun,Gun,총,False
+Gun Flash,Gun Flash,건 플래시,False
+Lubricant,Lubricant,윤활유,False
+Megaphone,Megaphone,메가폰,False
+Nose,Nose,코,False
+Piercing A >>,Piercing A >>,피어싱 A >>,False
+Piercing A >> Outline,Piercing A >> Outline,피어싱 A >> 개요,False
+Piercing A <<,Piercing A <<,피어싱 A <<,False
+Piercing A << Outline,Piercing A << Outline,피어싱 A << 개요,False
+Piercing B >>,Piercing B >>,피어싱 B >>,False
+Piercing B >> Outline,Piercing B >> Outline,피어싱 B >> 개요,False
+Piercing B <<,Piercing B <<,피어싱 B <<,False
+Piercing B << Outline,Piercing B << Outline,피어싱 B << 개요,False
+Pixel Sun Glasses,Pixel Sun Glasses,픽셀 선글라스,False
+Pompom >>,Pompom >>,폼폼 >>,False
+Pompom <<,Pompom <<,폼폼 <<,False
+Spray,Spray,스프레이,False
+Sticker Light Bulb,Sticker Light Bulb,스티커 전구,False
+Sticker Loading,Sticker Loading,스티커 로딩,False
+Sunglasses,Sunglasses,색안경,False
+Sunglasses Reflection,Sunglasses Reflection,선글라스 반사,False
+Tape,Tape,줄자,False
+Toilet,Toilet,화장실,False
+Trash Bin,Trash Bin,쓰레기통,False
+Wave Hand,Wave Hand,웨이브 핸드,False
+Swatter,Swatter,찰싹 때리는 사람,False

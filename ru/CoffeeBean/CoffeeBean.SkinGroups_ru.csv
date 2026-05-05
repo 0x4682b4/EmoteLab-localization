@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,Боковая ветвь волос
 Hair Side Branch << C,Hair Side Branch << C,Боковая ветвь волос << C,False
 Tail,Tail,Хвост,False
 Wing,Wing,Крыло,False
+Facial Hair A,Facial Hair A,Волосы на лице А,False
+Facial Hair B,Facial Hair B,Волосы на лице Б,False
+Cheek,Cheek,Щека,False
+Face Feature A >>,Face Feature A >>,Черта лица А >>,False
+Face Feature A <<,Face Feature A <<,Черта лица A <<,False
+Face Feature B >>,Face Feature B >>,Черта лица B >>,False
+Face Feature B <<,Face Feature B <<,Характеристика лица B <<,False
+Face Feature C,Face Feature C,Характеристика лица C,False
+Nose,Nose,Нос,False
+Earring >>,Earring >>,Серьги >>,False
+Earring <<,Earring <<,Серьга <<,False
+Piercing A >>,Piercing A >>,Пирсинг А >>,False
+Piercing A <<,Piercing A <<,Пирсинг А <<,False
+Piercing B >>,Piercing B >>,Пирсинг Б >>,False
+Piercing B <<,Piercing B <<,Пирсинг Б <<,False
+Hand,Hand,Рука,False
+Leg,Leg,Нога,False
+Cape Back,Cape Back,Мыс Назад,False
+Cape Front,Cape Front,Мыс Фронт,False

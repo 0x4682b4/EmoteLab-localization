@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,ปอยผมด้านหลั
 Hair Side Branch << C,Hair Side Branch << C,ปอยผมด้านหลัง C <<,True
 Tail,Tail,หาง,True
 Wing,Wing,ปีก,True
+Facial Hair A,Facial Hair A,ขนบนใบหน้า A,False
+Facial Hair B,Facial Hair B,ขนบนใบหน้าบี,False
+Cheek,Cheek,แก้ม,False
+Face Feature A >>,Face Feature A >>,ลักษณะใบหน้า A >>,False
+Face Feature A <<,Face Feature A <<,ลักษณะใบหน้า A <<,False
+Face Feature B >>,Face Feature B >>,ลักษณะใบหน้า B >>,False
+Face Feature B <<,Face Feature B <<,ลักษณะใบหน้า B <<,False
+Face Feature C,Face Feature C,ลักษณะใบหน้า C,False
+Nose,Nose,จมูก,False
+Earring >>,Earring >>,ต่างหู >>,False
+Earring <<,Earring <<,ต่างหู <<,False
+Piercing A >>,Piercing A >>,เจาะเอ >>,False
+Piercing A <<,Piercing A <<,เจาะเอ <<,False
+Piercing B >>,Piercing B >>,เจาะบี >>,False
+Piercing B <<,Piercing B <<,เจาะบี <<,False
+Hand,Hand,มือ,False
+Leg,Leg,ขา,False
+Cape Back,Cape Back,เคปแบ็ค,False
+Cape Front,Cape Front,แหลมหน้า,False

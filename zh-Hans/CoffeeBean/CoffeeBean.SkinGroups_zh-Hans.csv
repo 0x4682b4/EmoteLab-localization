@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,头发 侧面分叉 << B,True
 Hair Side Branch << C,Hair Side Branch << C,头发 侧面分叉 << C,True
 Tail,Tail,尾巴,True
 Wing,Wing,翅膀,True
+Facial Hair A,Facial Hair A,胡子 A,True
+Facial Hair B,Facial Hair B,胡子 B,True
+Cheek,Cheek,脸颊,True
+Face Feature A >>,Face Feature A >>,脸部特征 A >>,True
+Face Feature A <<,Face Feature A <<,脸部特征 A <<,True
+Face Feature B >>,Face Feature B >>,脸部特征 B >>,True
+Face Feature B <<,Face Feature B <<,脸部特征 B <<,True
+Face Feature C,Face Feature C,脸部特征 C,True
+Nose,Nose,鼻子,True
+Earring >>,Earring >>,耳环 >>,True
+Earring <<,Earring <<,耳环 <<,True
+Piercing A >>,Piercing A >>,耳钉A >>,True
+Piercing A <<,Piercing A <<,耳钉 A <<,True
+Piercing B >>,Piercing B >>,耳钉 B >>,True
+Piercing B <<,Piercing B <<,耳钉 B <<,True
+Hand,Hand,手,True
+Leg,Leg,腿,True
+Cape Back,Cape Back,披风 后,True
+Cape Front,Cape Front,披风 前,True

@@ -216,3 +216,56 @@ Wing >>,Wing >>,Szárny >>,False
 Wing >> Outline,Wing >> Outline,Szárny >> Vázlat,False
 Wing <<,Wing <<,Szárny <<,False
 Wing << Outline,Wing << Outline,Szárny << Vázlat,False
+Cape,Cape,Köpeny,False
+Cape Outline,Cape Outline,Cape körvonala,False
+Cheek,Cheek,Pofa,False
+Cockroach,Cockroach,Csótány,False
+Controller,Controller,Vezérlő,False
+Donut,Donut,Fánk,False
+Earring >>,Earring >>,Fülbevaló >>,False
+Earring <<,Earring <<,Fülbevaló <<,False
+Earring >> Outline,Earring >> Outline,Fülbevaló >> Vázlat,False
+Earring << Outline,Earring << Outline,Fülbevaló << Vázlat,False
+Face Feature A >>,Face Feature A >>,Arcvonás A >>,False
+Face Feature A <<,Face Feature A <<,Arcvonás A <<,False
+Face Feature B >>,Face Feature B >>,B arcvonás >>,False
+Face Feature B <<,Face Feature B <<,B arcvonás <<,False
+Face Feature C,Face Feature C,Arcvonás C,False
+Facial Hair A,Facial Hair A,Arcszőrzet A,False
+Facial Hair A Outline,Facial Hair A Outline,Arcszőrzet Vázlat,False
+Facial Hair B,Facial Hair B,Arcszőrzet B,False
+Facial Hair B Outline,Facial Hair B Outline,Arcszőrzet B vázlat,False
+Glove >>,Glove >>,Kesztyű >>,False
+Glove >> Outline,Glove >> Outline,Kesztyű >> Vázlat,False
+Glove <<,Glove <<,Kesztyű <<,False
+Glove << Outline,Glove << Outline,Kesztyű << Vázlat,False
+Hand >>,Hand >>,Kéz >>,False
+Hand >> Outline,Hand >> Outline,Kéz >> Vázlat,False
+Hand <<,Hand <<,Kéz <<,False
+Hand << Outline,Hand << Outline,Kézi << Vázlat,False
+Gun,Gun,Pisztoly,False
+Gun Flash,Gun Flash,Gun Flash,False
+Lubricant,Lubricant,Kenőanyag,False
+Megaphone,Megaphone,Megafon,False
+Nose,Nose,Orr,False
+Piercing A >>,Piercing A >>,Piercing A >>,False
+Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Vázlat,False
+Piercing A <<,Piercing A <<,Piercing A <<,False
+Piercing A << Outline,Piercing A << Outline,Piercing << Körvonal,False
+Piercing B >>,Piercing B >>,Piercing B >>,False
+Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Vázlat,False
+Piercing B <<,Piercing B <<,Piercing B <<,False
+Piercing B << Outline,Piercing B << Outline,Piercing B << Vázlat,False
+Pixel Sun Glasses,Pixel Sun Glasses,Pixel napszemüveg,False
+Pompom >>,Pompom >>,Pompon >>,False
+Pompom <<,Pompom <<,Pompon <<,False
+Spray,Spray,Permet,False
+Sticker Light Bulb,Sticker Light Bulb,Matrica villanykörte,False
+Sticker Loading,Sticker Loading,Matrica betöltése,False
+Sunglasses,Sunglasses,Napszemüveg,False
+Sunglasses Reflection,Sunglasses Reflection,Napszemüveg Reflection,False
+Tape,Tape,Szalag,False
+Toilet,Toilet,WC,False
+Trash Bin,Trash Bin,Szemeteskosár,False
+Wave Hand,Wave Hand,Hullám kéz,False
+Swatter,Swatter,Légycsapó,False
