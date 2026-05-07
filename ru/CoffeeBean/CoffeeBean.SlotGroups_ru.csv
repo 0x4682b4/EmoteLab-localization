@@ -216,3 +216,56 @@ Wing >>,Wing >>,Крылья >>,False
 Wing >> Outline,Wing >> Outline,Крылья >> Контур,False
 Wing <<,Wing <<,Крылья <<,False
 Wing << Outline,Wing << Outline,Крылья << Контур,False
+Cape,Cape,Мыс,False
+Cape Outline,Cape Outline,Контур мыса,False
+Cheek,Cheek,Щека,False
+Cockroach,Cockroach,Таракан,False
+Controller,Controller,Контроллер,False
+Donut,Donut,Пончик,False
+Earring >>,Earring >>,Серьги >>,False
+Earring <<,Earring <<,Серьга <<,False
+Earring >> Outline,Earring >> Outline,Серьга >> Схема,False
+Earring << Outline,Earring << Outline,Серьга << Контур,False
+Face Feature A >>,Face Feature A >>,Черта лица А >>,False
+Face Feature A <<,Face Feature A <<,Черта лица A <<,False
+Face Feature B >>,Face Feature B >>,Черта лица B >>,False
+Face Feature B <<,Face Feature B <<,Характеристика лица B <<,False
+Face Feature C,Face Feature C,Характеристика лица C,False
+Facial Hair A,Facial Hair A,Волосы на лице А,False
+Facial Hair A Outline,Facial Hair A Outline,Волосы на лице: контур,False
+Facial Hair B,Facial Hair B,Волосы на лице Б,False
+Facial Hair B Outline,Facial Hair B Outline,Волосы на лице B. Контур,False
+Glove >>,Glove >>,Перчатка >>,False
+Glove >> Outline,Glove >> Outline,Перчатка >> Схема,False
+Glove <<,Glove <<,Перчатка <<,False
+Glove << Outline,Glove << Outline,Перчатка << Контур,False
+Hand >>,Hand >>,Рука >>,False
+Hand >> Outline,Hand >> Outline,Рука >> Схема,False
+Hand <<,Hand <<,Рука <<,False
+Hand << Outline,Hand << Outline,Рука << Контур,False
+Gun,Gun,Пистолет,False
+Gun Flash,Gun Flash,Пистолетная вспышка,False
+Lubricant,Lubricant,Смазка,False
+Megaphone,Megaphone,Мегафон,False
+Nose,Nose,Нос,False
+Piercing A >>,Piercing A >>,Пирсинг А >>,False
+Piercing A >> Outline,Piercing A >> Outline,Пирсинг А >> Схема,False
+Piercing A <<,Piercing A <<,Пирсинг А <<,False
+Piercing A << Outline,Piercing A << Outline,Пирсинг А << Схема,False
+Piercing B >>,Piercing B >>,Пирсинг Б >>,False
+Piercing B >> Outline,Piercing B >> Outline,Пирсинг B >> Схема,False
+Piercing B <<,Piercing B <<,Пирсинг Б <<,False
+Piercing B << Outline,Piercing B << Outline,Пирсинг B << Схема,False
+Pixel Sun Glasses,Pixel Sun Glasses,Пиксельные солнцезащитные очки,False
+Pompom >>,Pompom >>,Помпон >>,False
+Pompom <<,Pompom <<,Помпон <<,False
+Spray,Spray,Спрей,False
+Sticker Light Bulb,Sticker Light Bulb,Наклейка Лампочка,False
+Sticker Loading,Sticker Loading,Загрузка стикера,False
+Sunglasses,Sunglasses,Солнцезащитные очки,False
+Sunglasses Reflection,Sunglasses Reflection,Солнцезащитные очки Отражение,False
+Tape,Tape,Лента,False
+Toilet,Toilet,Туалет,False
+Trash Bin,Trash Bin,мусорное ведро,False
+Wave Hand,Wave Hand,Волновая рука,False
+Swatter,Swatter,Сваттер,False
