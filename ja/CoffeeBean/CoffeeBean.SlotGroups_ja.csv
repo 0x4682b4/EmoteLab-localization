@@ -216,3 +216,56 @@ Wing >>,Wing >>,ウィング >>,False
 Wing >> Outline,Wing >> Outline,ウイング >> 概要,False
 Wing <<,Wing <<,ウィング <<,False
 Wing << Outline,Wing << Outline,ウイング << 概要,False
+Cape,Cape,ケープ,False
+Cape Outline,Cape Outline,岬の輪郭,False
+Cheek,Cheek,頬,False
+Cockroach,Cockroach,ゴキブリ,False
+Controller,Controller,コントローラ,False
+Donut,Donut,ドーナツ,False
+Earring >>,Earring >>,イヤリング >>,False
+Earring <<,Earring <<,イヤリング <<,False
+Earring >> Outline,Earring >> Outline,イヤリング >> 概要,False
+Earring << Outline,Earring << Outline,イヤリング << 概要,False
+Face Feature A >>,Face Feature A >>,顔の特徴A >>,False
+Face Feature A <<,Face Feature A <<,顔の特徴 A <<,False
+Face Feature B >>,Face Feature B >>,顔の特徴B >>,False
+Face Feature B <<,Face Feature B <<,顔の特徴 B <<,False
+Face Feature C,Face Feature C,顔の特徴 C,False
+Facial Hair A,Facial Hair A,ひげA,False
+Facial Hair A Outline,Facial Hair A Outline,顔の毛Aの概要,False
+Facial Hair B,Facial Hair B,ひげB,False
+Facial Hair B Outline,Facial Hair B Outline,ひげBの輪郭,False
+Glove >>,Glove >>,グローブ >>,False
+Glove >> Outline,Glove >> Outline,グローブ >> 概要,False
+Glove <<,Glove <<,グローブ <<,False
+Glove << Outline,Glove << Outline,グローブ << 概要,False
+Hand >>,Hand >>,手 >>,False
+Hand >> Outline,Hand >> Outline,手 >> 概要,False
+Hand <<,Hand <<,手 <<,False
+Hand << Outline,Hand << Outline,手 << アウトライン,False
+Gun,Gun,銃,False
+Gun Flash,Gun Flash,ガンフラッシュ,False
+Lubricant,Lubricant,潤滑剤,False
+Megaphone,Megaphone,メガホン,False
+Nose,Nose,鼻,False
+Piercing A >>,Piercing A >>,ピアスA >>,False
+Piercing A >> Outline,Piercing A >> Outline,ピアスA >> 概要,False
+Piercing A <<,Piercing A <<,ピアスA <<,False
+Piercing A << Outline,Piercing A << Outline,ピアスA << 概要,False
+Piercing B >>,Piercing B >>,ピアスB >>,False
+Piercing B >> Outline,Piercing B >> Outline,ピアスB >> 概要,False
+Piercing B <<,Piercing B <<,ピアスB <<,False
+Piercing B << Outline,Piercing B << Outline,ピアスB << 概要,False
+Pixel Sun Glasses,Pixel Sun Glasses,ピクセルサングラス,False
+Pompom >>,Pompom >>,ポンポン >>,False
+Pompom <<,Pompom <<,ポンポン <<,False
+Spray,Spray,スプレー,False
+Sticker Light Bulb,Sticker Light Bulb,ステッカー電球,False
+Sticker Loading,Sticker Loading,ステッカーの読み込み,False
+Sunglasses,Sunglasses,サングラス,False
+Sunglasses Reflection,Sunglasses Reflection,サングラスの反射,False
+Tape,Tape,テープ,False
+Toilet,Toilet,トイレ,False
+Trash Bin,Trash Bin,ゴミ箱,False
+Wave Hand,Wave Hand,手を振る,False
+Swatter,Swatter,たたき,False

@@ -1,4 +1,4 @@
-Key,en,tr,Reviewed
+Key,en,tr,reviewed
 Alert Bits,Alert Bits,Bit Bildirimi,True
 Alert Donation,Alert Donation,Bağış Bildirimi,True
 Alert Heart,Alert Heart,Kalp Bildirimi,True
@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),Uyu (Normal),True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Uyku (Hazırlanma Aşaması 1),True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Uyku (Hazırlanma Aşaması 2),True
 Sleep (UU),Sleep (UU),Uyu (UU),True
-Sparkling,Sparkling,Parıl Parıl,True
 Surprise,Surprise,Sürpriz,True
 Sweat,Sweat,Yorulma,True
 Thumb Down,Thumb Down,Beğenmedim,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,İlan-ı Aşk Mektubu,True
 Need Food,Need Food,Yemek Lazım,True
 PNGTuber Idle,PNGTuber Idle,PNGTuber Sabit,True
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Sabit 2,True
+PNGTuber Loading,PNGTuber Loading,PNGTuber Yükleniyor,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber Konuş,True
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Konuş 2,True
 PNGTuber Yap,PNGTuber Yap,PNGTuber Boş Yap,True
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,Popcat Akışkan,True
 Sing,Sing,Şarkı Söyle,True
 Tablet,Tablet,Çizim Tableti,True
 Tail Wag,Tail Wag,Kuyruk Salla,True
+Bug,Bug,Böcek,False
+Cheer,Cheer,Tezahürat,False
+Easter,Easter,Paskalya,False
+Gun,Gun,Silah,False
+Idea,Idea,Fikir,False
+Megaphone,Megaphone,Megafon,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),Ücretli Mola (Kolay Mod),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),Ücretli Mola (Zor Mod),False
+Spray,Spray,Sprey,False
+Stops Working,Stops Working,Çalışmayı Durdurur,False
+Sunglasses Gleam,Sunglasses Gleam,Güneş Gözlüğü Parıltısı,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Güneş Gözlüğü Pixel Gleam,False
+Sunglasses Remove,Sunglasses Remove,Güneş Gözlüğü Kaldır,False
+Swatter,Swatter,Sineklik,False
+Tape,Tape,Kaset,False
+Trash Bin,Trash Bin,Çöp Kutusu,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber Boşta,False
+TrashTuber Talk,TrashTuber Talk,TrashTuber Konuşması,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber Yap,False
+Cheers,Cheers,Şerefe,False
+Dance 1,Dance 1,Dans 1,False
+Dance (Caramelldansen),Dance (Caramelldansen),Dans (Caramelldansen),False
+Dance (Helltaker),Dance (Helltaker),Dans (Cehennem Avcısı),False
+Dance (Low Cortisol),Dance (Low Cortisol),Dans (Düşük Kortizol),False
+Eat (Donut),Eat (Donut),Yemek (Çörek),False
+Eat (Popcorn),Eat (Popcorn),Yemek (Patlamış mısır),False
+Eat (Watermelon),Eat (Watermelon),Yemek (Karpuz),False
+Game,Game,Oyun,False
+Greeting 1,Greeting 1,Selamlama 1,False
+Greeting 2,Greeting 2,Selamlama 2,False
+Sparkling 1,Sparkling 1,Köpüklü 1,False
+Sparkling 2,Sparkling 2,Köpüklü 2,False
+Think (Confident),Think (Confident),Düşün (Kendinden emin),False
+Think (Serious),Think (Serious),Düşün (Ciddi),False

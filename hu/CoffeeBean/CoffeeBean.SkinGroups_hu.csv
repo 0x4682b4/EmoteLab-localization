@@ -61,3 +61,22 @@ Hair Side Branch << B,Hair Side Branch << B,Haj oldalág << B,False
 Hair Side Branch << C,Hair Side Branch << C,Haj oldalág << C,False
 Tail,Tail,Farok,False
 Wing,Wing,Szárny,False
+Facial Hair A,Facial Hair A,Arcszőrzet A,False
+Facial Hair B,Facial Hair B,Arcszőrzet B,False
+Cheek,Cheek,Pofa,False
+Face Feature A >>,Face Feature A >>,Arcvonás A >>,False
+Face Feature A <<,Face Feature A <<,Arcvonás A <<,False
+Face Feature B >>,Face Feature B >>,B arcvonás >>,False
+Face Feature B <<,Face Feature B <<,B arcvonás <<,False
+Face Feature C,Face Feature C,Arcvonás C,False
+Nose,Nose,Orr,False
+Earring >>,Earring >>,Fülbevaló >>,False
+Earring <<,Earring <<,Fülbevaló <<,False
+Piercing A >>,Piercing A >>,Piercing A >>,False
+Piercing A <<,Piercing A <<,Piercing A <<,False
+Piercing B >>,Piercing B >>,Piercing B >>,False
+Piercing B <<,Piercing B <<,Piercing B <<,False
+Hand,Hand,Kéz,False
+Leg,Leg,Láb,False
+Cape Back,Cape Back,Cape Back,False
+Cape Front,Cape Front,Cape Front,False

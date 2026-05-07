@@ -216,3 +216,56 @@ Wing >>,Wing >>,翅膀 >>,True
 Wing >> Outline,Wing >> Outline,翅膀 >> 轮廓,True
 Wing <<,Wing <<,翅膀 <<,True
 Wing << Outline,Wing << Outline,翅膀 << 轮廓,True
+Cape,Cape,斗篷,True
+Cape Outline,Cape Outline,斗篷 轮廓,True
+Cheek,Cheek,脸颊,True
+Cockroach,Cockroach,蟑螂,True
+Controller,Controller,手柄,True
+Donut,Donut,甜甜圈,True
+Earring >>,Earring >>,耳环 >>,True
+Earring <<,Earring <<,耳环 <<,True
+Earring >> Outline,Earring >> Outline,耳环 >> 轮廓,True
+Earring << Outline,Earring << Outline,耳环 << 轮廓,True
+Face Feature A >>,Face Feature A >>,脸部特征 A >>,True
+Face Feature A <<,Face Feature A <<,脸部特征 A <<,True
+Face Feature B >>,Face Feature B >>,脸部特征 B >>,True
+Face Feature B <<,Face Feature B <<,脸部特征 B <<,True
+Face Feature C,Face Feature C,脸部特征 C,True
+Facial Hair A,Facial Hair A,胡子 A,True
+Facial Hair A Outline,Facial Hair A Outline,胡子 A 轮廓,True
+Facial Hair B,Facial Hair B,胡子 B,True
+Facial Hair B Outline,Facial Hair B Outline,胡子 B 轮廓,True
+Glove >>,Glove >>,手套 >>,True
+Glove >> Outline,Glove >> Outline,手套 >> 轮廓,True
+Glove <<,Glove <<,手套 <<,True
+Glove << Outline,Glove << Outline,手套 << 轮廓,True
+Hand >>,Hand >>,手 >>,True
+Hand >> Outline,Hand >> Outline,手 >> 轮廓,True
+Hand <<,Hand <<,手 <<,True
+Hand << Outline,Hand << Outline,手 << 轮廓,True
+Gun,Gun,枪,True
+Gun Flash,Gun Flash,枪口闪光,True
+Lubricant,Lubricant,润滑剂,True
+Megaphone,Megaphone,扩音器,True
+Nose,Nose,鼻子,True
+Piercing A >>,Piercing A >>,耳钉 A >>,True
+Piercing A >> Outline,Piercing A >> Outline,耳钉 A >> 轮廓,True
+Piercing A <<,Piercing A <<,耳钉 A <<,True
+Piercing A << Outline,Piercing A << Outline,耳钉 A << 轮廓,True
+Piercing B >>,Piercing B >>,耳钉 B >>,True
+Piercing B >> Outline,Piercing B >> Outline,耳钉 B >> 轮廓,True
+Piercing B <<,Piercing B <<,耳钉 B <<,True
+Piercing B << Outline,Piercing B << Outline,耳钉 B << 轮廓,True
+Pixel Sun Glasses,Pixel Sun Glasses,像素太阳镜,True
+Pompom >>,Pompom >>,拉拉花 >>,True
+Pompom <<,Pompom <<,拉拉花 <<,True
+Spray,Spray,喷雾,True
+Sticker Light Bulb,Sticker Light Bulb,表情贴纸 灯泡,True
+Sticker Loading,Sticker Loading,表情贴纸 加载,True
+Sunglasses,Sunglasses,太阳镜,True
+Sunglasses Reflection,Sunglasses Reflection,太阳镜反光,True
+Tape,Tape,胶带,True
+Toilet,Toilet,马桶,True
+Trash Bin,Trash Bin,垃圾桶,True
+Wave Hand,Wave Hand,挥手 手,True
+Swatter,Swatter,拍子,True

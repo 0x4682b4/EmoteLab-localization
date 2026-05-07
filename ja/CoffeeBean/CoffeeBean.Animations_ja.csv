@@ -65,7 +65,6 @@ Sleep (Normal),Sleep (Normal),寝る（通常）,True
 Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),寝る（準備1）,True
 Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),寝る（準備2）,True
 Sleep (UU),Sleep (UU),寝る（すやすや）,True
-Sparkling,Sparkling,キラキラ,True
 Surprise,Surprise,びっくり顔,True
 Sweat,Sweat,冷や汗,True
 Thumb Down,Thumb Down,よくないね,True
@@ -90,6 +89,7 @@ Love Letter,Love Letter,ラブレター,False
 Need Food,Need Food,食べ物が必要です,False
 PNGTuber Idle,PNGTuber Idle,PNGTuberアイドル,False
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber アイドル 2,False
+PNGTuber Loading,PNGTuber Loading,PNGTuberの読み込み,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber トーク,False
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber トーク 2,False
 PNGTuber Yap,PNGTuber Yap,PNGチューバー ヤップ,False
@@ -98,3 +98,37 @@ Popcat Smooth,Popcat Smooth,ポップキャットスムーズ,False
 Sing,Sing,歌う,False
 Tablet,Tablet,錠剤,False
 Tail Wag,Tail Wag,テールワグ,False
+Bug,Bug,バグ,False
+Cheer,Cheer,応援する,False
+Easter,Easter,イースター,False
+Gun,Gun,銃,False
+Idea,Idea,アイデア,False
+Megaphone,Megaphone,メガホン,False
+Paid Break (Easy Mode),Paid Break (Easy Mode),有給休憩（イージーモード）,False
+Paid Break (Hard Mode),Paid Break (Hard Mode),有給休憩（ハードモード）,False
+Spray,Spray,スプレー,False
+Stops Working,Stops Working,動作を停止します,False
+Sunglasses Gleam,Sunglasses Gleam,サングラスの輝き,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,サングラス ピクセル グリム,False
+Sunglasses Remove,Sunglasses Remove,サングラスを外す,False
+Swatter,Swatter,たたき,False
+Tape,Tape,テープ,False
+Trash Bin,Trash Bin,ゴミ箱,False
+TrashTuber Idle,TrashTuber Idle,トラッシュチューバーアイドル,False
+TrashTuber Talk,TrashTuber Talk,トラッシュチューバートーク,False
+TrashTuber Yap,TrashTuber Yap,トラッシュチューバー・ヤップ,False
+Cheers,Cheers,乾杯,False
+Dance 1,Dance 1,ダンス1,False
+Dance (Caramelldansen),Dance (Caramelldansen),ダンス (キャラメルダンセン),False
+Dance (Helltaker),Dance (Helltaker),ダンス (ヘルテイカー),False
+Dance (Low Cortisol),Dance (Low Cortisol),ダンス (コルチゾール低下),False
+Eat (Donut),Eat (Donut),食べる（ドーナツ）,False
+Eat (Popcorn),Eat (Popcorn),食べる（ポップコーン）,False
+Eat (Watermelon),Eat (Watermelon),食べる（スイカ）,False
+Game,Game,ゲーム,False
+Greeting 1,Greeting 1,ご挨拶1,False
+Greeting 2,Greeting 2,ご挨拶2,False
+Sparkling 1,Sparkling 1,スパークリング1,False
+Sparkling 2,Sparkling 2,スパークリング2,False
+Think (Confident),Think (Confident),考える（自信がある）,False
+Think (Serious),Think (Serious),考える（真剣）,False

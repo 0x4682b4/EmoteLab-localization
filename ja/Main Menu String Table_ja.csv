@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,アトラス一覧,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,選択したアトラスページを初期状態にリセットします。未保存の編集は失われ、復元できません。続行しますか？,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,パレットアルゴリズム,True
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,これにより、選択したテクスチャ ファイルが上書きされ、元に戻すことはできません。続く？,False
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","一部の言語はコミュニティによって翻訳されているか、機械翻訳によって翻訳されているため、品質が異なる場合があります。
+
+言語は設定で変更できます。
+
+<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub のコミュニティ貢献者</link>をご覧ください。
+
+貢献したいですか？ <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link> に参加してください。",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,これを二度と表示しないでください,False

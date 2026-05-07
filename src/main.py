@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import pathlib
 from deep_translator import GoogleTranslator
 
 """
@@ -29,13 +30,23 @@ dct_langs = {
     'ko': 'zh-Hans',
     'ru': 'en',
     'pt-br': 'en',
+    'uk': 'en',
+    'it': 'en',
+    'th': 'en',
+    'tr': 'en',
 }
 
 class CSVFile:
-    def __init__(self, filepath):
+    def __init__(self, filepath, df):
         self.key = 'Key'  # join key
         self.filepath = filepath
-        self.df = pd.read_csv(filepath)
+        self.df = df
+
+    @classmethod
+    def from_filepath(cls, filepath, **kwargs):
+        df = pd.read_csv(filepath)
+        # Pass the df and any extra kwargs (like lang) to the constructor
+        return cls(filepath, df, **kwargs)
 
     def __repr__(self):
         return f'"{self.filepath.split(os.sep)[-1]}" on key "{self.key}"'
@@ -43,17 +54,26 @@ class CSVFile:
     def write(self, path=None):
         if path is None:
             path = self.filepath
+        pathlib.Path(path).parent.mkdir(parents=True, exist_ok=True)
         self.df.to_csv(path, index=False)
 
 class LanguageCSVFile(CSVFile):
-    def __init__(self, filepath, lang):
-        super().__init__(filepath)
+    def __init__(self, filepath, df, lang):
+        super().__init__(filepath, df)
         self.lang = lang
 
     def update(self, ref: CSVFile):
         # put all rows from reference into csv
         df = pd.merge(ref.df, self.df, how='left', left_on=ref.key, right_on=self.key, suffixes=('', '_y'))
         msk_changed = df['en'] != df['en_y']
+
+        # For non-main-menu files we join DisplayName (ref) -> Key (locale).
+        # New rows won't have a right-side Key, so backfill locale Key from the ref join key.
+        if 'Key' in df.columns and ref.key in df.columns:
+            df['Key'] = df['Key'].fillna(df[ref.key])
+        elif ref.key in df.columns:
+            df['Key'] = df[ref.key]
+
         df = df[self.df.columns]
         df.loc[msk_changed, 'reviewed'] = False  # if the english string has changed, reset the reviewed flag
         df['reviewed'] = df['reviewed'].fillna(False)
@@ -76,9 +96,23 @@ class LanguageCSVFile(CSVFile):
             else:
                 translation_target = self.lang
 
+            print(f'translating {sum(translate_msk)} entries for {translation_target} from {src_lang}...')
             translator = GoogleTranslator(source=src_lang, target=translation_target)
+            def safe_translate_row(row):
+                src_text = row[src_lang]
+                try:
+                    return translator.translate(src_text)
+                except Exception as ex:
+                    key = row.get('Key', '<unknown-key>')
+                    print(
+                        f'[warn] translation failed for {self.lang} key="{key}" text="{src_text}": {ex}'
+                    )
+                    # Fallback to English so locale tables keep a usable non-empty value.
+                    return src_text
 
-            self.df.loc[translate_msk, self.lang] = self.df[translate_msk].apply(lambda row: translator.translate(row[src_lang]), axis="columns")
+            self.df.loc[translate_msk, self.lang] = self.df[translate_msk].apply(
+                safe_translate_row, axis="columns"
+            )
 
     def summary(self):
         return self.df.loc[:, 'reviewed'].sum(), len(self.df)
@@ -86,7 +120,7 @@ class LanguageCSVFile(CSVFile):
 
 class CSVDir:
     def __init__(self, dirpath):
-        self.files = [CSVFile(filepath) for filepath in recursive_csvs(dirpath)]
+        self.files = [CSVFile.from_filepath(filepath) for filepath in recursive_csvs(dirpath)]
 
     def dirpath(self, lang):
         return f'..{os.sep}{lang}'
@@ -122,7 +156,7 @@ class RefDir(CSVDir):
 
 class LangDir(CSVDir):
     def __init__(self, lang):
-        self.files = [LanguageCSVFile(filepath, lang) for filepath in recursive_csvs(super().dirpath(lang))]
+        self.files = [LanguageCSVFile.from_filepath(filepath, lang=lang) for filepath in recursive_csvs(super().dirpath(lang))]
         """
         (cols: Key, en, {lang}, reviewed)
         """
@@ -142,10 +176,11 @@ class LangDir(CSVDir):
         for (reffp, langfp) in ref.lang_filepaths(self.lang):
             if langfp not in self.files.keys():
                 # not exists - create
-                ref.files[reffp].write(langfp)
-                f = LanguageCSVFile(langfp, self.lang)  # from reference
-                f.df[self.lang] = None
+                f = LanguageCSVFile(langfp, ref.files[reffp].df, self.lang)
+                f.df = f.df.rename(columns={ref.files[reffp].key: 'Key'})
+                f.df[self.lang] = ""
                 f.df['reviewed'] = False
+                f.df = f.df.loc[:, ['Key', 'en', f'{self.lang}', 'reviewed']]
                 self.files[langfp] = f
             else:
                 self.files[langfp].update(ref.files[reffp])

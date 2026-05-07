@@ -53,7 +53,7 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Abilita dither
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Ripristina le impostazioni di esportazione,False
 MainMenu.Editor.Export,Export Emote,Esporta emoticon,False
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Licenza fornita dal creatore del modello. Visualizzato solo come riferimento e non rappresenta le opinioni o la posizione legale dello sviluppatore EmoteLab.,False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Licenza non trovata. Conferma l'uso consentito con il creatore.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Licenza non trovata. Conferma l'uso consentito con il creatore.,False
 LicensePopup.Close,Close,Vicino,False
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Apri la cartella di esportazione,False
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Carica caratteri di esempio per i modelli incorporati,False
@@ -93,3 +93,17 @@ MainMenu.Editor.Texture.AtlasList,Atlas List,Elenco dell'Atlante,False
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Ciò ripristinerà le pagine dell'atlante selezionate alle versioni integrate. Eventuali modifiche non salvate andranno perse e non potranno essere recuperate. Continuare?,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Algoritmo della tavolozza,False
 MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Ciò sovrascriverà i file di texture selezionati e non può essere annullato. Continuare?,False
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Alcune lingue sono tradotte dalla nostra community o assistite dalla traduzione automatica, quindi la qualità può variare.
+
+Puoi cambiare la lingua in Impostazioni.
+
+Vedi i nostri <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">collaboratori della community su GitHub</link>.
+
+Vuoi contribuire? Unisciti a noi su <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Non mostrarlo più,False
