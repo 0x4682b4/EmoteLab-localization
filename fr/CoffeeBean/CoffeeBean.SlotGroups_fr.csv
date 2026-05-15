@@ -75,11 +75,11 @@ Hair Clip >> Outline,Hair Clip >> Outline,Pince à cheveux >> Aperçu,False
 Hair Clip <<,Hair Clip <<,Pince à cheveux <<,False
 Hair Clip << Outline,Hair Clip << Outline,Pince à cheveux << Aperçu,False
 Hair Highlight 1 >>,Hair Highlight 1 >>,Mèches de cheveux 1 >>,False
-Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Mèches de cheveux 1 >> Aperçu,False
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Mèches de cheveux 1 >>,False
 Hair Highlight 2 >>,Hair Highlight 2 >>,Mèches de cheveux 2 >>,False
-Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Mèches capillaires 2 >> Aperçu,False
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Mèches capillaires 2 >>,False
 Hair Highlight 3 >>,Hair Highlight 3 >>,Mèches de cheveux 3 >>,False
-Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Mèches capillaires 3 >> Aperçu,False
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Mèches capillaires 3 >>,False
 Hair Highlight 1 ><,Hair Highlight 1 ><,Mèches de cheveux 1 ><,False
 Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Mèches de cheveux 1 >< Aperçu,False
 Hair Highlight 2 ><,Hair Highlight 2 ><,Mèches de cheveux 2 ><,False
@@ -100,26 +100,26 @@ Hair Highlight 3 <<,Hair Highlight 3 <<,Mèches de cheveux 3 <<,False
 Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Mèches de cheveux 3 << Aperçu,False
 Hairline Outline,Hairline Outline,Contour des cheveux,False
 Hair Shine,Hair Shine,Brillance des cheveux,False
-Hair Shine Outline,Hair Shine Outline,Aperçu de la brillance des cheveux,False
+Hair Shine Outline,Hair Shine Outline,Contour brillance des cheveux,False
 Halo,Halo,Halo,False
-Halo Outline,Halo Outline,Aperçu du halo,False
+Halo Outline,Halo Outline,Contour du halo,False
 Hat,Hat,Chapeau,False
-Hat Outline,Hat Outline,Aperçu du chapeau,False
+Hat Outline,Hat Outline,Contour chapeau,False
 Hat Secondary,Hat Secondary,Chapeau Secondaire,False
-Hat Secondary Outline,Hat Secondary Outline,Contour secondaire du chapeau,False
+Hat Secondary Outline,Hat Secondary Outline,Contour secondaire chapeau,False
 Hammer,Hammer,Marteau,False
 Ear Wing >>,Ear Wing >>,Aile d'oreille >>,False
-Ear Wing >> Outline,Ear Wing >> Outline,Aile d'oreille >> Aperçu,False
+Ear Wing >> Outline,Ear Wing >> Outline,Contour Aile d'oreille >>,False
 Ear Wing <<,Ear Wing <<,Aile d'oreille <<,False
-Ear Wing << Outline,Ear Wing << Outline,Aile d'oreille << Aperçu,False
+Ear Wing << Outline,Ear Wing << Outline,Contour Aile d'oreille <<,False
 Heart,Heart,Cœur,False
 Horn >>,Horn >>,Corne >>,False
-Horn >> Outline,Horn >> Outline,Corne >> Aperçu,False
+Horn >> Outline,Horn >> Outline,Contour Corne >>,False
 Horn <<,Horn <<,Corne <<,False
-Horn << Outline,Horn << Outline,Corne << Aperçu,False
+Horn << Outline,Horn << Outline,Contour Corne <<,False
 Horn ><,Horn ><,Corne ><,False
-Horn >< Outline,Horn >< Outline,Corne >< Aperçu,False
-Jail Grill,Jail Grill,Grill de prison,False
+Horn >< Outline,Horn >< Outline,Contour Corne ><,False
+Jail Grill,Jail Grill,Grille de prison,False
 Keyboard,Keyboard,Clavier,False
 Kitchen Knife,Kitchen Knife,Couteau de cuisine,False
 Laptop,Laptop,Ordinateur portable,False
@@ -131,33 +131,33 @@ Light Stick >>,Light Stick >>,Bâton lumineux >>,False
 Light Stick <<,Light Stick <<,Bâton lumineux <<,False
 Mecha,Mecha,Mécha,False
 Mecha >>,Mecha >>,Mécha >>,False
-Mecha >> Outline,Mecha >> Outline,Mecha >> Aperçu,False
-Mecha Outline,Mecha Outline,Aperçu du méca,False
+Mecha >> Outline,Mecha >> Outline,Contour Mecha >>,False
+Mecha Outline,Mecha Outline,Contour du méca,False
 Mecha <<,Mecha <<,Mécha <<,False
-Mecha << Outline,Mecha << Outline,Mecha << Aperçu,False
+Mecha << Outline,Mecha << Outline,Contour Mecha <<,False
 Mouse,Mouse,Souris,False
 Mouth/Tongue,Mouth/Tongue,Bouche/Langue,False
 Mouth/Tongue Shadow,Mouth/Tongue Shadow,Ombre bouche/langue,False
 Notepad,Notepad,Bloc-notes,False
 Outfit Collar,Outfit Collar,Collier de tenue,False
-Outfit Collar Outline,Outfit Collar Outline,Aperçu du col de la tenue,False
+Outfit Collar Outline,Outfit Collar Outline,Contour du col de la tenue,False
 Outfit Inner,Outfit Inner,Tenue intérieure,False
-Outfit Inner Outline,Outfit Inner Outline,Aperçu intérieur de la tenue,False
+Outfit Inner Outline,Outfit Inner Outline,Contour intérieur de la tenue,False
 Outfit Neckwear A,Outfit Neckwear A,Tenue Cravate A,False
-Outfit Neckwear A Outline,Outfit Neckwear A Outline,Tenue Cravates Un Contour,False
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Contour Tenue Cravates A,False
 Outfit Neckwear B,Outfit Neckwear B,Tenue Cravate B,False
-Outfit Neckwear B Outline,Outfit Neckwear B Outline,Tenue Cravates B Outline,False
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Contour Tenue Cravates B,False
 Outfit Neckwear C,Outfit Neckwear C,Tenue Cravate C,False
-Outfit Neckwear C Outline,Outfit Neckwear C Outline,Tenue Cravate C Outline,False
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Contour Tenue Cravate C,False
 Outfit Outer,Outfit Outer,Tenue extérieure,False
 Outfit Outer Outline,Outfit Outer Outline,Contour extérieur de la tenue,False
 Pencil,Pencil,Crayon,False
 Phone,Phone,Téléphone,False
 Phone Light,Phone Light,Lumière du téléphone,False
 Hair Pigtail >>,Hair Pigtail >>,Queue de cochon >>,False
-Hair Pigtail >> Outline,Hair Pigtail >> Outline,Queue de cochon >> Aperçu,False
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,Contour Queue de cochon >>,False
 Hair Pigtail <<,Hair Pigtail <<,Queue de cochon <<,False
-Hair Pigtail << Outline,Hair Pigtail << Outline,Queue de cochon << Aperçu,False
+Hair Pigtail << Outline,Hair Pigtail << Outline,Contour Queue de cochon <<,False
 Rose,Rose,Rose,False
 Round Sign,Round Sign,Signe rond,False
 Round Sign Text,Round Sign Text,Texte de signe rond,False
@@ -169,10 +169,10 @@ Square Sign,Square Sign,Signe carré,False
 Square Sign Text,Square Sign Text,Texte de signe carré,False
 Steering Wheel,Steering Wheel,Volant,False
 Gas Bottle,Gas Bottle,Bouteille de gaz,False
-Pat Hand,Pat Hand,Pat Main,False
+Pat Hand,Pat Hand,Caresse Main,False
 Sticker Alert,Sticker Alert,Alerte autocollant,False
 Sticker Alert Effect,Sticker Alert Effect,Effet d'alerte autocollant,False
-Sticker Alert Outline,Sticker Alert Outline,Aperçu de l’alerte autocollant,False
+Sticker Alert Outline,Sticker Alert Outline,Contour de l’alerte autocollant,False
 Sticker Angry,Sticker Angry,Autocollant En colère,False
 Sticker Exclamation Mark,Sticker Exclamation Mark,Autocollant point d'exclamation,False
 Sticker Ghost,Sticker Ghost,Autocollant Fantôme,False
@@ -186,86 +186,86 @@ Sticker Surprise,Sticker Surprise,Autocollant Surprise,False
 Sticker Sweat,Sticker Sweat,Autocollant Sueur,False
 Sticker Sweat (Large),Sticker Sweat (Large),Autocollant Sweat (Grand),False
 Sticker Volume,Sticker Volume,Volume des autocollants,False
-Sticky Note,Sticky Note,Pense-bête,False
-Sticky Note Text,Sticky Note Text,Texte de pense-bête,False
-Eye Tear,Eye Tear,Larme aux yeux,False
+Sticky Note,Sticky Note,Pense-notes,False
+Sticky Note Text,Sticky Note Text,Texte de pense-notes,False
+Eye Tear,Eye Tear,Larme des yeux,False
 Utensil,Utensil,Ustensile,False
 Outfit Collar String,Outfit Collar String,Chaîne de collier de tenue,False
 Bell,Bell,Cloche,False
 Confetti 1,Confetti 1,Confettis 1,False
 Confetti 2,Confetti 2,Confettis 2,False
 Confetti 3,Confetti 3,Confettis 3,False
-Microphone,Microphone,Microphone,False
+Microphone,Microphone,Micro,False
 Gleam,Gleam,Lueur,False
-Video Camera,Video Camera,Caméra vidéo,False
-Point Hand,Point Hand,Pointer la main,False
+Video Camera,Video Camera,Caméra,False
+Point Hand,Point Hand,Pointer de la main,False
 Bowl,Bowl,Bol,False
 Cake,Cake,Gâteau,False
 Candle Fire,Candle Fire,Feu de bougie,False
 Drawing Tablet,Drawing Tablet,Tablette à dessin,False
 Love Letter,Love Letter,Lettre d'amour,False
-Popper,Popper,Popper,False
-Stylus,Stylus,Style,False
-Tablet,Tablet,Comprimé,False
+Popper,Popper,Bouton,False
+Stylus,Stylus,Stylet,False
+Tablet,Tablet,Tablette,False
 Musical Note 1,Musical Note 1,Note de musique 1,False
 Musical Note 2,Musical Note 2,Note de musique 2,False
 Phone Screen,Phone Screen,Écran du téléphone,False
 Tail,Tail,Queue,False
 Tail Outline,Tail Outline,Contour de la queue,False
 Wing >>,Wing >>,Aile >>,False
-Wing >> Outline,Wing >> Outline,Aile >> Aperçu,False
+Wing >> Outline,Wing >> Outline,Contour Aile >>,False
 Wing <<,Wing <<,Aile <<,False
-Wing << Outline,Wing << Outline,Aile << Aperçu,False
-Cape,Cape,Cap,False
-Cape Outline,Cape Outline,Aperçu du cap,False
+Wing << Outline,Wing << Outline,Contour Aile <<,False
+Cape,Cape,Cape,False
+Cape Outline,Cape Outline,Contour Cape,False
 Cheek,Cheek,Joue,False
 Cockroach,Cockroach,Cafard,False
 Controller,Controller,Contrôleur,False
 Donut,Donut,Donut,False
 Earring >>,Earring >>,Boucle d'oreille >>,False
 Earring <<,Earring <<,Boucle d'oreille <<,False
-Earring >> Outline,Earring >> Outline,Boucle d'oreille >> Aperçu,False
-Earring << Outline,Earring << Outline,Boucle d'oreille << Aperçu,False
+Earring >> Outline,Earring >> Outline,Contour Boucle d'oreille >>,False
+Earring << Outline,Earring << Outline,Contour Boucle d'oreille <<,False
 Face Feature A >>,Face Feature A >>,Caractéristique du visage A >>,False
 Face Feature A <<,Face Feature A <<,Caractéristique du visage A <<,False
 Face Feature B >>,Face Feature B >>,Caractéristique du visage B >>,False
 Face Feature B <<,Face Feature B <<,Caractéristique du visage B <<,False
 Face Feature C,Face Feature C,Caractéristique du visage C,False
-Facial Hair A,Facial Hair A,Poils du visage A,False
-Facial Hair A Outline,Facial Hair A Outline,Poils du visage Un aperçu,False
-Facial Hair B,Facial Hair B,Poils du visage B,False
-Facial Hair B Outline,Facial Hair B Outline,Poils du visage B contour,False
+Facial Hair A,Facial Hair A,Barbe,False
+Facial Hair A Outline,Facial Hair A Outline,Contour Barbe,False
+Facial Hair B,Facial Hair B,Moustache,False
+Facial Hair B Outline,Facial Hair B Outline,Contour Moustache,False
 Glove >>,Glove >>,Gant >>,False
-Glove >> Outline,Glove >> Outline,Gant >> Aperçu,False
+Glove >> Outline,Glove >> Outline,Contour Gant >> Aperçu,False
 Glove <<,Glove <<,Gant <<,False
-Glove << Outline,Glove << Outline,Gant << Aperçu,False
+Glove << Outline,Glove << Outline,Contour Gant << Aperçu,False
 Hand >>,Hand >>,Main >>,False
-Hand >> Outline,Hand >> Outline,Main >> Aperçu,False
+Hand >> Outline,Hand >> Outline,Contour Main >>,False
 Hand <<,Hand <<,Main <<,False
-Hand << Outline,Hand << Outline,Main << Aperçu,False
+Hand << Outline,Hand << Outline,Contour Main <<,False
 Gun,Gun,Pistolet,False
 Gun Flash,Gun Flash,Flash de pistolet,False
 Lubricant,Lubricant,Lubrifiant,False
 Megaphone,Megaphone,Mégaphone,False
 Nose,Nose,Nez,False
-Piercing A >>,Piercing A >>,Perçage A >>,False
-Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Aperçu,False
-Piercing A <<,Piercing A <<,Perçage A <<,False
-Piercing A << Outline,Piercing A << Outline,Percer un << Aperçu,False
-Piercing B >>,Piercing B >>,Perçage B >>,False
-Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Contour,False
-Piercing B <<,Piercing B <<,Perçage B <<,False
-Piercing B << Outline,Piercing B << Outline,Piercing B << Aperçu,False
-Pixel Sun Glasses,Pixel Sun Glasses,Lunettes de soleil Pixel,False
+Piercing A >>,Piercing A >>,Piercing A >>,False
+Piercing A >> Outline,Piercing A >> Outline,Contour Piercing A >>,False
+Piercing A <<,Piercing A <<,Piercing A <<,False
+Piercing A << Outline,Piercing A << Outline,Contour Piercing A <<,False
+Piercing B >>,Piercing B >>,Piercing B >>,False
+Piercing B >> Outline,Piercing B >> Outline,Contour Piercing B >>,False
+Piercing B <<,Piercing B <<,Piercing B <<,False
+Piercing B << Outline,Piercing B << Outline,Contour Piercing B <<,False
+Pixel Sun Glasses,Pixel Sun Glasses,Lunettes de soleil en Pixel,False
 Pompom >>,Pompom >>,Pompon >>,False
 Pompom <<,Pompom <<,Pompon <<,False
 Spray,Spray,Pulvérisation,False
 Sticker Light Bulb,Sticker Light Bulb,Autocollant Ampoule,False
 Sticker Loading,Sticker Loading,Chargement des autocollants,False
 Sunglasses,Sunglasses,Lunettes de soleil,False
-Sunglasses Reflection,Sunglasses Reflection,Réflexion de lunettes de soleil,False
+Sunglasses Reflection,Sunglasses Reflection,Réflexion des lunettes de soleil,False
 Tape,Tape,Ruban adhésif,False
 Toilet,Toilet,Toilettes,False
 Trash Bin,Trash Bin,Poubelle,False
 Wave Hand,Wave Hand,Main agitée,False
-Swatter,Swatter,Tapette,False
+Swatter,Swatter,Tapette à mouche,False
