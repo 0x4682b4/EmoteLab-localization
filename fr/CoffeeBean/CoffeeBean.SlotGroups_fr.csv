@@ -1,18 +1,18 @@
 Key,en,fr,reviewed
 Hair Ahoge,Hair Ahoge,Cheveux Ahoge,False
-Hair Ahoge Outline,Hair Ahoge Outline,Aperçu des cheveux Ahoge,False
+Hair Ahoge Outline,Hair Ahoge Outline,Contour des cheveux Ahoge,False
 Animal Ear >>,Animal Ear >>,Oreille d'animal >>,False
 Animal Ear >> Fur,Animal Ear >> Fur,Oreille d'animal >> Fourrure,False
 Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Oreille d'animal >> Contour de fourrure,False
-Animal Ear >> Outline,Animal Ear >> Outline,Oreille d'animal >> Aperçu,False
+Animal Ear >> Outline,Animal Ear >> Outline,Oreille d'animal >> Contour,False
 Animal Ear <<,Animal Ear <<,Oreille d'animal <<,False
 Animal Ear << Fur,Animal Ear << Fur,Oreille d'animal << Fourrure,False
 Animal Ear << Fur Outline,Animal Ear << Fur Outline,Oreille d'animal << Contour de fourrure,False
-Animal Ear << Outline,Animal Ear << Outline,Oreille d'animal << Aperçu,False
+Animal Ear << Outline,Animal Ear << Outline,Oreille d'animal << Contour,False
 Antenna >>,Antenna >>,Antenne >>,False
-Antenna >> Outline,Antenna >> Outline,Antenne >> Aperçu,False
+Antenna >> Outline,Antenna >> Outline,Contour Antenne >>,False
 Antenna <<,Antenna <<,Antenne <<,False
-Antenna << Outline,Antenna << Outline,Antenne << Aperçu,False
+Antenna << Outline,Antenna << Outline,Contour Antenne <<,False
 Hair Rear,Hair Rear,Cheveux arrière,False
 Hair Rear Outline,Hair Rear Outline,Contour arrière des cheveux,False
 Beverage Cup,Beverage Cup,Tasse de boisson,False
@@ -23,81 +23,81 @@ Blanket Inner,Blanket Inner,Couverture intérieure,False
 Blanket Outter,Blanket Outter,Couverture extérieure,False
 Face Blush,Face Blush,Fard À Joues Pour Le Visage,False
 Brow >>,Brow >>,Sourcil >>,False
-Brow <<,Brow <<,Sourcils <<,False
-Chopstick,Chopstick,Baguette,False
+Brow <<,Brow <<,Sourcil <<,False
+Chopstick,Chopstick,Baguettes,False
 Crowbar,Crowbar,Pied de biche,False
 Cup,Cup,Tasse,False
 Cup Steam,Cup Steam,Tasse Vapeur,False
 Door/Wall,Door/Wall,Porte/Mur,False
 Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Oeil (Dum) Pupille >>,False
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Oeil(Dum)Pupille <<,False
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Oeil (Dum) Pupille <<,False
 Eyebag,Eyebag,Poche oculaire,False
 Eye Iris Dark >>,Eye Iris Dark >>,Iris des yeux foncé >>,False
 Eye Iris Dark <<,Eye Iris Dark <<,Iris des yeux foncé <<,False
-Eye Dollar,Eye Dollar,Dollar pour les yeux,False
-Eye Heart,Eye Heart,Oeil Coeur,False
+Eye Dollar,Eye Dollar,Yeux Dollars,False
+Eye Heart,Eye Heart,Yeux Coeurs,False
 Eye Highlight,Eye Highlight,Point culminant des yeux,False
 Eyelashes,Eyelashes,Cils,False
 Eye Iris Light >>,Eye Iris Light >>,Lumière de l'iris des yeux >>,False
 Eye Iris Light <<,Eye Iris Light <<,Lumière de l'iris des yeux <<,False
 Eye(Dum) Outline,Eye(Dum) Outline,Contour de l'oeil (Dum),False
 Eye Sparkling,Eye Sparkling,Oeil pétillant,False
-Eye Spiral,Eye Spiral,Spirale des yeux,False
+Eye Spiral,Eye Spiral,Yeux en Spirale,False
 Eye White,Eye White,Oeil blanc,False
-Face Shadow,Face Shadow,Ombre à visage,False
+Face Shadow,Face Shadow,Ombre du visage,False
 Fin >>,Fin >>,Aileron >>,False
-Fin >> Outline,Fin >> Outline,Fin >> Aperçu,False
+Fin >> Outline,Fin >> Outline,Contour Fin >>,False
 Fin <<,Fin <<,Fin <<,False
-Fin << Outline,Fin << Outline,Fin << Aperçu,False
+Fin << Outline,Fin << Outline,Contour Fin <<,False
 Hair Framing >>,Hair Framing >>,Encadrement des cheveux >>,False
-Hair Framing >> Outline,Hair Framing >> Outline,Encadrement des cheveux >> Aperçu,False
+Hair Framing >> Outline,Hair Framing >> Outline,Contour Encadrement des cheveux >>,False
 Hair Framing <<,Hair Framing <<,Encadrement des cheveux <<,False
-Hair Framing << Outline,Hair Framing << Outline,Encadrement des cheveux << Aperçu,False
+Hair Framing << Outline,Hair Framing << Outline,Contour Encadrement des cheveux <<,False
 Gill,Gill,Gil,False
-Gill Outline,Gill Outline,Aperçu des branchies,False
+Gill Outline,Gill Outline,Contour des branchies,False
 Glasses,Glasses,Lunettes,False
 Hairband A,Hairband A,Bandeau A,False
-Hairband A Outline,Hairband A Outline,Bandeau A Contour,False
+Hairband A Outline,Hairband A Outline,Contour Bandeau A,False
 Hairband B,Hairband B,Bandeau B,False
-Hairband B Outline,Hairband B Outline,Bandeau B Contour,False
+Hairband B Outline,Hairband B Outline,Contour Bandeau B,False
 Hairband C,Hairband C,Bandeau C,False
-Hairband C Outline,Hairband C Outline,Bandeau C Contour,False
+Hairband C Outline,Hairband C Outline,Contour Bandeau C,False
 Hairband D,Hairband D,Bandeau D,False
-Hairband D Outline,Hairband D Outline,Bandeau D Contour,False
+Hairband D Outline,Hairband D Outline,Contour Bandeau D,False
 Hair Bang >>,Hair Bang >>,Frange de cheveux >>,False
-Hair Bang >> Outline,Hair Bang >> Outline,Frange de cheveux >> Aperçu,False
+Hair Bang >> Outline,Hair Bang >> Outline,Contour Frange de cheveux >>,False
 Hair Bang ><,Hair Bang ><,Frange de cheveux ><,False
-Hair Bang >< Outline,Hair Bang >< Outline,Frange de cheveux >< Aperçu,False
+Hair Bang >< Outline,Hair Bang >< Outline,Contour Frange de cheveux ><,False
 Hair Bang <<,Hair Bang <<,Frange de cheveux <<,False
-Hair Bang << Outline,Hair Bang << Outline,Frange de cheveux << Aperçu,False
+Hair Bang << Outline,Hair Bang << Outline,Contour Frange de cheveux <<,False
 Hair Clip >>,Hair Clip >>,Pince à cheveux >>,False
-Hair Clip >> Outline,Hair Clip >> Outline,Pince à cheveux >> Aperçu,False
+Hair Clip >> Outline,Hair Clip >> Outline,Contour Pince à cheveux >>,False
 Hair Clip <<,Hair Clip <<,Pince à cheveux <<,False
-Hair Clip << Outline,Hair Clip << Outline,Pince à cheveux << Aperçu,False
+Hair Clip << Outline,Hair Clip << Outline,Contour Pince à cheveux <<,False
 Hair Highlight 1 >>,Hair Highlight 1 >>,Mèches de cheveux 1 >>,False
-Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Mèches de cheveux 1 >>,False
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Contour Mèches de cheveux 1 >>,False
 Hair Highlight 2 >>,Hair Highlight 2 >>,Mèches de cheveux 2 >>,False
-Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Mèches capillaires 2 >>,False
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Contour Mèches capillaires 2 >>,False
 Hair Highlight 3 >>,Hair Highlight 3 >>,Mèches de cheveux 3 >>,False
-Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Mèches capillaires 3 >>,False
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Contour Mèches capillaires 3 >>,False
 Hair Highlight 1 ><,Hair Highlight 1 ><,Mèches de cheveux 1 ><,False
-Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Mèches de cheveux 1 >< Aperçu,False
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Contour Mèches de cheveux 1 ><,False
 Hair Highlight 2 ><,Hair Highlight 2 ><,Mèches de cheveux 2 ><,False
-Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Mèches de cheveux 2 >< Aperçu,False
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Contour Mèches de cheveux 2 ><,False
 Hair Highlight 3 ><,Hair Highlight 3 ><,Mèches de cheveux 3 ><,False
-Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Mèches de cheveux 3 >< Aperçu,False
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Contour Mèches de cheveux 3 ><,False
 Hair Highlight 4 ><,Hair Highlight 4 ><,Mèches de cheveux 4 ><,False
-Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Mèches de cheveux 4 >< Aperçu,False
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Contour Mèches de cheveux 4 ><,False
 Hair Highlight 5 ><,Hair Highlight 5 ><,Mèches de cheveux 5 ><,False
-Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Mèches de cheveux 5 >< Aperçu,False
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Contour Mèches de cheveux 5 ><,False
 Hair Highlight 6 ><,Hair Highlight 6 ><,Mèches de cheveux 6 ><,False
-Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Mèches de cheveux 6 >< Aperçu,False
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Contour Mèches de cheveux 6 ><,False
 Hair Highlight 1 <<,Hair Highlight 1 <<,Mèches de cheveux 1 <<,False
-Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Mèches de cheveux 1 << Aperçu,False
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Contour Mèches de cheveux 1 <<,False
 Hair Highlight 2 <<,Hair Highlight 2 <<,Mèches de cheveux 2 <<,False
-Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Mèches de cheveux 2 << Aperçu,False
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Contour Mèches de cheveux 2 <<,False
 Hair Highlight 3 <<,Hair Highlight 3 <<,Mèches de cheveux 3 <<,False
-Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Mèches de cheveux 3 << Aperçu,False
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Contour Mèches de cheveux 3 <<,False
 Hairline Outline,Hairline Outline,Contour des cheveux,False
 Hair Shine,Hair Shine,Brillance des cheveux,False
 Hair Shine Outline,Hair Shine Outline,Contour brillance des cheveux,False
