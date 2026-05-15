@@ -1,0 +1,109 @@
+Key,en,sv,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,Redaktör,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Är du säker på att du vill ta bort tecknet ""{0}""? Denna åtgärd kan inte ångras.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Tecknet ""{0}"" finns redan. Är du säker på att du vill skriva över tecknet ""{0}""? Denna åtgärd kan inte ångras.",False
+MainMenu.Confirm,Confirm,Bekräfta,False
+MainMenu.Cancel,Cancel,Avboka,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Vänligen ange ett teckennamn:,False
+MainMenu.Editor.Model,Models,Modeller,False
+MainMenu.Editor.Character,Character,Karaktär,False
+MainMenu.Editor.Animation,Animation,Animation,False
+MainMenu.Editor.PartsSelection,Choose Parts,Välj delar,False
+MainMenu.Editor.PartsAdjustment,Adjustment,Justering,False
+MainMenu.Search,Search...,Söka...,False
+MainMenu.Editor.SaveCharacter,Save Character,Spara tecken,False
+MainMenu.Editor.Unload,Clear Character,Tydlig karaktär,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Ta bort tecken,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Använd anpassade texturer,False
+MainMenu.Editor.ReloadTextures,Reload Textures,Ladda om texturer,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Öppna anpassad texturmapp,False
+MainMenu.Editor.Color,Color,Färg,False
+MainMenu.Editor.TintColor,TintColor,TintColor,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,NyansSvartFärg,False
+MainMenu.Editor.LICENSE,LICENSE,LICENS,False
+MainMenu.Editor.AssetTypeAA,Default Assets,Standardtillgångar,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Tredjepartstillgångar,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Namnet får inte vara tomt.,False
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Namnet får inte överstiga {0} tecken.,False
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Namnet får inte innehålla tecknet ""{0}"".",False
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" är ett reserverat namn och kan inte användas.",False
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Namnet kan inte sluta med en punkt.,False
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Namn får inte bara innehålla mellanslag.,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Lossa aktuell modell,False
+MainMenu.Settings.GeneralSettings,General Settings,Allmänna inställningar,False
+MainMenu.Settings.GeneralSettings.Language,Language,Språk,False
+MainMenu.Settings.ViewportSettings,Viewport Settings,Viewport-inställningar,False
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoomhastighet,False
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Rotationshastighet,False
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modellskala,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Offset horisontell,False
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Offset Vertikal,False
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Återställ Viewport Settings,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,Animation Export Settings,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Spara plats,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Exportera förinställningar,False
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Encoder,False
+MainMenu.Settings.ExportSettings.Width,Width,Bredd,False
+MainMenu.Settings.ExportSettings.Height,Height,Höjd,False
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Begränsning Max. Antal ramar,False
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Max. Antal ramar,False
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alfatröskel,False
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Aktivera dithering,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Återställ exportinställningar,False
+MainMenu.Editor.Export,Export Emote,Exportera Emote,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Licens tillhandahållen av modellskaparen. Visas endast som referens och representerar inte EmoteLab-utvecklarens åsikter eller rättsliga ställning.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.","Skaparen av den här tredjepartsmodellen har inte tillhandahållit en licens eller användningsvillkor med modellen. Innan du använder den här modellen i offentliga, kommersiella eller professionella sammanhang bör du bekräfta den tillåtna användningsomfånget direkt med modellens skapare.",False
+LicensePopup.Close,Close,Nära,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Öppna Exportmapp,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Ladda provtecken för inbyggda modeller,False
+MainMenu.Settings.ModelSettings,Model Settings,Modellinställningar,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Sparar teckendata...,False
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Laddar tecken...,False
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Tredjepartslicenser,False
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Slutanvändarlicensavtal (EULA),False
+MainMenu.Info.Documentation,Documentation,Dokumentation,False
+MainMenu.Info.Discord,Join Our Discord,Gå med i vår discord,False
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Denna förinställning ställer in rätt format och mått. Mycket långa animationer kan överskrida gränserna för plattformens filstorlek, och vissa plattformar begränsar visst innehåll.",False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Öppna lokal modellmapp,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Öppna teckenmappen,False
+MainMenu.Info.Log,Open Log Folder,Öppna Loggmapp,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Använder Global Color Table,False
+MainMenu.Editor.ExportStatic,Export Static Image,Exportera statisk bild,False
+MainMenu.Editor.Player.Speed,Speed,Hastighet,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Statiska bildinställningar,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Återställ inställningar för statisk bild,False
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Samplingsfrekvens,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Denna växling låter dig växla mellan den interna och den anpassade texturen,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Redigera PNG:erna i mappen Custom Texture. Spara med genomskinlighet och ändra inte bildstorleken,False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",När du har sparat dina ändringar klickar du på den här knappen för att tillämpa ändringarna på din modell.,False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Rädda din karaktär. Spara-knappen finns under teckenlistan på vänster sida av gränssnittet.,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Läs manualen Använda anpassade texturer innan du använder den här funktionen.,False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Anpassad textur,False
+MainMenu.Editor.Texture.Step1,Step 1,Steg 1,False
+MainMenu.Editor.Texture.Step2,Step 2,Steg 2,False
+MainMenu.Editor.Texture.Step3,Step 3,Steg 3,False
+MainMenu.Editor.Texture.Step4,Step 4,Steg 4,False
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Fixa vald kontur,False
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Återställ vald atlas,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Texture Utility,False
+MainMenu.Editor.Texture.SelectAll,Select All,Välj Alla,False
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Växla val,False
+MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas lista,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Detta kommer att återställa de valda atlassidorna till de inbyggda versionerna. Alla osparade redigeringar går förlorade och kan inte återställas. Fortsätta?,False
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palettalgoritm,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Detta kommer att skriva över de valda texturfilerna och kan inte ångras. Fortsätta?,False
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Vissa språk översätts av vår community eller assisteras av maskinöversättning, så kvaliteten kan variera.
+
+Du kan ändra språket i Inställningar.
+
+Se våra <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">bidragsgivare på GitHub</link>.
+
+Vill du bidra? Gå med oss ​​på <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Visa inte detta igen,False
