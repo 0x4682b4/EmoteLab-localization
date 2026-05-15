@@ -1,37 +1,37 @@
 Key,en,fr,reviewed
 Brows,Brows,Sourcils,False
-Ear,Ear,Oreille,False
+Ear,Ear,Oreilles,False
 Eye,Eye,Œil,False
-Base Hair,Base Hair,Cheveux de base,False
-Hair Bang >>,Hair Bang >>,Frange de cheveux >>,False
-Hair Bang ><,Hair Bang ><,Frange de cheveux ><,False
-Hair Bang <<,Hair Bang <<,Frange de cheveux <<,False
+Base Hair,Base Hair,Base de cheveu,False
+Hair Bang >>,Hair Bang >>,Frange >>,False
+Hair Bang ><,Hair Bang ><,Frange ><,False
+Hair Bang <<,Hair Bang <<,Frange <<,False
 Hair Shine,Hair Shine,Brillance des cheveux,False
-Hair Branch >>,Hair Branch >>,Branche de cheveux >>,False
-Hair Branch <<,Hair Branch <<,Branche de cheveux <<,False
+Hair Branch >>,Hair Branch >>,Branche >>,False
+Hair Branch <<,Hair Branch <<,Branche <<,False
 Hair Framing >>,Hair Framing >>,Encadrement des cheveux >>,False
 Hair Framing <<,Hair Framing <<,Encadrement des cheveux <<,False
 Hair Framing,Hair Framing,Encadrement des cheveux,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,Mèches de cheveux 1 >>,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,Mèches de cheveux 2 >>,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,Mèches de cheveux 3 >>,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,Mèches de cheveux 1 ><,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,Mèches de cheveux 2 ><,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,Mèches de cheveux 3 ><,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,Mèches de cheveux 4 ><,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,Mèches de cheveux 5 ><,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,Mèches de cheveux 6 ><,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,Mèches de cheveux 1 <<,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,Mèches de cheveux 2 <<,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,Mèches de cheveux 3 <<,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,Mèches Position >> 1,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,Mèches Position >> 2,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,Mèches Position >> 3,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,Mèches Position >< 1,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,Mèches Position >< 2,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,Mèches Position >< 3,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,Mèches Position >< 4,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,Mèches Position >< 5,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,Mèches Position >< 6,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,Mèches Position << 1,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,Mèches Position << 2,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,Mèches Position << 3,False
 Hair Side,Hair Side,Côté cheveux,False
 Hair Ahoge,Hair Ahoge,Cheveux Ahoge,False
 Hair Rear,Hair Rear,Cheveux arrière,False
 Hair Pigtail >>,Hair Pigtail >>,Queue de cochon >>,False
 Hair Pigtail <<,Hair Pigtail <<,Queue de cochon <<,False
-Animal Ear,Animal Ear,Oreille d'animal,False
+Animal Ear,Animal Ear,Oreilles d'animal,False
 Antenna,Antenna,Antenne,False
-Fin,Fin,Ailette,False
+Fin,Fin,Nageoire,False
 Gill,Gill,Gil,False
 Glasses,Glasses,Lunettes,False
 Hairband A,Hairband A,Bandeau A,False
@@ -53,16 +53,16 @@ Outfit Outer,Outfit Outer,Tenue extérieure,False
 Outfit Neckwear A,Outfit Neckwear A,Tenue Cravate A,False
 Outfit Neckwear B,Outfit Neckwear B,Tenue Cravate B,False
 Outfit Neckwear C,Outfit Neckwear C,Tenue Cravate C,False
-Hair Side Branch >> A,Hair Side Branch >> A,Branche latérale des cheveux >> A,False
-Hair Side Branch >> B,Hair Side Branch >> B,Branche latérale des cheveux >> B,False
-Hair Side Branch >> C,Hair Side Branch >> C,Branche latérale des cheveux >> C,False
-Hair Side Branch << A,Hair Side Branch << A,Branche latérale des cheveux << A,False
-Hair Side Branch << B,Hair Side Branch << B,Branche latérale des cheveux << B,False
-Hair Side Branch << C,Hair Side Branch << C,Branche latérale des cheveux << C,False
+Hair Side Branch >> A,Hair Side Branch >> A,Branche latérale Position >> A,False
+Hair Side Branch >> B,Hair Side Branch >> B,Branche latérale Position >> B,False
+Hair Side Branch >> C,Hair Side Branch >> C,Branche latérale Position >> C,False
+Hair Side Branch << A,Hair Side Branch << A,Branche latérale Position << A,False
+Hair Side Branch << B,Hair Side Branch << B,Branche latérale Position << B,False
+Hair Side Branch << C,Hair Side Branch << C,Branche latérale Position << C,False
 Tail,Tail,Queue,False
-Wing,Wing,Aile,False
-Facial Hair A,Facial Hair A,Poils du visage A,False
-Facial Hair B,Facial Hair B,Poils du visage B,False
+Wing,Wing,Ailes,False
+Facial Hair A,Facial Hair A,Barbe,False
+Facial Hair B,Facial Hair B,Moustache,False
 Cheek,Cheek,Joue,False
 Face Feature A >>,Face Feature A >>,Caractéristique du visage A >>,False
 Face Feature A <<,Face Feature A <<,Caractéristique du visage A <<,False
@@ -73,10 +73,10 @@ Nose,Nose,Nez,False
 Earring >>,Earring >>,Boucle d'oreille >>,False
 Earring <<,Earring <<,Boucle d'oreille <<,False
 Piercing A >>,Piercing A >>,Piercing A >>,False
-Piercing A <<,Piercing A <<,Perçage A <<,False
-Piercing B >>,Piercing B >>,Perçage B >>,False
-Piercing B <<,Piercing B <<,Perçage B <<,False
+Piercing A <<,Piercing A <<,Piercing A <<,False
+Piercing B >>,Piercing B >>,Piercing B >>,False
+Piercing B <<,Piercing B <<,Piercing B <<,False
 Hand,Hand,Main,False
 Leg,Leg,Jambe,False
-Cape Back,Cape Back,Cape Retour,False
-Cape Front,Cape Front,Cap Front,False
+Cape Back,Cape Back,Arrière Cape,False
+Cape Front,Cape Front,Devant Cape,False
