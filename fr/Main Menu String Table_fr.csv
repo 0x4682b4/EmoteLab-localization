@@ -1,7 +1,7 @@
 Key,en,fr,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,Éditeur,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Êtes-vous sûr de vouloir supprimer le caractère ""{0}"" ? Cette action ne peut pas être annulée.",False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Le caractère ""{0}"" existe déjà. Êtes-vous sûr de vouloir remplacer le caractère « {0} » ? Cette action ne peut pas être annulée.",False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Êtes-vous sûr de vouloir supprimer le personnage ""{0}"" ? Cette action ne peut pas être annulée.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Le personnage ""{0}"" existe déjà. Êtes-vous sûr de vouloir remplacer le personnage « {0} » ? Cette action ne peut pas être annulée.",False
 MainMenu.Confirm,Confirm,Confirmer,False
 MainMenu.Cancel,Cancel,Annuler,False
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Veuillez saisir un nom de personnage :,False
@@ -12,11 +12,11 @@ MainMenu.Editor.PartsSelection,Choose Parts,Choisir des pièces,False
 MainMenu.Editor.PartsAdjustment,Adjustment,Ajustement,False
 MainMenu.Search,Search...,Recherche...,False
 MainMenu.Editor.SaveCharacter,Save Character,Enregistrer le personnage,False
-MainMenu.Editor.Unload,Clear Character,Caractère clair,False
-MainMenu.Editor.DeleteCharacter,Delete Character,Supprimer un personnage,False
+MainMenu.Editor.Unload,Clear Character,Réinitialiser le personnage,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Supprimer le personnage,False
 MainMenu.Editor.UseCustomTextures,Use Custom Textures,Utiliser des textures personnalisées,False
 MainMenu.Editor.ReloadTextures,Reload Textures,Recharger les textures,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Ouvrir le dossier de textures personnalisées,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Ouvrir le dossier des textures personnalisées,False
 MainMenu.Editor.Color,Color,Couleur,False
 MainMenu.Editor.TintColor,TintColor,TeinteCouleur,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,TeinteNoirCouleur,False
@@ -56,54 +56,54 @@ LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Dis
 LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Licence introuvable. Confirmez l'utilisation autorisée auprès du créateur.,False
 LicensePopup.Close,Close,Fermer,False
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Ouvrir le dossier d'exportation,False
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Charger des exemples de caractères pour les modèles intégrés,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Charger des exemples de personnages pour les modèles intégrés,False
 MainMenu.Settings.ModelSettings,Model Settings,Paramètres du modèle,False
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Enregistrement des données de personnage...,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Enregistrement des données du personnage...,False
 MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Chargement du personnage...,False
 MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Licences tierces,False
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Contrat de licence utilisateur final (CLUF),False
 MainMenu.Info.Documentation,Documentation,Documentation,False
 MainMenu.Info.Discord,Join Our Discord,Rejoignez notre Discord,False
 MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Ce préréglage définit le format et les dimensions corrects. Les animations très longues peuvent dépasser les limites de taille de fichier de la plateforme, et certaines plateformes restreignent certains contenus.",False
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Ouvrir le dossier de modèle local,False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Ouvrir le dossier du modèle local,False
 MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Ouvrir le dossier des personnages,False
-MainMenu.Info.Log,Open Log Folder,Ouvrir le dossier de journal,False
+MainMenu.Info.Log,Open Log Folder,Ouvrir le dossier du journal,False
 MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Utilisation de la table de couleurs globale,False
 MainMenu.Editor.ExportStatic,Export Static Image,Exporter une image statique,False
 MainMenu.Editor.Player.Speed,Speed,Vitesse,False
-MainMenu.Settings.StaticImageSettings,Static Image Settings,Paramètres d'image statique,False
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Réinitialiser les paramètres d'image statique,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Paramètres de l'image statique,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Réinitialiser les paramètres de l'image statique,False
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Taux d'échantillonnage,False
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Cette bascule vous permet de basculer entre la texture interne et la texture personnalisée,False
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Modifiez les fichiers PNG dans le dossier Texture personnalisée. Enregistrez avec transparence et ne modifiez pas la taille de l'image,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Cette option vous permet de basculer entre la texture interne et la texture personnalisée,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Modifiez les fichiers PNG dans le dossier des textures personnalisées. Enregistrez avec la transparence et ne modifiez pas les dimensions de l'image,False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Après avoir enregistré vos modifications, cliquez sur ce bouton pour appliquer les modifications à votre modèle.",False
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Enregistrez votre personnage. Le bouton Enregistrer est situé sous la liste des personnages sur le côté gauche de l'interface.,False
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Veuillez lire le manuel Utilisation de textures personnalisées avant d'utiliser cette fonctionnalité.,False
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,Texture personnalisée,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Veuillez lire le manuel d'utilisation des textures personnalisées avant d'utiliser cette fonctionnalité.,False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Textures personnalisée,False
 MainMenu.Editor.Texture.Step1,Step 1,Étape 1,False
 MainMenu.Editor.Texture.Step2,Step 2,Étape 2,False
 MainMenu.Editor.Texture.Step3,Step 3,Étape 3,False
 MainMenu.Editor.Texture.Step4,Step 4,Étape 4,False
 MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Corriger le contour sélectionné,False
 MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Réinitialiser l'Atlas sélectionné,False
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,Utilitaire de textures,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Utilitaire des textures,False
 MainMenu.Editor.Texture.SelectAll,Select All,Sélectionner tout,False
 MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Basculer la sélection,False
 MainMenu.Editor.Texture.AtlasList,Atlas List,Liste de l'Atlas,False
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Cela réinitialisera les pages de l'atlas sélectionnées aux versions intégrées. Toutes les modifications non enregistrées seront perdues et ne pourront pas être récupérées. Continuer?,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Cela réinitialisera les pages d'atlas sélectionnées vers les versions d'origine. Toute modification non enregistrée sera perdue et irrécupérable. Continuer ?,False
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Algorithme de palette,False
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Cela écrasera les fichiers de texture sélectionnés et ne pourra pas être annulé. Continuer?,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue ?,Cela écrasera les fichiers des textures sélectionnés et ne pourra pas être annulé. Continuer ?,False
 MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
 
 You can change the language in Settings.
 
 See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Certaines langues sont traduites par notre communauté ou assistées par traduction automatique, la qualité peut donc varier.
+Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Certaines langues sont traduites par notre communauté ou assistées par la traduction automatique, la qualité peut donc varier.
 
-Vous pouvez changer la langue dans Paramètres.
+Vous pouvez changer la langue dans les Paramètres.
 
 Consultez nos <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">contributeurs de la communauté sur GitHub</link>.
 
 Vous voulez contribuer ? Rejoignez-nous sur <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
-MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Ne montre plus ça,False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Ne plus montrer ça,False
