@@ -1,33 +1,33 @@
 Key,en,fr,reviewed
-Alert Bits,Alert Bits,Bits d'alerte,False
-Alert Donation,Alert Donation,Alerte Don,False
-Alert Heart,Alert Heart,Coeur d'alerte,False
+Alert Bits,Alert Bits,Alerte de Bits,False
+Alert Donation,Alert Donation,Alerte de Don,False
+Alert Heart,Alert Heart,Alerte Cœur,False
 Alert Like,Alert Like,Alerte J'aime,False
-Alert Star,Alert Star,Étoile d'alerte,False
-Angry,Angry,En colère,False
+Alert Star,Alert Star,Alerte Étoile,False
+Angry,Angry,Colère,False
 Arrive,Arrive,Arriver,False
-Arrive (with Chopstick),Arrive (with Chopstick),Arriver (avec une baguette),False
-Arrive (with Spoon),Arrive (with Spoon),Arriver (avec une cuillère),False
+Arrive (with Chopstick),Arrive (with Chopstick),Arriver (avec des Baguettes),False
+Arrive (with Spoon),Arrive (with Spoon),Arriver (avec une Cuillère),False
 Bonk,Bonk,Bonk,False
-Copium,Copium,Copie,False
-Crowbar 1,Crowbar 1,Pied de biche 1,False
-Crowbar 2,Crowbar 2,Pied de biche 2,False
-Crowbar 3,Crowbar 3,Pied de biche 3,False
+Copium,Copium,Copium,False
+Crowbar 1,Crowbar 1,Pied de Biche 1,False
+Crowbar 2,Crowbar 2,Pied de Biche 2,False
+Crowbar 3,Crowbar 3,Pied de Biche 3,False
 Cry 1,Cry 1,Pleurer 1,False
 Cry 2,Cry 2,Pleurer 2,False
 Cry 3,Cry 3,Pleurer 3,False
 Dead,Dead,Mort,False
-Dizzy,Dizzy,Vertigineux,False
-Drink (Beverage Cup),Drink (Beverage Cup),Boisson (tasse de boisson),False
+Dizzy,Dizzy,Étourdi,False
+Drink (Beverage Cup),Drink (Beverage Cup),Boisson (Tasse),False
 Drive,Drive,Conduire,False
-Drooling (Chopstick),Drooling (Chopstick),Baver (baguette),False
-Drooling (Fork&Knife),Drooling (Fork&Knife),Bave (Fourchette et Couteau),False
-Dum 1,Dum 1,Doum 1,False
-Dum 2,Dum 2,Doum 2,False
-Dum 3,Dum 3,Doum 3,False
-Dum Sticker 1,Dum Sticker 1,Autocollant Dum 1,False
-Dum Sticker 2,Dum Sticker 2,Autocollant Dum 2,False
-Dum Sticker 3,Dum Sticker 3,Autocollant Dum 3,False
+Drooling (Chopstick),Drooling (Chopstick),Baver (Baguettes),False
+Drooling (Fork&Knife),Drooling (Fork&Knife),Bave (Fourchette & Couteau),False
+Dum 1,Dum 1,Teuteu 1,False
+Dum 2,Dum 2,Teuteu 2,False
+Dum 3,Dum 3,Teuteu 3,False
+Dum Sticker 1,Dum Sticker 1,Post-it Teuteu 1,False
+Dum Sticker 2,Dum Sticker 2,Post-it Teuteu 2,False
+Dum Sticker 3,Dum Sticker 3,Post-it Teuteu 3,False
 Exclamation,Exclamation,Exclamation,False
 Jail 1,Jail 1,Prison 1,False
 Jail 2,Jail 2,Prison 2,False
@@ -37,8 +37,8 @@ Laugh,Laugh,Rire,False
 Lick,Lick,Lécher,False
 Lightstick 1,Lightstick 1,Bâton lumineux 1,False
 Lightstick 2,Lightstick 2,Bâton lumineux 2,False
-Lurk 1,Lurk 1,Cachez-vous 1,False
-Lurk 2,Lurk 2,Cachez-vous 2,False
+Lurk 1,Lurk 1,Lurk 1,False
+Lurk 2,Lurk 2,Lurk 2,False
 Luv 1,Luv 1,Amour 1,False
 Luv 2,Luv 2,Amour 2,False
 Luv 3,Luv 3,Amour 3,False
@@ -47,88 +47,88 @@ Mute 1,Mute 1,Muet 1,False
 Mute 2,Mute 2,Muet 2,False
 Nervous 1,Nervous 1,Nerveux 1,False
 Nervous 2,Nervous 2,Nerveux 2,False
-Noted 1,Noted 1,Noté 1,False
-Noted 2,Noted 2,Noté 2,False
-Pat,Pat,Tapoter,False
+Noted 1,Noted 1,Noter 1,False
+Noted 2,Noted 2,Noter 2,False
+Pat,Pat,Pat,False
 Point,Point,Indiquer,False
 Question,Question,Question,False
 Raid 1,Raid 1,Raid 1,False
 Raid 2,Raid 2,Raid 2,False
-RedPacket 1,RedPacket 1,Paquet rouge 1,False
-RedPacket 2,RedPacket 2,Paquet rouge 2,False
+RedPacket 1,RedPacket 1,Enveloppe Rouge 1,False
+RedPacket 2,RedPacket 2,Enveloppe Rouge 2,False
 Rose,Rose,Rose,False
 Score (0 Point),Score (0 Point),Score (0 point),False
 Score (10 Point),Score (10 Point),Score (10 points),False
 Shy 1,Shy 1,Timide 1,False
 Shy 2,Shy 2,Timide 2,False
-Sleep (Normal),Sleep (Normal),Sommeil (normal),False
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Sommeil (étape de préparation 1),False
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Sommeil (étape de préparation 2),False
-Sleep (UU),Sleep (UU),Sommeil (UU),False
-Surprise,Surprise,Surprendre,False
+Sleep (Normal),Sleep (Normal),Dodo (Normal),False
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Dodo (Scroll 1),False
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Dodo (Scroll 2),False
+Sleep (UU),Sleep (UU),Dodo (UU),False
+Surprise,Surprise,Surpris,False
 Sweat,Sweat,Transpirer,False
-Thumb Down,Thumb Down,Pouce vers le bas,False
-Thumb Up,Thumb Up,Pouce vers le haut,False
-Type Angry,Type Angry,Tapez en colère,False
-Type Annoyed,Type Annoyed,Type Ennuyé,False
-Type Normal,Type Normal,Type Normal,False
-Work Angry,Work Angry,Travailler en colère,False
-Work Nap,Work Nap,Sieste de travail,False
-Work Normal,Work Normal,Travail normal,False
-Work Tired,Work Tired,Travailler fatigué,False
+Thumb Down,Thumb Down,Pouce vers le Bas,False
+Thumb Up,Thumb Up,Pouce vers le Haut,False
+Type Angry,Type Angry,Taper en Colère,False
+Type Annoyed,Type Annoyed,Taper Saoulé,False
+Type Normal,Type Normal,Taper Normal,False
+Work Angry,Work Angry,Travailler en Colère,False
+Work Nap,Work Nap,Siester au travail,False
+Work Normal,Work Normal,Travailler classique,False
+Work Tired,Work Tired,Travailler Fatigué ,False
 Bell,Bell,Cloche,False
 Cake,Cake,Gâteau,False
-Caught in 4K (Phone),Caught in 4K (Phone),Pris en 4K (téléphone),False
-Caught in 4K (Video Camera),Caught in 4K (Video Camera),Pris en 4K (caméra vidéo),False
+Caught in 4K (Phone),Caught in 4K (Phone),Pris en 4K (Téléphone),False
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),Pris en 4K (Caméra),False
 Celebration,Celebration,Célébration,False
 Head Nod,Head Nod,Hochement de tête,False
-Head Shake,Head Shake,Secousse de tête,False
+Head Shake,Head Shake,Secouer la tête,False
 Hypnosis,Hypnosis,Hypnose,False
-Laugh (Point),Laugh (Point),Rire (pointer),False
-Love Letter,Love Letter,Lettre d'amour,False
-Need Food,Need Food,Besoin de nourriture,False
-PNGTuber Idle,PNGTuber Idle,PNGTuber inactif,False
+Laugh (Point),Laugh (Point),Rire (Pointer),False
+Love Letter,Love Letter,Lettre d'Amour,False
+Need Food,Need Food,Demander de la Nourriture,False
+PNGTuber Idle,PNGTuber Idle,PNGTuber Inactif,False
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Inactif 2,False
-PNGTuber Loading,PNGTuber Loading,Chargement du tube PNG,False
-PNGTuber Talk,PNGTuber Talk,Discussion sur les tubercules PNG,False
-PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Discussion 2,False
-PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,False
-Popcat Frame,Popcat Frame,Cadre Popcat,False
-Popcat Smooth,Popcat Smooth,Popcat Lisse,False
+PNGTuber Loading,PNGTuber Loading,PNGTuber Chargement,False
+PNGTuber Talk,PNGTuber Talk,PNGTuber Parler,False
+PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Parler 2,False
+PNGTuber Yap,PNGTuber Yap,PNGTuber Jacasser,False
+Popcat Frame,Popcat Frame,Popcat Frame,False
+Popcat Smooth,Popcat Smooth,Popcat Animé,False
 Sing,Sing,Chanter,False
-Tablet,Tablet,Comprimé,False
+Tablet,Tablet,Tablette,False
 Tail Wag,Tail Wag,Remuer la queue,False
-Bug,Bug,Bogue,False
-Cheer,Cheer,Acclamation,False
+Bug,Bug,Beug,False
+Cheer,Cheer,Encouragement,False
 Easter,Easter,Pâques,False
 Gun,Gun,Pistolet,False
 Idea,Idea,Idée,False
 Megaphone,Megaphone,Mégaphone,False
-Paid Break (Easy Mode),Paid Break (Easy Mode),Pause payée (mode facile),False
-Paid Break (Hard Mode),Paid Break (Hard Mode),Pause payée (mode difficile),False
+Paid Break (Easy Mode),Paid Break (Easy Mode),Pause Toilettes (Mode Facile),False
+Paid Break (Hard Mode),Paid Break (Hard Mode),Pause Toilettes (Mode Difficile),False
 Spray,Spray,Pulvérisation,False
-Stops Working,Stops Working,Arrête de fonctionner,False
-Sunglasses Gleam,Sunglasses Gleam,Lunettes de soleil Gleam,False
-Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Lunettes de soleil Pixel Gleam,False
-Sunglasses Remove,Sunglasses Remove,Lunettes de soleil Supprimer,False
-Swatter,Swatter,Tapette,False
-Tape,Tape,Ruban adhésif,False
+Stops Working,Stops Working,Cesser de Fonctionner,False
+Sunglasses Gleam,Sunglasses Gleam,Lunettes de Soleil,False
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,Lunettes de Soleil Pixel,False
+Sunglasses Remove,Sunglasses Remove,Enlever Lunettes de Soleil,False
+Swatter,Swatter,Tapette à Mouche,False
+Tape,Tape,Ruban Adhésif,False
 Trash Bin,Trash Bin,Poubelle,False
-TrashTuber Idle,TrashTuber Idle,TrashTuber inactif,False
-TrashTuber Talk,TrashTuber Talk,Discussion sur les TrashTubers,False
-TrashTuber Yap,TrashTuber Yap,TrashTuber Yap,False
+TrashTuber Idle,TrashTuber Idle,TrashTuber Inactif,False
+TrashTuber Talk,TrashTuber Talk,TrashTuber Parler,False
+TrashTuber Yap,TrashTuber Yap,TrashTuber Jacasser,False
 Cheers,Cheers,Acclamations,False
 Dance 1,Dance 1,Danse 1,False
 Dance (Caramelldansen),Dance (Caramelldansen),Danse (Caramelldansen),False
 Dance (Helltaker),Dance (Helltaker),Danse (Helltaker),False
-Dance (Low Cortisol),Dance (Low Cortisol),Danse (faible taux de cortisol),False
-Eat (Donut),Eat (Donut),Manger (beignet),False
-Eat (Popcorn),Eat (Popcorn),Manger (pop-corn),False
-Eat (Watermelon),Eat (Watermelon),Manger (pastèque),False
-Game,Game,Jeu,False
+Dance (Low Cortisol),Dance (Low Cortisol),Danse (Faible Taux de Cortisol),False
+Eat (Donut),Eat (Donut),Manger (Donut),False
+Eat (Popcorn),Eat (Popcorn),Manger (Pop-Corn),False
+Eat (Watermelon),Eat (Watermelon),Manger (Pastèque),False
+Game,Game,Jouer,False
 Greeting 1,Greeting 1,Salutation 1,False
 Greeting 2,Greeting 2,Salutation 2,False
 Sparkling 1,Sparkling 1,Pétillant 1,False
 Sparkling 2,Sparkling 2,Pétillant 2,False
-Think (Confident),Think (Confident),Pensez (confiant),False
-Think (Serious),Think (Serious),Réfléchissez (sérieux),False
+Think (Confident),Think (Confident),Réfléchir (Confiant),False
+Think (Serious),Think (Serious),Réfléchir (Sérieux),False
