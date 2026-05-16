@@ -53,12 +53,12 @@ Outfit Outer,Outfit Outer,Tenue Extérieure,False
 Outfit Neckwear A,Outfit Neckwear A,Tenue Cravate A,False
 Outfit Neckwear B,Outfit Neckwear B,Tenue Cravate B,False
 Outfit Neckwear C,Outfit Neckwear C,Tenue Cravate C,False
-Hair Side Branch >> A,Hair Side Branch >> A,Branchie Côté >> A,False
-Hair Side Branch >> B,Hair Side Branch >> B,Branchie Côté>> B,False
-Hair Side Branch >> C,Hair Side Branch >> C,Branchie Côté >> C,False
-Hair Side Branch << A,Hair Side Branch << A,Branchie Côté << A,False
-Hair Side Branch << B,Hair Side Branch << B,Branchie Côté << B,False
-Hair Side Branch << C,Hair Side Branch << C,Branchie Côté << C,False
+Hair Side Branch >> A,Hair Side Branch >> A,Épi Cheveux Côté >> A,False
+Hair Side Branch >> B,Hair Side Branch >> B,Épi Cheveux Côté>> B,False
+Hair Side Branch >> C,Hair Side Branch >> C,Épi Cheveux Côté >> C,False
+Hair Side Branch << A,Hair Side Branch << A,Épi Cheveux Côté << A,False
+Hair Side Branch << B,Hair Side Branch << B,Épi Cheveux Côté << B,False
+Hair Side Branch << C,Hair Side Branch << C,Épi Cheveux Côté << C,False
 Tail,Tail,Queue,False
 Wing,Wing,Ailes,False
 Facial Hair A,Facial Hair A,Barbe,False
