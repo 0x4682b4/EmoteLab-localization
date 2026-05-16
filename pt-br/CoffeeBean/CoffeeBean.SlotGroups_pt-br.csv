@@ -226,11 +226,11 @@ Earring >>,Earring >>,Brinco >>,True
 Earring <<,Earring <<,Brinco <<,True
 Earring >> Outline,Earring >> Outline,Brinco >> Contorno,True
 Earring << Outline,Earring << Outline,Brinco << Contorno,True
-Face Feature A >>,Face Feature A >>,Pintas >>,True
-Face Feature A <<,Face Feature A <<,Pintas <<,True
-Face Feature B >>,Face Feature B >>,Característica facial A >>,True
-Face Feature B <<,Face Feature B <<,Característica facial A <<,True
-Face Feature C,Face Feature C,Característica facial B,True
+Face Feature A >>,Face Feature A >>,Característica facial A >>,True
+Face Feature A <<,Face Feature A <<,Característica facial A <<,True
+Face Feature B >>,Face Feature B >>,Característica facial B >>,True
+Face Feature B <<,Face Feature B <<,Característica facial B <<,True
+Face Feature C,Face Feature C,Característica facial C,True
 Facial Hair A,Facial Hair A,Pêlos faciais A,True
 Facial Hair A Outline,Facial Hair A Outline,"Pêlos faciais A Contorno",True
 Facial Hair B,Facial Hair B,Pêlos faciais B,True
