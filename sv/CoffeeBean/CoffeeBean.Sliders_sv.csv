@@ -1,0 +1,35 @@
+Key,en,sv,reviewed
+Eyelash Length,Eyelash Length,Ögonfranslängd,False
+Brows Distance,Brows Distance,Brows Distance,False
+Brows Height,Brows Height,Brynens höjd,False
+Ear Shape 1,Ear Shape 1,Öronform 1,False
+Ear Shape 2,Ear Shape 2,Öronform 2,False
+Hair Bang >< Length,Hair Bang >< Length,Hair Bang >< Längd,False
+Hair Bang >< Shear,Hair Bang >< Shear,Hair Bang >< Shear,False
+Hair Bang >> Position,Hair Bang >> Position,Hair Bang >> Position,False
+Hair Bang >> Length,Hair Bang >> Length,Hair Bang >> Längd,False
+Hair Bang >> Shear,Hair Bang >> Shear,Hair Bang >> Sax,False
+Hair Bang << Position,Hair Bang << Position,Hair Bang << Position,False
+Hair Bang << Length,Hair Bang << Length,Hair Bang << Längd,False
+Hair Bang << Shear,Hair Bang << Shear,Hair Bang << Shear,False
+Hair Framing << Length,Hair Framing << Length,Hårinramning << Längd,False
+Hair Framing >> Length,Hair Framing >> Length,Hårinramning >> Längd,False
+Hair Side Length,Hair Side Length,Hårets sidolängd,False
+Hair Rear Length,Hair Rear Length,Hår baklängd,False
+Ahoge Position,Ahoge Position,Ahoge Position,False
+Ahoge Angle,Ahoge Angle,Ahoge Angle,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Djurets öra och antennposition,False
+Fin & Gill Position,Fin & Gill Position,Fin & Gill Position,False
+Halo Position,Halo Position,Halo Position,False
+Hat Position,Hat Position,Hattposition,False
+Horn >> Length,Horn >> Length,Horn >> Längd,False
+Horn << Length,Horn << Length,Horn << Längd,False
+Horn >< Length,Horn >< Length,Horn >< Längd,False
+Horn Position,Horn Position,Hornposition,False
+Ear Wing Position,Ear Wing Position,Öronvingeposition,False
+Wing Size,Wing Size,Vingstorlek,False
+Wing Position,Wing Position,Vingposition,False
+Wing Angle,Wing Angle,Vingevinkel,False
+Tail Size,Tail Size,Svansstorlek,False
+Tail Flip,Tail Flip,Tail Flip,False
+Tail Angle,Tail Angle,Svansvinkel,False
