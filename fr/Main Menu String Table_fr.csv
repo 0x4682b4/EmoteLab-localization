@@ -8,21 +8,21 @@ MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name
 MainMenu.Editor.Model,Models,Modèles,False
 MainMenu.Editor.Character,Character,Personnage,False
 MainMenu.Editor.Animation,Animation,Animation,False
-MainMenu.Editor.PartsSelection,Choose Parts,Choisir des pièces,False
-MainMenu.Editor.PartsAdjustment,Adjustment,Ajustement,False
+MainMenu.Editor.PartsSelection,Choose Parts,Choisir des Parties,False
+MainMenu.Editor.PartsAdjustment,Adjustment,Ajustements,False
 MainMenu.Search,Search...,Recherche...,False
-MainMenu.Editor.SaveCharacter,Save Character,Enregistrer le personnage,False
-MainMenu.Editor.Unload,Clear Character,Réinitialiser le personnage,False
-MainMenu.Editor.DeleteCharacter,Delete Character,Supprimer le personnage,False
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,Utiliser des textures personnalisées,False
-MainMenu.Editor.ReloadTextures,Reload Textures,Recharger les textures,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Ouvrir le dossier des textures personnalisées,False
+MainMenu.Editor.SaveCharacter,Save Character,Enregistrer le Personnage,False
+MainMenu.Editor.Unload,Clear Character,Réinitialiser le Personnage,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Supprimer le Personnage,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Utiliser des Textures Personnalisées,False
+MainMenu.Editor.ReloadTextures,Reload Textures,Recharger les Textures,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Ouvrir le Dossier des Textures Personnalisées,False
 MainMenu.Editor.Color,Color,Couleur,False
 MainMenu.Editor.TintColor,TintColor,TeinteCouleur,False
-MainMenu.Editor.TintBlackColor,TintBlackColor,TeinteNoirCouleur,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,TeinteNoireCouleur,False
 MainMenu.Editor.LICENSE,LICENSE,LICENCE,False
-MainMenu.Editor.AssetTypeAA,Default Assets,Actifs par défaut,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Actifs de tiers,False
+MainMenu.Editor.AssetTypeAA,Default Assets,Actifs par Défaut,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Assets Applications Tierces,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Le nom ne peut pas être vide.,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Le nom ne peut pas dépasser {0} caractères.,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Le nom ne peut pas contenir le caractère ""{0}"".",False
