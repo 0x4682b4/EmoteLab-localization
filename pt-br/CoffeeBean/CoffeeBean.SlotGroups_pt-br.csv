@@ -216,56 +216,56 @@ Wing >>,Wing >>,Asa >>,True
 Wing >> Outline,Wing >> Outline,Asa >> Contorno,True
 Wing <<,Wing <<,Asa <<,True
 Wing << Outline,Wing << Outline,Asa << Contorno,True
-Cape,Cape,Cabo,False
-Cape Outline,Cape Outline,Contorno do Cabo,False
-Cheek,Cheek,Bochecha,False
-Cockroach,Cockroach,Barata,False
-Controller,Controller,Controlador,False
-Donut,Donut,Rosquinha,False
-Earring >>,Earring >>,Brinco >>,False
-Earring <<,Earring <<,Brinco <<,False
-Earring >> Outline,Earring >> Outline,Brinco >> Contorno,False
-Earring << Outline,Earring << Outline,Brinco << Contorno,False
-Face Feature A >>,Face Feature A >>,Característica facial A >>,False
-Face Feature A <<,Face Feature A <<,Característica facial A <<,False
-Face Feature B >>,Face Feature B >>,Característica facial B >>,False
-Face Feature B <<,Face Feature B <<,Característica facial B <<,False
-Face Feature C,Face Feature C,Característica facial C,False
-Facial Hair A,Facial Hair A,Pêlos faciais A,False
-Facial Hair A Outline,Facial Hair A Outline,"Pêlos faciais, um contorno",False
-Facial Hair B,Facial Hair B,Pêlos faciais B,False
-Facial Hair B Outline,Facial Hair B Outline,Contorno B dos pêlos faciais,False
-Glove >>,Glove >>,Luva >>,False
-Glove >> Outline,Glove >> Outline,Luva >> Contorno,False
-Glove <<,Glove <<,Luva <<,False
-Glove << Outline,Glove << Outline,Luva << Contorno,False
-Hand >>,Hand >>,Mão >>,False
-Hand >> Outline,Hand >> Outline,Mão >> Contorno,False
-Hand <<,Hand <<,Mão <<,False
-Hand << Outline,Hand << Outline,Mão << Contorno,False
-Gun,Gun,Pistola,False
-Gun Flash,Gun Flash,Flash de arma,False
-Lubricant,Lubricant,Lubrificante,False
-Megaphone,Megaphone,Megafone,False
-Nose,Nose,Nariz,False
-Piercing A >>,Piercing A >>,Perfuração A >>,False
-Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Contorno,False
-Piercing A <<,Piercing A <<,Perfuração A <<,False
-Piercing A << Outline,Piercing A << Outline,Perfuração A << Contorno,False
-Piercing B >>,Piercing B >>,Perfuração B >>,False
-Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Contorno,False
-Piercing B <<,Piercing B <<,Perfuração B <<,False
-Piercing B << Outline,Piercing B << Outline,Piercing B << Contorno,False
-Pixel Sun Glasses,Pixel Sun Glasses,Óculos de sol pixelados,False
-Pompom >>,Pompom >>,Pompom >>,False
-Pompom <<,Pompom <<,Pompom <<,False
-Spray,Spray,Pulverizar,False
-Sticker Light Bulb,Sticker Light Bulb,Lâmpada adesiva,False
-Sticker Loading,Sticker Loading,Carregamento de adesivos,False
-Sunglasses,Sunglasses,Óculos de sol,False
-Sunglasses Reflection,Sunglasses Reflection,Reflexão de óculos de sol,False
-Tape,Tape,Fita,False
-Toilet,Toilet,Banheiro,False
-Trash Bin,Trash Bin,Lixeira,False
-Wave Hand,Wave Hand,Acenar mão,False
-Swatter,Swatter,mata-mata,False
+Cape,Cape,Cabo,True
+Cape Outline,Cape Outline,Capa Contorno,True
+Cheek,Cheek,Bochecha,True
+Cockroach,Cockroach,Barata,True
+Controller,Controller,Controle,True
+Donut,Donut,Rosquinha,True
+Earring >>,Earring >>,Brinco >>,True
+Earring <<,Earring <<,Brinco <<,True
+Earring >> Outline,Earring >> Outline,Brinco >> Contorno,True
+Earring << Outline,Earring << Outline,Brinco << Contorno,True
+Face Feature A >>,Face Feature A >>,Característica facial A >>,True
+Face Feature A <<,Face Feature A <<,Característica facial A <<,True
+Face Feature B >>,Face Feature B >>,Característica facial B >>,True
+Face Feature B <<,Face Feature B <<,Característica facial B <<,True
+Face Feature C,Face Feature C,Característica facial C,True
+Facial Hair A,Facial Hair A,Pêlos faciais A,True
+Facial Hair A Outline,Facial Hair A Outline,"Pêlos faciais A Contorno",True
+Facial Hair B,Facial Hair B,Pêlos faciais B,True
+Facial Hair B Outline,Facial Hair B Outline,Pêlos faciais B Contorno,True
+Glove >>,Glove >>,Luva >>,True
+Glove >> Outline,Glove >> Outline,Luva >> Contorno,True
+Glove <<,Glove <<,Luva <<,True
+Glove << Outline,Glove << Outline,Luva << Contorno,True
+Hand >>,Hand >>,Mão >>,True
+Hand >> Outline,Hand >> Outline,Mão >> Contorno,True
+Hand <<,Hand <<,Mão <<,True
+Hand << Outline,Hand << Outline,Mão << Contorno,True
+Gun,Gun,Pistola,True
+Gun Flash,Gun Flash,Tiro da pistola,True
+Lubricant,Lubricant,Lubrificante,True
+Megaphone,Megaphone,Megafone,True
+Nose,Nose,Nariz,True
+Piercing A >>,Piercing A >>,Piercing A >>,True
+Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Contorno,True
+Piercing A <<,Piercing A <<,Piercing A <<,True
+Piercing A << Outline,Piercing A << Outline,Piercing A << Contorno,True
+Piercing B >>,Piercing B >>,Piercing B >>,True
+Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Contorno,True
+Piercing B <<,Piercing B <<,Piercing B <<,True
+Piercing B << Outline,Piercing B << Outline,Piercing B << Contorno,True
+Pixel Sun Glasses,Pixel Sun Glasses,Óculos de sol Pixelados,True
+Pompom >>,Pompom >>,Pompom >>,True
+Pompom <<,Pompom <<,Pompom <<,True
+Spray,Spray,Pulverizador,True
+Sticker Light Bulb,Sticker Light Bulb,Sticker Lâmpada,True
+Sticker Loading,Sticker Loading,Sticker Carregando,True
+Sunglasses,Sunglasses,Óculos de Sol,True
+Sunglasses Reflection,Sunglasses Reflection,Reflexão do Óculos de Sol,True
+Tape,Tape,Fita,True
+Toilet,Toilet,Banheiro,True
+Trash Bin,Trash Bin,Lixeira,True
+Wave Hand,Wave Hand,Acenar mão,True
+Swatter,Swatter,Mata-mosca,True
