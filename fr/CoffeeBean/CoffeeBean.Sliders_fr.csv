@@ -26,7 +26,7 @@ Horn >> Length,Horn >> Length,Corne >> Longueur,True
 Horn << Length,Horn << Length,Corne << Longueur,True
 Horn >< Length,Horn >< Length,Corne >< Longueur,True
 Horn Position,Horn Position,Cornes Position,True
-Ear Wing Position,Ear Wing Position,Aile d'Oreille Position,True
+Ear Wing Position,Ear Wing Position,Ailes d'Oreilles Position,True
 Wing Size,Wing Size,Ailes Taille,True
 Wing Position,Wing Position,Aile Position,True
 Wing Angle,Wing Angle,Aile Angle,True
